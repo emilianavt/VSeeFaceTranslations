@@ -1,7 +1,7 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "日本語訳を改善したいと<u><link=\"https://www.vseeface.icu/#translations\">こちら</link></u>をご覧ください。"
+    "text": "日本語訳を改善したい方は<u><link=\"https://www.vseeface.icu/#translations\">こちら</link></u>をご覧ください。"
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
@@ -77,7 +77,7 @@
   },
   "Option A": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Template/Viewport/Content/Item/Item Label",
-    "text": "Option A"
+    "text": "オプションA"
   },
   "Camera Width": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/WidthContainer/CameraWidthLabel",
@@ -125,11 +125,11 @@
   },
   "Tracking": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
-    "text": "トラッキング質"
+    "text": "トラッキング品質"
   },
   "High quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
-    "text": "High quality"
+    "text": "高品質"
   },
   "Listen IP": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IPLabel",
@@ -145,11 +145,11 @@
   },
   "Port": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/PortLabel",
-    "text": "待機するボート"
+    "text": "待機するポート"
   },
   "Port (11573)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/Port/Placeholder",
-    "text": "待機するボート (11573)"
+    "text": "待機するポート (11573)"
   },
   "Start": {
     "comment": "VSeeFace/Canvas/UI/StartUI/StartButton/Text",
@@ -157,27 +157,27 @@
   },
   "English": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
-    "text": "English"
+    "text": "英語"
   },
   "Initializing avatar...": {
     "comment": "VSeeFace/Canvas/UI/Loading avatar message",
-    "text": "アバターを初期化します..."
+    "text": "アバターを初期化しています..."
   },
   "Loading camera list": {
     "comment": "VSeeFace/Canvas/UI/LoadingUI/Text",
-    "text": "ウェブカメラ数を読み込み中"
+    "text": "ウェブカメラを読み込み中"
   },
   "Failed to start tracker. This is most likely caused by a corrupted installation.": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Text",
-    "text": "Failed to start tracker. This is most likely caused by a corrupted installation."
+    "text": "トラッカーの起動に失敗しました。これは、インストールの失敗が原因である可能性があります。"
   },
   "Open logs": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Open logs/Text",
-    "text": "Open logs"
+    "text": "ログを開く"
   },
   "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it": {
     "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
-    "text": "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it"
+    "text": "<align=\"center\">[Error]</align>\nフェイストラッカーのプロセスが失われました。以下を試してください。：\n1）VSeeFaceを再起動し、カメラ設定を変更する\n2）他にカメラを使用していないことを確認する\n3）「一般設定」で顔追跡のオンとオフを切り替えて再起動します\n4）VSeeFaceを再ダウンロードして再インストールします"
   },
   "X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
@@ -293,23 +293,23 @@
   },
   "Fun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Fun/NotRecording/Record/Text",
-    "text": "Fun"
+    "text": "楽しい"
   },
   "Angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Angry/NotRecording/Record/Text",
-    "text": "Angry"
+    "text": "怒る"
   },
   "Joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Joy/NotRecording/Record/Text",
-    "text": "Joy"
+    "text": "喜び"
   },
   "Sorrow": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Sorrow/NotRecording/Record/Text",
-    "text": "Sorrow"
+    "text": "悲しみ"
   },
   "Surprised": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Surprise/NotRecording/Record/Text",
-    "text": "Surprised"
+    "text": "驚き"
   },
   "Stop recording neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/NeutralRed/Text",
@@ -385,11 +385,11 @@
   },
   "Enable broken effects": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable broken/Label",
-    "text": "Enable broken effects"
+    "text": "壊れた効果を有効にする"
   },
   "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
-    "text": "\nPost processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need."
+    "text": "\n後処理効果により、システムの負荷が増加します。現在まだ実験的であり、常に望ましい結果をもたらすとは限りません。具体的には、基本的にアバターの外側の領域には影響しません。\n\n私のシステムでは、後処理とすべての効果を有効にすると、CPU使用率がわずかに増加し、GPU使用率が2倍以上になります。有効にする効果が少ないほど影響が少ないため、実際に必要なものだけを有効にしてください。"
   },
   "Enable": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
@@ -397,7 +397,7 @@
   },
   "Don't cut at edge": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Fix alpha/Label",
-    "text": "Don't cut at edge"
+    "text": "端を切らない"
   },
   "#FFFFFF": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Hex color/InputField/Placeholder",
@@ -421,7 +421,7 @@
   },
   "Transparent bloom  strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Alpha/Text",
-    "text": "Transparent bloom strength"
+    "text": "透明部分のブルームの強度"
   },
   "Reset settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Reset/Text",
@@ -437,31 +437,31 @@
   },
   "Ultra": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:4",
-    "text": "Ultra"
+    "text": "ウルトラ"
   },
   "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Text",
-    "text": "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout."
+    "text": "まつげのメッシュが原因で目の周りに奇妙な影が発生した場合は、素材をカットアウトに設定してみてください。"
   },
   "Multiplier X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
-    "text": "Multiplier X"
+    "text": "乗数X"
   },
   "Multiplier Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier Y/Text",
-    "text": "Multiplier Y"
+    "text": "乗数Y"
   },
   "Center X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center X/Text",
-    "text": "Center X"
+    "text": "中央位置 X"
   },
   "Center Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center Y/Text",
-    "text": "Center Y"
+    "text": "中央位置 Y"
   },
   "Scale": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
-    "text": "Scale"
+    "text": "スケール"
   },
   "Cromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
@@ -469,307 +469,307 @@
   },
   "Color temperature": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Temperature/Text",
-    "text": "Color temperature"
+    "text": "色温度"
   },
   "Tint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Tint/Text",
-    "text": "Tint"
+    "text": "着色"
   },
   "Hue": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Hue/Text",
-    "text": "Hue"
+    "text": "色相"
   },
   "Saturation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Saturation/Text",
-    "text": "Saturation"
+    "text": "彩度"
   },
   "Brightness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Brightness/Text",
-    "text": "Brightness"
+    "text": "輝度"
   },
   "Contrast": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Contrast/Text",
-    "text": "Contrast"
+    "text": "コントラスト"
   },
   "Colored": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Colored/Label",
-    "text": "Colored"
+    "text": "有色"
   },
   "Size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
-    "text": "Size"
+    "text": "サイズ"
   },
   "Luminance contribution": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Luminance contribution/Text",
-    "text": "Luminance contribution"
+    "text": "輝度の寄与"
   },
   "Transparent grain strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
-    "text": "Transparent grain strength"
+    "text": "透明部分の粒子強度"
   },
   "Opaque background": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
-    "text": "Opaque background"
+    "text": "不透明な背景を追加"
   },
   "Black level": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Black level/Text",
-    "text": "Black level"
+    "text": "黒レベル"
   },
   "White level": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/White level/Text",
-    "text": "White level"
+    "text": "白レベル"
   },
   "Dot grid size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot grid size/Text",
-    "text": "Dot grid size"
+    "text": "ドットグリッドサイズ"
   },
   "Dot size factor": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
-    "text": "Dot size factor"
+    "text": "ドットサイズ係数"
   },
   "Leap Motion tracking hotkey": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Label",
-    "text": "Leap Motion tracking hotkey"
+    "text": "LeapMotionトラッキングホットキー"
   },
   "Button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
-    "text": "Button"
+    "text": "ボタン"
   },
   "Position: Right/left": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position X/Text",
-    "text": "Position: Right/left"
+    "text": "位置：右/左"
   },
   "Position: Height": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Y/Text",
-    "text": "Position: Height"
+    "text": "位置：高さ"
   },
   "Position: Forward": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Z/Text",
-    "text": "Position: Forward"
+    "text": "位置：前方"
   },
   "Transition time: Up (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Transition time in/Text",
-    "text": "Transition time: Up (0-2s)"
+    "text": "移行時間：アップ（0-2秒）"
   },
   "Detection range (0.3-1m)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Range limit/Toggle/Label",
-    "text": "Detection range (0.3-1m)"
+    "text": "検出範囲（0.3-1m）"
   },
   "Position: Attachment": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
-    "text": "Position: Attachment"
+    "text": "位置：アタッチメント"
   },
   "Flat on desk": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": "Flat on desk"
+    "text": "机上"
   },
   "Rotation X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation X/Text",
-    "text": "Rotation X"
+    "text": "回転 X"
   },
   "Rotation Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Y/Text",
-    "text": "Rotation Y"
+    "text": "回転 Y"
   },
   "Rotation Z": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Z/Text",
-    "text": "Rotation Z"
+    "text": "回転 Z"
   },
   "Transition time: Down (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Transition time out/Text",
-    "text": "Transition time: Down (0-2s)"
+    "text": "移行時間：ダウン（0-2秒）"
   },
   "Hands down delay (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
-    "text": "Hands down delay (0-2s)"
+    "text": "手を下すまでの時間（0-2秒）"
   },
   "Hands mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
-    "text": "Hands mode"
+    "text": "手のモード"
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
-    "text": "No swap"
+    "text": "入れ替えない"
   },
   "Desktop Mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
-    "text": "Desktop Mode"
+    "text": "デスクトップモード"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
-    "text": "Focal length (6-135mm)"
+    "text": "画面の焦点距離（6-135mm）"
   },
   "Blink sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink sensitivity/Text",
-    "text": "Blink sensitivity"
+    "text": "まばたき感度"
   },
   "Gaze strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze strength/Text",
-    "text": "Gaze strength"
+    "text": "視線の強さ"
   },
   "Gaze sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze sensitivity/Text",
-    "text": "Gaze sensitivity"
+    "text": "視線感度"
   },
   "Gaze offset up/down": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze up/down/Text",
-    "text": "Gaze offset up/down"
+    "text": "視線オフセット 上下"
   },
   "Gaze offset left/right": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze left/right/Text",
-    "text": "Gaze offset left/right"
+    "text": "視線オフセット 左右"
   },
   "Eyebrow strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow strength/Text",
-    "text": "Eyebrow strength"
+    "text": "眉毛の強さ"
   },
   "Eyebrow sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow sensitivity/Text",
-    "text": "Eyebrow sensitivity"
+    "text": "眉毛の感度"
   },
   "Eyebrow offset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow offset/Text",
-    "text": "Eyebrow offset"
+    "text": "眉オフセット"
   },
   "Lip  sync smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme smoothing/Text",
-    "text": "Lip  sync smoothing"
+    "text": "リップシンク 平滑化"
   },
   "Lip sync audio overdrive gain": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme gain/Text",
-    "text": "Lip sync audio overdrive gain"
+    "text": "音声リップシンクでの上書きゲイン"
   },
   "Mouth sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth sensitivity/Text",
-    "text": "Mouth sensitivity"
+    "text": "口の動き 感度"
   },
   "Mouth smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth smoothing/Text",
-    "text": "Mouth smoothing"
+    "text": "口の動き 平滑化"
   },
   "Mouth size reduction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth reduction/Text",
-    "text": "Mouth size reduction"
+    "text": "口の動きのサイズを縮小"
   },
   "Arm angle": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Arm angle/Text",
-    "text": "Arm angle"
+    "text": "腕の角度"
   },
   "Shoulder stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Shoulder stiffness/Text",
-    "text": "Shoulder stiffness"
+    "text": "肩の位置の固定度"
   },
   "Body stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Body stiffness/Text",
-    "text": "Body stiffness"
+    "text": "体の位置の固定度"
   },
   "Expression stabilizer": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Expression stabilizer/Text",
-    "text": "Expression stabilizer"
+    "text": "表情の安定化"
   },
   "Expression smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression smoothing/Text",
-    "text": "Expression smoothing"
+    "text": "表情 平滑化"
   },
   "Expression sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression sensitivity/Text",
-    "text": "Expression sensitivity"
+    "text": "表情 感度"
   },
   "Auto blink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:1",
-    "text": "Auto blink"
+    "text": "自動まばたき"
   },
   "Link eye blinks": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
-    "text": "Link eye blinks"
+    "text": "瞬きを同期"
   },
   "Smooth auto blink": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smooth auto blink/Label",
-    "text": "Smooth auto blink"
+    "text": "スムーズな自動瞬き"
   },
   "Synthetic gaze": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
-    "text": "Synthetic gaze"
+    "text": "視線を合成"
   },
   "Follow head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
-    "text": "Follow head movement"
+    "text": "頭の動きに従う"
   },
   "Audio lip sync (Hotkey:                                 )": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
-    "text": "Audio lip sync (Hotkey:                                 )"
+    "text": "音声リップシンク（ホットキー:                                 )"
   },
   "Always use full lip sync animation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",
-    "text": "Always use full lip sync animation"
+    "text": "常にフルリップシンクアニメーションを使用する"
   },
   "Hybrid lip sync/mouth tracking": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hybrid lip sync/Label",
-    "text": "Hybrid lip sync/mouth tracking"
+    "text": "ハイブリッドリップシンク/口トラッキング"
   },
   "Avatar locomotion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Avatar locomotion/Label",
-    "text": "Avatar locomotion"
+    "text": "アバターの移動"
   },
   "Mirror image while UI hidden with ※ button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
-    "text": "Mirror image while UI hidden with ※ button"
+    "text": "※ボタンでUIを非表示にして鏡像"
   },
   "Default camera position": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label",
-    "text": "Default camera position"
+    "text": "デフォルトのカメラ位置"
   },
   "Default": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
-    "text": "Default"
+    "text": "デフォルト"
   },
   "Save": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Save/Text",
-    "text": "Save"
+    "text": "保存する"
   },
   "Global reset position hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Global reset hotkey/Label",
-    "text": "Global reset position hotkey:"
+    "text": "グローバルリセット位置ホットキー："
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
-    "text": "Face tracking (disabling means no face movement and saves CPU)"
+    "text": "顔のトラッキング（無効にすると顔が動かず、CPUが節約されます）"
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
-    "text": "Expression detection"
+    "text": "表情を検出"
   },
   "None": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
-    "text": "None"
+    "text": "なし"
   },
   "Simple (fun, angry, surprised only)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple expression detection/Label",
-    "text": "Simple (fun, angry, surprised only)"
+    "text": "シンプル（楽しい、怒り、驚き のみ）"
   },
   "Graphics settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Graphics title",
-    "text": "Graphics settings"
+    "text": "グラフィック設定"
   },
   "Allow window resizing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resizable window/Label",
-    "text": "Allow window resizing"
+    "text": "ウィンドウのサイズ変更を許可"
   },
   "Anti-aliasing:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label",
-    "text": "Anti-aliasing:"
+    "text": "アンチエイリアシング："
   },
   "Really nice": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:0",
-    "text": "Really nice"
+    "text": "すごくいい"
   },
   "(high GPU load)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Warning",
-    "text": "(high GPU load)"
+    "text": "(GPU負荷が高い)"
   },
   "Resolution:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolution",
-    "text": "Resolution:"
+    "text": "解決："
   },
   "1600x900": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:3",
@@ -777,7 +777,7 @@
   },
   "Set": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Custom/Set/Text",
-    "text": "Set"
+    "text": "セット"
   },
   "VSync": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/VSync/Label",
@@ -785,7 +785,7 @@
   },
   "Cap frame rate:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label",
-    "text": "Cap frame rate: "
+    "text": "フレームレートをキャップ："
   },
   "60": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label/FPS cap/Placeholder",
@@ -793,99 +793,99 @@
   },
   "Device settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Devices title",
-    "text": "Device settings"
+    "text": "デバイス設定"
   },
   "Virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera title",
-    "text": "Virtual camera"
+    "text": "仮想カメラ"
   },
   "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera description",
-    "text": "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly."
+    "text": "有効にすると、仮想WebカメラがVSeeFace画像をエクスポートします。 UIがカメラに表示されることはありません。 Discordは自分のカメラをミラーリングして表示しますが、他の人には正しい向きで見えることに注意してください。"
   },
   "Enable virtual camera for this session": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
-    "text": "Enable virtual camera for this session"
+    "text": "このセッションで仮想カメラを有効にする"
   },
   "Low latency": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Low latency/Label",
-    "text": "Low latency"
+    "text": "低遅延"
   },
   "Install virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Install/Text",
-    "text": "Install virtual camera"
+    "text": "仮想カメラをインストールする"
   },
   "Uninstall virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Uninstall/Text",
-    "text": "Uninstall virtual camera"
+    "text": "仮想カメラをアンインストールする"
   },
   "Load background image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Load background image/Text",
-    "text": "Load background image"
+    "text": "背景画像を読み込む"
   },
   "Background image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Background",
-    "text": "Background image"
+    "text": "背景画像"
   },
   "Unload image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Unload image container/Unload image/Text",
-    "text": "Unload image"
+    "text": "画像を除去"
   },
   "Advanced": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Advanced",
-    "text": "Advanced"
+    "text": "高度"
   },
   "Less mesh updates (may make parts of avatar disappear, faster with many meshes)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Update offscreen/Label",
-    "text": "Less mesh updates (may make parts of avatar disappear, faster with many meshes)"
+    "text": "メッシュの更新を減らす(アバターの一部が消える可能性があり、メッシュが多いほど速くなります)"
   },
   "Use old lip sync model (lower accuracy)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lip sync provider/Label",
-    "text": "Use old lip sync model (lower accuracy)"
+    "text": "古いリップシンクモデルを使用(低精度)"
   },
   "Factory reset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
-    "text": "Factory reset"
+    "text": "工場出荷時の状態にリセット"
   },
   "Load and play audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Load and play audio/Text",
-    "text": "Load and play audio"
+    "text": "オーディオを読み込んで再生"
   },
   "Stop audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Stop audio/Text",
-    "text": "Stop audio"
+    "text": "音声を停止"
   },
   "Show tracking points": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Show tracking points/Text",
-    "text": "Show tracking points"
+    "text": "トラッキングポイントを表示"
   },
   "Hide tracking points": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Hide tracking points/Text",
-    "text": "Hide tracking points"
+    "text": "トラッキングポイントを非表示"
   },
   "Sun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Sun/Text",
-    "text": "Sun"
+    "text": "太陽"
   },
   "Ambient": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Ambient/Text",
-    "text": "Ambient"
+    "text": "アンビエント"
   },
   "Shadows": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Toggle/Label",
-    "text": "Shadows"
+    "text": "影"
   },
   "Save pos.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Save/Text",
-    "text": "Save pos."
+    "text": "位置を保存"
   },
   "Reset pos.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Reset/Text",
-    "text": "Reset pos."
+    "text": "位置をリセット"
   },
   "Ambient intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
-    "text": "Ambient intensity"
+    "text": "アンビエント強度"
   },
   "OK": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
@@ -937,55 +937,55 @@
   },
   "Medium quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
-    "text": "Medium quality"
+    "text": "中品質"
   },
   "Barely okay quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:2",
-    "text": "Barely okay quality"
+    "text": "かろうじて大丈夫な品質"
   },
   "Low quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:3",
-    "text": "Low quality"
+    "text": "低品質"
   },
   "Lowest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:0",
-    "text": "Lowest"
+    "text": "最低"
   },
   "Low": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:1",
-    "text": "Low"
+    "text": "低"
   },
   "Medium": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:2",
-    "text": "Medium"
+    "text": "中"
   },
   "High": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:3",
-    "text": "High"
+    "text": "高い"
   },
   "Chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:1",
-    "text": "Chest"
+    "text": "胸"
   },
   "Head or HMD": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:2",
-    "text": "Head or HMD"
+    "text": "頭またはHMD"
   },
   "Swap hands": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
-    "text": "Swap hands"
+    "text": "入れ替える"
   },
   "Head Mounted A": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:0",
-    "text": "Head Mounted A"
+    "text": "ヘッドマウントA"
   },
   "Head Mounted B": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:1",
-    "text": "Head Mounted B"
+    "text": "ヘッドマウントB"
   },
   "Look at camera": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:1",
-    "text": "Look at camera"
+    "text": "カメラを見てください"
   },
   "Closer": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
@@ -993,63 +993,63 @@
   },
   "Custom": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": "Custom"
+    "text": "カスタム 1"
   },
   "Custom 2": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": null
+    "text": "カスタム 2"
   },
   "Custom 3": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": null
+    "text": "カスタム 3"
   },
   "Custom 4": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:5",
-    "text": null
+    "text": "カスタム 4"
   },
   "Custom 5": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:6",
-    "text": null
+    "text": "カスタム 5"
   },
   "Custom 6": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
-    "text": null
+    "text": "カスタム 6"
   },
   "Custom 7": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
-    "text": null
+    "text": "カスタム 7"
   },
   "Custom 8": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": null
+    "text": "カスタム 8"
   },
   "Custom 9": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": null
+    "text": "カスタム 9"
   },
   "Custom 10": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": null
+    "text": "カスタム 10"
   },
   "16x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:1",
-    "text": "16x"
+    "text": "16倍"
   },
   "8x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:2",
-    "text": "8x"
+    "text": "8倍"
   },
   "4x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:3",
-    "text": "4x"
+    "text": "4倍"
   },
   "2x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:4",
-    "text": "2x"
+    "text": "2倍"
   },
   "Custom:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:0",
-    "text": "Custom:"
+    "text": "カスタム："
   },
   "960x540": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:1",
@@ -1081,75 +1081,75 @@
   },
   "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/Text (TMP)",
-    "text": "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data."
+    "text": "ノート：\n\n-スタートボタンを押した後、口と眉毛を小刻みに動かし、1〜2秒間点滅します。これは、フェイストラッカーのウォームアップに役立ちます。ゆっくりと頭を左右に回しても痛くはありません。\n\n-予期しないトラッキングの問題が発生した場合は、カメラに十分な光があることを確認してください。また、背後に強い光源がないことを確認してください。\n\n-CPU消費を減らすには、最初にFPSを下げます（例：30または15）。物事が遅すぎる場合は、「高速」モデルを試してください。\n\n-VRMファイルの式を変更するには、UnityでBlendShapeProxyを編集します。 「Surprise」式は、「Surprised」という名前で追加できます。\n\n-設定で実験的発現検出機能を有効にすることができます。注：式を確実に認識したい場合は、式を初めて調整するのに時間がかかります。\n\n-飛び込む前に、それぞれの表情を表現するためにさまざまな顔を引っ張る方法を考えてみてください。顔が違うほど、顔を認識しやすくなります。\n\n-式を調整するときは、頻繁に保存してください。誤って式に適合しない式データを記録した場合は、最新の保存をリロードしてください。クリアボタンは式のすべてのデータをリセットするため、最後の手段としてのみ使用してください。\n\n-式を調整したら、トラッカーを再度起動した後、少し時間を取って、それぞれが正しく認識されていることを確認します。問題がある場合は、データを少し追加してください。"
   },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
-    "text": "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)"
+    "text": "実験的な表現検出 (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">チュートリアル</link></u>)"
   },
   "Hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
-    "text": "Hotkeys"
+    "text": "ホットキー"
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction\n\n"
+    "text": "次のホットキーを使用して、このプログラム内のさまざまな機能をすばやく使用できます。<size=50%>\n\n</size>スペース表示/非表示UI非表示*ボタン\nR\t\tアバターのポーズをリセットする\nShift+R\tアバターのポーズを完全にリセット\nS\t\t高解像度のスクリーンショットを撮る\nShift+S\t3秒後にスクリーンショットを撮る\nL\t\t新しいVRMアバターをロードします\nC\t\tカメラをリセットします\nD\t\tライトの方向をリセットします\n\n"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
-    "text": "Global hotkeys"
+    "text": "グローバルホットキー"
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off."
+    "text": "このプログラムに焦点が合っていなくても、グローバルホットキーはどこからでも使用できます。\n\n Ctrl+Shift+F1 を押して Ctrl+Shift+F6 を押すと、対応する表情（Neutral、Fun、Angry、Joy、Sorrow、Surprise）が適用されます。もう一度押すと表情が止まりますが、直接別の表情に切り替えることもできます。\n\n Ctrl+Shift+F7 を押すと、LeapMotionベースのハンドトラッキングのオンとオフが切り替わります。"
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
-    "text": "Transparency/Greenscreen"
+    "text": "透明性/グリーンスクリーン"
   },
   "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
-    "text": "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent."
+    "text": "クロマキーで使用するために異なる背景色を設定することはサポートされていません。代わりに、このプログラムから真のアルファ透明度でキャプチャできます。これにより、アバターで任意の色の組み合わせを使用でき、半透明のオブジェクトも可能になります。\n\nこれを行うには、右下隅の*ボタンを押します。スペースキーを押すと、このボタンの表示と非表示を切り替えることができます。\n\nUIを非表示にすると、背景にチェックボードパターンが表示されます。 <u> <link = \"https://obsproject.com/\"> OBS Studio </ link> </ u>（またはStreamlabs OBS）の「GameCapture」ソースを使用してこのウィンドウをキャプチャし、「AllowTransparency」にチェックマークを付けます「ボックス。チェックボードパターンはOBSで消え、透明になります。"
   },
   "Hint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
-    "text": "Hint"
+    "text": "ヒント"
   },
   "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
-    "text": "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>."
+    "text": "このプログラムの使用に関するさらに役立つヒントについては、使用上の注意ボタンを確認してください。また、青いバーはカメラ画像の端に近いことを意味するため、その方向にそれ以上移動したくない場合があります。それらはOBSに表示されません。そして、<u><link=\"https://www.vseeface.icu/\">マニュアル</link></u>を確認してください。"
   },
   "Expression configuration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Title",
-    "text": "Expression configuration"
+    "text": "表情の構成"
   },
   "Each expression, including the neutral one, has a number of settings that can be configured. An expression can be a base or additive expression. Only one base expression can be active at a time, but additive expressions are added on top of others. Mouth, eye blink and eyebrow animation can be disabled. A global hotkey can be assigned for every expression. If it is set to \"Hold\", the expression is enabled while the key is held. If set to \"Toggle\", it will turn on and off with each button press. The transition slider can be used to set how long the smooth transition time to or from this expressions should be, from instantaneous to half a second.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Text (TMP)",
-    "text": "Each expression, including the neutral one, has a number of settings that can be configured. An expression can be a base or additive expression. Only one base expression can be active at a time, but additive expressions are added on top of others. Mouth, eye blink and eyebrow animation can be disabled. A global hotkey can be assigned for every expression. If it is set to \"Hold\", the expression is enabled while the key is held. If set to \"Toggle\", it will turn on and off with each button press. The transition slider can be used to set how long the smooth transition time to or from this expressions should be, from instantaneous to half a second.\n"
+    "text": "ニュートラルを含む各表情には、構成可能ないくつかの設定があります。表情は、基本表情と追加の表情があります。一度にアクティブにできる基本表情は1つだけですが、追加の表情は他の表情の上に追加されます。口、まばたき、眉毛のアニメーションを無効にすることができます。すべての式にグローバルホットキーを割り当てることができます。 「ホールド」に設定すると、キーを押している間、式が有効になります。 「トグル」に設定すると、ボタンを押すたびにオンとオフが切り替わります。トランジションスライダーを使用して、この式との間のスムーズなトランジション時間を瞬時から0.5秒まで設定できます。\n"
   },
   "Eyebrow tracking": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Title",
-    "text": "Eyebrow tracking"
+    "text": "眉毛のトラッキング"
   },
   "Eyebrow tracking is supported for <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Text (TMP)",
-    "text": "Eyebrow tracking is supported for <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions."
+    "text": "眉毛の追跡は、<u><link=\"https://vroid.com/en/studio/\">VRoid</link></u>と<u><link=\"https://fantia.jp/posts/164261\">セシル変身</link></u>のモデルでサポートされています。眉毛の動きの強さは「一般設定」で設定できます。眉のアニメーションをカスタマイズしたり、他のモデルタイプで機能させるには、2つのカスタム<u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRMブレンドシェイプクリップ</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) は、「Browsup」と「Browsdown」という名前で、それらを表情と適切に混合することができます。"
   },
   "Expression detection (experimental)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Title",
-    "text": "Expression detection (experimental)"
+    "text": "表情検出（実験）"
   },
   "The expression detection calibration process is a bit tedious and painful, so make sure to bring time. To use it, first enable it from the general settings menu. You can find a video walkthrough for the calibration process <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Make an expression with your face. More extreme expressions are easier to detect.\n- Press the corresponding button to start recording.\n- Move and turn your head around and talk while holding the expression.\n- Press the button again to stop recording.\n- Relax your face.\n- Repeat this for all expressions.\n- Press \"Calibrate\" and test the results.\n- If an expression gives you trouble, record more and \"Calibrate\" again.\n- If an expression is misdetected for a certain head pose, try recording more data for it in that pose.\n- Save when you are happy.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Text (TMP)",
-    "text": "The expression detection calibration process is a bit tedious and painful, so make sure to bring time. To use it, first enable it from the general settings menu. You can find a video walkthrough for the calibration process <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Make an expression with your face. More extreme expressions are easier to detect.\n- Press the corresponding button to start recording.\n- Move and turn your head around and talk while holding the expression.\n- Press the button again to stop recording.\n- Relax your face.\n- Repeat this for all expressions.\n- Press \"Calibrate\" and test the results.\n- If an expression gives you trouble, record more and \"Calibrate\" again.\n- If an expression is misdetected for a certain head pose, try recording more data for it in that pose.\n- Save when you are happy."
+    "text": "表情検出のキャリブレーション作業は少し面倒で面倒なので、時間を持ってくるようにしましょう。使用するには、まず一般設定メニューから有効にしてください。キャリブレーションの一連の手順を記録したビデオがあります <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">こちら</link></u>:\n\n- 表情を作ってみましょう。より極端な表情の方が判別しやすいです。\n- 対応するボタンを押すと、録画が始まります。\n- 表情を保ったまま動いたり、頭を回したり、話したりしてください。\n- もう一度ボタンを押すと、録画を停止します。\n- 顔をリラックスさせて、\n- これを全ての表情で繰り返します。\n- \"Calibrate\"を押して、結果をテストします。\n- ある表情で問題があれば、もっと録音して、もう一度\"Calibrate\"してみましょう。\n- もし、ある頭の向きで表現が誤検出された場合は、その向きのデータをもっと記録してみてください。\n- いいなと思った時に保存しておきましょう。"
   },
   "Camera and light": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Title",
-    "text": "Camera and light"
+    "text": "カメラとライト"
   },
   "The direction of light can be changed with Ctrl+Left click. The camera can be rotated with Alt+Left click. Alt+Right click or Alt+Mouse wheel can be used to zoom in and out. Alt+Middle click or Ctrl+Right click can be used to drag the view.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Text (TMP)",
-    "text": "The direction of light can be changed with Ctrl+Left click. The camera can be rotated with Alt+Left click. Alt+Right click or Alt+Mouse wheel can be used to zoom in and out. Alt+Middle click or Ctrl+Right click can be used to drag the view."
+    "text": "光の方向は、Ctrl+左クリックで変更できます。 Alt+左クリックでカメラを回転させることができます。 Alt+右クリックまたはAlt +マウスホイールを使用してズームインおよびズームアウトできます。 Alt+中クリックまたはCtrl+右クリックを使用してビューをドラッグできます。"
   },
   "<link></link> is in use by <b></b>, override?": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyOverride/Message/Text",
@@ -1161,47 +1161,47 @@
   },
   "Assigned <link></link> to <b></b>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyDone/Message/Text",
-    "text": "Assigned <link></link> to <b></b>"
+    "text": "<link></link> を <b></b>に割り当てました"
   },
   "English (en)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
-    "text": "English (en)"
+    "text": "英語（en）"
   },
   "Blink smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink smoothing/Text",
-    "text": "Blink smoothing"
+    "text": "瞬き スムージング"
   },
   "Neck stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Neck stiffness/Text",
-    "text": "Neck stiffness"
+    "text": "首の位置の固定度"
   },
   "Toaster (no eye/gaze/expression tracking)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:4",
-    "text": "Toaster (no eye/gaze/expression tracking)"
+    "text": "トースター（目/視線/表情追跡なし）"
   },
   "Please select a camera": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
-    "text": "Please select a camera"
+    "text": "カメラを選択してください"
   },
   "Please select an avatar": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoAvatar",
-    "text": "Please select an avatar"
+    "text": "アバターを選択してください"
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
-    "text": "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled."
+    "text": "警告：アバターの骨の回転はゼロではありません。 「フリーズポーズ」を有効にして、最初のVRMエクスポートを必ず実行してください。"
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
-    "text": "Smile to smile, surprised and angry are eye brows up and down."
+    "text": "微笑んで微笑んで、驚いて怒っているのは眉毛の上下です。"
   },
   "[Choose your camera here]": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera/Camera dropdown/Label",
-    "text": "[カメラを選択する]"
+    "text": "[カメラを選択してください]"
   },
   "Keep virtual camera enabled": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Keep virtual cam on/Label",
-    "text": "Keep virtual camera enabled"
+    "text": "仮想カメラを有効にしたままにする"
   },
   ">": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Navigation/>/Text",
@@ -1213,7 +1213,7 @@
   },
   "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Making sure nothing else is using the camera\n2) Toggling face tracking off and on in the \"General settings\" to restart it\n3) Restarting VSeeFace and changing the camera settings\n4) Redownloading VSeeFace and reinstalling it": {
     "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
-    "text": "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Making sure nothing else is using the camera\n2) Toggling face tracking off and on in the \"General settings\" to restart it\n3) Restarting VSeeFace and changing the camera settings\n4) Redownloading VSeeFace and reinstalling it"
+    "text": "<align=\"center\">[Error]</align>\n顔トラッキング処理が無くなりました。 以下を試してください:\n1) 他にカメラを使用していないことを確認する\n2) 「一般設定」でフェイストラッキングのオフとオンをトグルして再起動する\n3) VSeeFaceの再起動とカメラ設定の変更\n4) VSeeFaceの再ダウンロードと再インストール\t"
   },
   "Tutorial: Transparency in OBS/SLOBS (1)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Title",
@@ -1289,11 +1289,11 @@
   },
   "While looking down:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label",
-    "text": "While looking down:"
+    "text": "下向いている間："
   },
   "Blinks less sensitive": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:0",
-    "text": "Blinks less sensitive"
+    "text": "まばたき感度を下げる"
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
@@ -1305,7 +1305,7 @@
   },
   "Look down threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
-    "text": "Look down threshold"
+    "text": "下を見る判定の閾値"
   },
   "Skip": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
@@ -1313,7 +1313,7 @@
   },
   "Increase process priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/High priority/Label",
-    "text": "Increase process priority"
+    "text": "プロセスの優先度を上げる"
   },
   "Recommend Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/AutoPerformanceTune/AutoPerfTuneButton/Text",
@@ -1341,234 +1341,234 @@
   },
   "Try harder to detect faces": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Try hard/Label",
-    "text": "Try harder to detect faces"
+    "text": "顔を検出するためにもっと頑張ってください"
   },
   "Blackmagic capture card support": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Blackmagic/Label",
-    "text": "Blackmagic capture card support"
+    "text": "Blackmagicキャプチャカードのサポート"
   },
   "Keep hips mostly fixed": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lock hips/Label",
-    "text": "Keep hips mostly fixed"
+    "text": "腰をほぼ固定してください"
   },
   "Slow": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeDropdown",
-    "text": "Slow"
+    "text": "スロー"
   },
   "[Network tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
-    "text": "[Network tracking]"
+    "text": "[ネットワークトラッキング]"
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
-    "text": null
+    "text": "これらの設定は通常は必要ありません。\nこれらの設定は、奇妙な副作用が発生したり、パフォーマンスの問題につながる可能性があることに注意してください。\nおかしなことが起こる場合は、これらの設定をオフにしてみてください。"
   },
   "Animate jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
-    "text": null
+    "text": "あごのボーンをアニメートする"
   },
   "Wind strength": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind strength/Text",
-    "text": null
+    "text": "風の強さ"
   },
   "Wind angle": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
-    "text": null
+    "text": "風の向き"
   },
   "Enable VRM spring bone wind": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind/Label",
-    "text": null
+    "text": "VRM spring boneの風を有効にする"
   },
   "No wind effect for chest spring bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind skip chest/Label",
-    "text": null
+    "text": "胸のスプリングボーンに風を影響させない"
   },
   "Wind direction": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
-    "text": null
+    "text": "風向き"
   },
   "Wind time factor": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind time factor/Text",
-    "text": null
+    "text": "風の時間係数"
   },
   "Send data with OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC send/Label",
-    "text": null
+    "text": "OSC / VMCプロトコルでデータを送信する"
   },
   "T-pose for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Label",
-    "text": null
+    "text": "キャリブレーション用のTポーズ"
   },
   "IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Placeholder",
-    "text": null
+    "text": "IPアドレス"
   },
   "127.0.0.1": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Text",
-    "text": null
+    "text": "127.0.0.1"
   },
   "39540": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Port/Text",
-    "text": null
+    "text": "39540"
   },
   "Simulate turned hands for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Turn hands/Label",
-    "text": null
+    "text": "キャリブレーションのために回転した手をシミュレートする"
   },
   "OSC/VMC protocol receiver (disables tracking)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC receiving/Label",
-    "text": null
+    "text": "OSC / VMCプロトコル受信機（トラッキングを無効）"
   },
   "Apply VSeeFace tracking": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Mix and match/Label",
-    "text": null
+    "text": "VSeeFaceトラッキングを適用"
   },
   "Apply expressions": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Apply expressions/Label",
-    "text": null
+    "text": "表情を適用する"
   },
   "Track face features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track face features/Label",
-    "text": null
+    "text": "顔の特徴をトラッキング"
   },
   "Track head and neck": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track head and neck/Label",
-    "text": null
+    "text": "頭と首をトラッキング"
   },
   "Track fingers": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track fingers/Label",
-    "text": null
+    "text": "指をトラッキング"
   },
   "Track hands to shoulders": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track hands to shoulders/Label",
-    "text": null
+    "text": "手から肩までトラッキング"
   },
   "Track spine and chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track spine and chest/Label",
-    "text": null
+    "text": "背骨と胸をトラッキング"
   },
   "Track lower body": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track lower body/Label",
-    "text": null
+    "text": "下半身をトラッキング"
   },
   "Use VRoid style shade coloring": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use VRoid shade/Label",
-    "text": null
+    "text": "VRoidスタイルの影の色を使用"
   },
   "Start making your expression before beginning the recording.\nKeep it until after you stop the recording. Move your head, speak and blink your eyes.\nAnything that should not be detected as another expression should go into \"Neutral\".\nIf you accidentally make another expression, clear the data and start over.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/RecordingHelp/Help text",
-    "text": null
+    "text": "録音を始める前に、表情の作成を始めましょう。\n録音を停止するまで保管してください。頭を動かし、話し、まばたきをします。\n別の式として検出されるべきではないものはすべて「ニュートラル」に入る必要があります。\n誤って別の式を作成した場合は、データをクリアして最初からやり直してください。"
   },
   "Track blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track blendshapes/Label",
-    "text": null
+    "text": "ブレンドシェイプを追跡する"
   },
   "Track eye bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
-    "text": null
+    "text": "目（および顎）の骨を追跡する"
   },
   "Track jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
-    "text": null
+    "text": "顎の骨をトラッキング"
   },
   "OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
-    "text": null
+    "text": "OSC / VMCプロトコル"
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
-    "text": null
+    "text": "セカンダリOSC / VMCプロトコルレシーバー"
   },
   "Apply blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",
-    "text": null
+    "text": "ブレンドシェイプを適用"
   },
   "Apply eye bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track eyes/Label",
-    "text": null
+    "text": "目のボーンを適用"
   },
   "Apply jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track jaw/Label",
-    "text": null
+    "text": "あごのボーンを適用"
   },
   "Apply head and neck": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track head and neck/Label",
-    "text": null
+    "text": "頭と首を適用"
   },
   "Apply fingers": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track fingers/Label",
-    "text": null
+    "text": "指を適用"
   },
   "Apply hands to shoulders": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track hands to shoulders/Label",
-    "text": null
+    "text": "肩に手を適用"
   },
   "Apply spine and chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track spine and chest/Label",
-    "text": null
+    "text": "背骨と胸を適用します"
   },
   "Apply lower body": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track lower body/Label",
-    "text": null
+    "text": "下半身を適用"
   },
   "Camera hotkey:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/GameObject/Text",
-    "text": null
+    "text": "カメラホットキー"
   },
   "Press hotkey for <b></b>\n<size=70%>Press escape to cancel or shift+escape to unset.</size>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyListen/Message/Text",
-    "text": null
+    "text": "<b></b>のためにホットキーを押して下さい\n<size=70%>キャンセルするにはエスケープを押すか、設定を解除するにはshift+escapeを押してください。</size>"
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
-    "text": null
+    "text": "トラッキングロスタイムアウト"
   },
   "Tracking loss transition": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
-    "text": null
+    "text": "トラッキングロス時の推移"
   },
   "Reset pose on tracking loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss fade/Label",
-    "text": null
+    "text": "トラッキングロスでポーズをリセット"
   },
   "Enable gaze and eyebrow offset settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Offset sliders/Label",
-    "text": null
+    "text": "視線と眉毛のオフセット設定を有効にする"
   },
   "Barely okay quality, but faster": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
-    "text": null
+    "text": "かろうじてまぁまぁの品質だが、速い"
   },
   "Still better than toaster": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
-    "text": null
+    "text": "トースターよりはまだマシ"
   },
   "39539": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Port/Text",
-    "text": null
+    "text": "39539"
   },
   "Blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Blendshape smoothing",
-    "text": null
+    "text": "ブレンドシェイプのスムージング"
   },
   "Bone smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Bone smoothing",
-    "text": null
+    "text": "ボーンのスムージング"
   },
   "Auto reset position on full loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss recalibrate/Label",
-    "text": null
+    "text": "全トラッキングロス時のオートリセット位置"
   },
   "Show LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": null
+    "text": "LAN IPを表示"
   },
   "LAN IP:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address",
-    "text": null
+    "text": "LAN IP\t"
   },
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
-    "text": null
+    "text": "LANのIPを隠す"
   }
 }
