@@ -223,14 +223,6 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show help/Text",
     "text": "Perlihatkan bantuan"
   },
-  "Show usage notes": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show usage notes/Text",
-    "text": "Perlihatkan catatan penggunaan"
-  },
-  "Hide usage notes": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Hide usage notes/Text",
-    "text": "Sembunyikan catatan penggunaan"
-  },
   "Clear calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Clear calibration/Text",
     "text": "Hapus kalibrasi"
@@ -1079,10 +1071,6 @@
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
     "text": "Model normal oleh <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
   },
-  "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/Text (TMP)",
-    "text": "Catatan:\n\n- Setelah menekan mulai, gerakan mulut, alis, dan berkediplah sekejak. Ini akan membuat tracking wajah untuk mulai. Dan menggerakan kepala ke kiri dan kanan.\n\n- Jika menghadapi masalah tracking, Pastikan cahaya yang masuk ke kamera cukup. Pastikan juga tidak ada cahaya terang dari belakang.\n\n- Untuk mengurangi penggunaan cpu silahkan kurangi fps (mis. ke 30 atau 15). Jika terlalu lambat, Coba model \"Fast\".\n\n- Untuk mengubah expresi file VRM, ubah BlendShapeProxy di Unity. Expresi terkejut \"Surprise\" dapat di tambahkan di bawah nama \"Surprised\".\n\n- Kamu juga dapat menyalakan fitur experimen tracking expresi pada pengaturan. Catatan: Mengkalibrasi expresi pertamakali memakan waktu jika ingin secara benar di kenal.\n\n- Sebelum mencoba silahkan ambil waktu untuk memikirkan expresi wajah untuk setiap expresi. Semakin beda expresi, Akan lebih mudah untuk di ketahui.\n\n- ketika kalibrasi sering sering lah save. karene jika rekaman salah, bisa reload ke save sebelum nya. Tombol <b>clear</b> akan menghapus semua data expresi, sebaik nya di gunakan sebagai solusi terakhir.\n\n- Setelah selesai kalibrasi, dan tracker di mulai ulang, ambil waktu sesaat untuk memastikan bahwa semua expersi di kenal dengan baik. Jika ada masalah silahkan tambah sedikit data tambahan."
-  },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
     "text": null
@@ -1189,7 +1177,7 @@
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
-    "text": "Perhatian: Avatar memiliki rotasi tulang <b>non-zero</b>. Pastikan kamu mengexport VRM dengan pengaturan \"Freeze Pose\" di nyalakan"
+    "text": "Perhatian: Avatar memiliki rotasi tulang <b>non-zero</b>. Pastikan kamu mengexport VRM dengan pengaturan \"Pose Freeze\" di nyalakan"
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",

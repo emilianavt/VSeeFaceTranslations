@@ -223,14 +223,6 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show help/Text",
     "text": "Aide"
   },
-  "Show usage notes": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show usage notes/Text",
-    "text": "Astuces"
-  },
-  "Hide usage notes": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Hide usage notes/Text",
-    "text": "Astuces"
-  },
   "Clear calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Clear calibration/Text",
     "text": "Effacer l'étalonnage"
@@ -1079,10 +1071,6 @@
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
     "text": "Modèle par défaut réalisé avec <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
   },
-  "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/Text (TMP)",
-    "text": "Après avoir appuyé sur le boutton commencer, bougez votre tête, vos sourcils, votre bouche et clignez des yeux pendant une à deux secondes. Cela aide le tracking du visage à bien démarrer. Tournez également la tête doucement de droite à gauche.\n\n- Si vous rencontrez un problème de tracking innatendu, faites bien attention qu'il y ait assez de lumière pour votre caméra. Aussi, assurez-vous qu'aucune importante source de lumière se trouve derrière vous.\n\n- Pour réduire la consommation du processeur, baissez d'abord les IPS (ex. à 30 ou 15). Si les choses sont trop lentes, essayez le \"Fast\" modèle.\n\n- Pour modifier les expressions d'un fichier VRM, éditez le 'BlendShapeProxy' dans Unity. L'expression \"Surprise\" peut être ajoutée sous le nom \"Surprised\".\n\n- Vous pouvez activer la détection expérimentale des expressions dans les paramètres. Note: Calibrer vos expressions pour la première fois prendra du temps si vous voulez que ces dernières soient reconnues correctement.\n\n- Avant de commencer, prenez un moment de réfléchir à comment vous devrez représenter physiquement les différentes expressions faciales. Plus vos expressions du visage seront prononcées, plus le logiciel reconnaîtra facilement ces dernières.\n\n- Quand vous calibrez les expressions, sauvegardez régulièrement. Si, par accident, vos expressions enregistrées ne ressemblent pas aux expressions souhaitées, rechargez votre dernière sauvegarde. Le bouton effacer va réinitialiser toute vos données enregistrées pour l'expression concernée et ne devrait être utilisé qu'en dernier recours.\n\n- Une fois les expressions enregistrées, après avoir redémarrer le tracker, prenez un moment et vérifiez que chacune des expressions soient reconnues correctement. S'il y a le moindre problème, rajoutez un peu de donnée additionnelle."
-  },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
     "text": "Détection expérimentale des expressions (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutoriel</link></u>)"
@@ -1117,7 +1105,7 @@
   },
   "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
-    "text": "Pour des conseils plus utiles sur l'utilisation de ce programme, consultez le bouton des notes d'utilisation. De plus, les barres bleues signifient que vous êtes proche du bord de l'image de la caméra, vous ne voudrez peut-être pas vous déplacer plus loin dans cette direction. Ces derniers n'apparaîtront pas dans OBS. Et vérifiez le <u><link=\"https://www.vseeface.icu/\">manuel d'utilisation</link></u>."
+    "text": "Les barres bleues signifient que vous êtes proche du bord de l'image de la caméra, vous ne voudrez peut-être pas vous déplacer plus loin dans cette direction. Ces derniers n'apparaîtront pas dans OBS. Et vérifiez le <u><link=\"https://www.vseeface.icu/\">manuel d'utilisation</link></u>."
   },
   "Expression configuration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Title",
@@ -1189,7 +1177,7 @@
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
-    "text": "Attention: l'avatar à une rotation osseuse non-nulle. Assurez-vous de faire la première exportation VRM avec la \"Freeze Pose\" activée."
+    "text": "Attention: l'avatar à une rotation osseuse non-nulle. Assurez-vous de faire la première exportation VRM avec la \"Pose Freeze\" activée."
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",

@@ -1,7 +1,7 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "<size=65%><u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u>, <u><link=\"https://twitter.com/EthelChamomile\">@EthelChamomile</link></u>, <u><link=\"https://twitter.com/RafaelRiva0\">@RafaelRiva0</link></u>, <u><link=\"https://twitter.com/Aile_Rozy\">@Aile_Rozy</link></u>, <u><link=\"https://twitter.com/IriskovayaIRISK\">@IriskovayaIRISK</link></u>, <u><link=\"https://twitter.com/FrShuji\">@FrShuji</link></u></size>"
+    "text": "<size=65%><u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u>, <u><link=\"https://twitter.com/EthelChamomile\">@EthelChamomile</link></u>, <u><link=\"https://twitter.com/RafaelRiva0\">@RafaelRiva0</link></u>, <u><link=\"https://twitter.com/Aile_Rozy\">@Aile_Rozy</link></u>, <u><link=\"https://twitter.com/IriskovayaIRISK\">@IriskovayaIRISK</link></u>, <u><link=\"https://twitter.com/FrShuji\">@FrShuji</link></u>, <u><link=\"https://twitter.com/Kurogane_8_Gk\">@Kurogane_8_Gk</link></u></size>"
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
@@ -222,14 +222,6 @@
   "Show help": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show help/Text",
     "text": "Help"
-  },
-  "Show usage notes": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show usage notes/Text",
-    "text": "Hints"
-  },
-  "Hide usage notes": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Hide usage notes/Text",
-    "text": "Hints"
   },
   "Clear calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Clear calibration/Text",
@@ -1079,10 +1071,6 @@
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
     "text": "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
   },
-  "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/Text (TMP)",
-    "text": "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data."
-  },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
     "text": "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)"
@@ -1109,7 +1097,7 @@
   },
   "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
-    "text": "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent."
+    "text": "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkerboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkerboard pattern will disappear in OBS and turn transparent."
   },
   "Hint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
@@ -1117,7 +1105,7 @@
   },
   "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
-    "text": "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>."
+    "text": "The blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>."
   },
   "Expression configuration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Title",
@@ -1189,7 +1177,7 @@
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
-    "text": "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled."
+    "text": "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Pose Freeze\" enabled."
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
