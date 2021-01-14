@@ -313,27 +313,27 @@
   },
   "Stop recording neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/NeutralRed/Text",
-    "text": "Neutral録るのを停止する"
+    "text": "Neutralの記録を停止"
   },
   "Stop recording fun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/FunRed/Text",
-    "text": "Fun録るのを停止する"
+    "text": "Funの記録を停止"
   },
   "Stop recording angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/AngryRed/Text",
-    "text": "Angry録るのを停止する"
+    "text": "Angryの記録を停止"
   },
   "Stop recording joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/JoyRed/Text",
-    "text": "Joy録るのを停止する"
+    "text": "Joyの記録を停止"
   },
   "Stop recording sorrow": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SorrowRed/Text",
-    "text": "Sorrow録るのを停止する"
+    "text": "Sorrowの記録を停止"
   },
   "Stop recording surprised": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SurpriseRed/Text",
-    "text": "Surprised録るのを停止する"
+    "text": "Surprisedの記録を停止"
   },
   "Calibrate": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Calibrate/Text",
@@ -433,7 +433,7 @@
   },
   "Quality": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality",
-    "text": "質"
+    "text": "品質"
   },
   "Ultra": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:4",
@@ -589,7 +589,7 @@
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
-    "text": "非効果"
+    "text": "OFF"
   },
   "Desktop Mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
@@ -681,11 +681,11 @@
   },
   "Link eye blinks": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
-    "text": "瞬きを同期"
+    "text": "まばたきを同期"
   },
   "Smooth auto blink": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smooth auto blink/Label",
-    "text": "スムーズな自動瞬き"
+    "text": "スムーズな自動まばたき"
   },
   "Synthetic gaze": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
@@ -921,7 +921,7 @@
   },
   "Hold": {
     "comment": "LocalizationTools/Dummy/Expression config/Trigger/Label",
-    "text": "押す間"
+    "text": "ホールド"
   },
   "Toggle": {
     "comment": "LocalizationTools/Dummy/Expression config/Toggle/Label",
@@ -973,7 +973,7 @@
   },
   "Swap hands": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
-    "text": "効果"
+    "text": "ON"
   },
   "Head Mounted A": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:0",
@@ -1079,10 +1079,6 @@
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
     "text": "サンプルモデルは<u><link=\"https://twitter.com/Cecil_Channel\">スズキセシル</link></u>の<u><link=\"https://fantia.jp/posts/164261\">セシル変身</link></u>アプリで作成されました。"
   },
-  "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.": {
-    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/Text (TMP)",
-    "text": "ノート：\n\n-スタートボタンを押した後、口と眉毛を小刻みに動かし、1〜2秒間点滅します。これは、フェイストラッカーのウォームアップに役立ちます。ゆっくりと頭を左右に回しても痛くはありません。\n\n-予期しないトラッキングの問題が発生した場合は、カメラに十分な光があることを確認してください。また、背後に強い光源がないことを確認してください。\n\n-CPU消費を減らすには、最初にFPSを下げます（例：30または15）。物事が遅すぎる場合は、「高速」モデルを試してください。\n\n-VRMファイルの式を変更するには、UnityでBlendShapeProxyを編集します。 「Surprise」式は、「Surprised」という名前で追加できます。\n\n-設定で実験的発現検出機能を有効にすることができます。注：式を確実に認識したい場合は、式を初めて調整するのに時間がかかります。\n\n-飛び込む前に、それぞれの表情を表現するためにさまざまな顔を引っ張る方法を考えてみてください。顔が違うほど、顔を認識しやすくなります。\n\n-式を調整するときは、頻繁に保存してください。誤って式に適合しない式データを記録した場合は、最新の保存をリロードしてください。クリアボタンは式のすべてのデータをリセットするため、最後の手段としてのみ使用してください。\n\n-式を調整したら、トラッカーを再度起動した後、少し時間を取って、それぞれが正しく認識されていることを確認します。問題がある場合は、データを少し追加してください。"
-  },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
     "text": "実験的な表現検出 (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">チュートリアル</link></u>)"
@@ -1093,7 +1089,7 @@
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": "このプログラム内のさまざまな機能をホットキーですばやく使用できます。<size=50%>\n\n</size>スペース\t\t*ボタンを表示/非表示する\nR\t\tアバターのポーズをリセットする\nShift+R\tアバターのポーズを完全にリセットする\nS\t\t高解像度のスクリーンショットを撮る\nShift+S\t3秒後にスクリーンショットを撮る\nL\t\tVRMアバターをロードします\nC\t\tカメラの位置をリセットする\nD\t\tライトの方向をリセットする\n\n"
+    "text": "このプログラム内のさまざまな機能をホットキーですばやく使用できます。<size=50%>\n\n</size>スペース\t\t※ボタンを表示/非表示する\nR\t\tアバターのポーズをリセット\nShift+R\tアバターのポーズを完全にリセット\nS\t\t高解像度のスクリーンショットを撮る\nShift+S\t3秒後にスクリーンショットを撮る\nL\t\tVRMアバターをロード\nC\t\tカメラの位置をリセット\nD\t\tライトの方向をリセット\n\n"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
@@ -1101,15 +1097,15 @@
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": "このプログラムの外でもこのグローバルホットキーでも機能を使用できます。\n\n Ctrl+Shift+F1からCtrl+Shift+F6までを押すと各表情（Neutral、Fun、Angry、Joy、Sorrow、Surprise）が適用されます。もう一度押すと表情が止まりますが別の表情に切り替えることもできます。\n\n Ctrl+Shift+F7 を押すと、LeapMotionのハンドトラッキングのオンとオフがトグルされます。"
+    "text": "グローバルホットキーを使うとVSeeFaceのウィンドウが非アクティブでも以下の機能を使用できます。\n\n Ctrl+Shift+F1からCtrl+Shift+F6までを押すと各表情（Neutral、Fun、Angry、Joy、Sorrow、Surprise）が適用されます。もう一度押すと表情が止まりますが別の表情に切り替えることもできます。\n\n Ctrl+Shift+F7 を押すと、LeapMotionのハンドトラッキングのオンとオフがトグルされます。"
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
-    "text": "透明な背景/グリーンスクリーン"
+    "text": "透明な背景/グリーンバック"
   },
   "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
-    "text": "クロマキーで使用するために背景色を設定することはできません。代わりにアルファ透明度でキャプチャできます。アバターでどんな色を使っても大丈夫です。半透明の部分も可能です。\n\n右下隅の※ボタンを押すと透明モードが有効になってUIが非表示になります。スペースキーを押すと※ボタンが非表示か表示になります。\n\nUIを非表示にすると、背景にチェッカーボードパターンが表示されます。<u><link = \"https://obsproject.com/\">OBS Studio</link></u>（またはStreamlabs OBS）の「GameCapture」ソースを使用してこのウィンドウをキャプチャし、「AllowTransparency」にチェックマークを付けますチェッカーボードパターンはOBSで透明になります。"
+    "text": "クロマキーで使用するために背景色を設定することはできません。代わりにキャプチャ時に背景は透過されます。そのため、アバターでどんな色の組み合わせでも、半透明のもの使用可能です。\n\n右下隅の※ボタンを押すとUIが非表示になります。スペースキーを押すと※ボタンが非表示か表示になります。\n\nUIを非表示にすると、背景にチェッカーボードパターンが表示されます。<u><link = \"https://obsproject.com/\">OBS Studio</link></u>（またはStreamlabs OBS）の「ゲームキャプチャ」ソースを使用してこのウィンドウをキャプチャし、「透過を許可」にチェックマークを付けるとチェッカーボードパターンはOBSで透明になります。"
   },
   "Hint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
@@ -1125,7 +1121,7 @@
   },
   "Each expression, including the neutral one, has a number of settings that can be configured. An expression can be a base or additive expression. Only one base expression can be active at a time, but additive expressions are added on top of others. Mouth, eye blink and eyebrow animation can be disabled. A global hotkey can be assigned for every expression. If it is set to \"Hold\", the expression is enabled while the key is held. If set to \"Toggle\", it will turn on and off with each button press. The transition slider can be used to set how long the smooth transition time to or from this expressions should be, from instantaneous to half a second.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Text (TMP)",
-    "text": "Neutralを含む各表情には色々な設定があります。表情を基本表情か追加表情にするができます。基本表の中で一つだけが有効になれます。追加表情なら任意の数が同時に有効になれます。口、まばたき、眉毛のトラッキングを無効にすることができます。VSeeFace以外に使用できるグローバルホットキーを設定できます。「押す間」に設定するとキーを押している間表情が有効になります。「トグル」に設定するとボタンを押すたびにオンとオフが切り替わります。変化の時間のスライダーで表情がスムーズに変化する時間を瞬時から0.5秒まで設定できます。"
+    "text": "Neutralを含む各表情には色々な設定があります。表情には基本表情と追加表情の2種類があります。基本表情はそのうち一つだけを有効に出来ます。追加表情は任意の数を同時に有効に出来ます。各表情で口、まばたき、眉毛のトラッキングを無効にすることができます。VSeeFace以外で使用できるグローバルホットキーを設定できます。「ホールド」に設定するとキーを押している間表情が有効になります。「トグル」に設定するとボタンを押すたびに表情のオンとオフが切り替わります。変化の時間のスライダーで表情がスムーズに変化する時間を瞬時から0.5秒まで設定できます。"
   },
   "Eyebrow tracking": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Title",
@@ -1133,7 +1129,7 @@
   },
   "Eyebrow tracking is supported for <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Text (TMP)",
-    "text": "眉毛のトラッキングは<u><link=\"https://vroid.com/en/studio/\">VRoid</link></u>と<u><link=\"https://fantia.jp/posts/164261\">セシル変身</link></u>のモデルを変更せずに可能です。眉毛の動きの強さは「一般設定」で設定できます。眉毛の動きを調整したり他のモデルで機能させるには<u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM Blend Shape Clip</link></u>(<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>)のプリセットUnknownで「Brows up」と「Brows down」という名前でモデルに追加するのが必要です。そんなBlend Shape Clipがあれば眉毛のトラッキングと表情の眉毛ちゃんと機能できます。"
+    "text": "眉毛のトラッキングは<u><link=\"https://vroid.com/en/studio/\">VRoid</link></u>と<u><link=\"https://fantia.jp/posts/164261\">セシル変身</link></u>のモデルを変更せずに可能です。眉毛の動きの強さは「一般設定」で設定できます。眉毛の動きを調整したり他のモデルで機能させるには<u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM Blend Shape Clip</link></u>(<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>)のプリセットUnknownで「Brows up」と「Brows down」という名前でモデルに追加する必要があります。これらのBlend Shape Clipがあれば眉毛のトラッキングと表情の眉毛は正しく機能します。"
   },
   "Expression detection (experimental)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Title",
@@ -1141,7 +1137,7 @@
   },
   "The expression detection calibration process is a bit tedious and painful, so make sure to bring time. To use it, first enable it from the general settings menu. You can find a video walkthrough for the calibration process <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Make an expression with your face. More extreme expressions are easier to detect.\n- Press the corresponding button to start recording.\n- Move and turn your head around and talk while holding the expression.\n- Press the button again to stop recording.\n- Relax your face.\n- Repeat this for all expressions.\n- Press \"Calibrate\" and test the results.\n- If an expression gives you trouble, record more and \"Calibrate\" again.\n- If an expression is misdetected for a certain head pose, try recording more data for it in that pose.\n- Save when you are happy.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Text (TMP)",
-    "text": "表情検出のキャリブレーション作業は少し面倒で時間がかかります。まず一般設定から「実験的な表現検出」を有効にします。キャリブレーションのチュートリアル動画は<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">こちら</link></u>。基本的の使い方：\n\n- 表情を作ります。より極端な表情の方が判別しやすいです。\n- 表情のボタンを押すと顔の表情データが録られます。\n- 表情を保ったまま動いたり頭を回したり話したり間表情データを録ります。\n- もう一度ボタンを押すと録るのが停止します。\n- 停止後、顔をリラックスします。\n- 全ての表情で繰り返します。\n- \"較正する\"を押して結果をテストします。\n- ある表情で問題があればもっと表情データを録ってもう一度\"較正する\"を押してチェックします。\n- もしある頭の向きで表現が誤検出された場合はその向きのデータをもっと録るのがいいです。\n- ちゃんと表情が検出されると「較正を名前を付けて保存する」ブタンで保存します。"
+    "text": "表情検出のキャリブレーション作業は少し面倒で時間がかかります。まず一般設定から「実験的な表現検出」を有効にします。キャリブレーションのチュートリアル動画は<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">こちら</link></u>。基本的の使い方：\n\n- 表情を作ります。より極端な表情の方が判別しやすいです。\n- 表情のボタンを押すと顔の表情データが記録されます。\n- 表情を保ったまま動いたり頭を回したり話したりしている間の表情データを記録します。\n- もう一度ボタンを押すと記録が停止します。\n- 停止後、顔をリラックスします。\n- 全ての表情で繰り返します。\n- 「較正する」を押して結果をテストします。\n- ある表情で問題があればもっと表情データを記録して一度「較正する」を押してチェックします。\n- もしある頭の向きで表現が誤検出された場合はその向きのデータをもっと記録してみてください。\n- ちゃんと表情が検出されると「較正を名前を付けて保存する」ボタンで保存します。"
   },
   "Camera and light": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Title",
@@ -1169,7 +1165,7 @@
   },
   "Blink smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink smoothing/Text",
-    "text": "瞬き平滑化"
+    "text": "まばたき 平滑化"
   },
   "Neck stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Neck stiffness/Text",
@@ -1177,7 +1173,7 @@
   },
   "Toaster (no eye/gaze/expression tracking)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:4",
-    "text": "トースター級PC対象（瞬き/視線/表情トラッキングなし）"
+    "text": "トースター級PC対象（まばたき/視線/表情トラッキングなし）"
   },
   "Please select a camera": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
@@ -1329,11 +1325,11 @@
   },
   "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Recommendation",
-    "text": "おすすめの設定：\n\n<size=22>トラッキング質: {1}\nカメラのフレームレート: {2} fps</size>"
+    "text": "おすすめの設定：\n\n<size=22>トラッキング品質: {1}\nカメラのフレームレート: {2} fps</size>"
   },
   "Maximum speed per quality level": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results header",
-    "text": "トラッキング質レベルごとの最高速度"
+    "text": "トラッキング品質レベルごとの最高速度"
   },
   "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
@@ -1361,7 +1357,7 @@
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
-    "text": "これらの設定は通常には必要ありません。\n奇妙な行動かパフォーマンスの問題が発生することが可能なので注意してください。\nおかしなことが起こる場合は、これらの設定をオフにしてみてください。"
+    "text": "これらの設定は通常には必要ありません。\n奇妙な行動かパフォーマンスの問題が発生する可能性があるので注意してください。\nおかしなことが起こる場合は、これらの設定をオフにしてみてください。"
   },
   "Animate jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
