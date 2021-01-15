@@ -229,7 +229,7 @@
   },
   "Load calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load/Text",
-    "text": "Carregar Calibração\n"
+    "text": "Carregar Calibração"
   },
   "Save calibration as...": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save as/Text",
@@ -687,7 +687,7 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
     "text": "Movimento da cabeça"
   },
-  "Audio lip sync (Hotkey:                                 )": {
+  "Audio lip sync / Hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
     "text": "Lipsync c/ som - Atalho:"
   },

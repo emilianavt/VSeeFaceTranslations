@@ -687,7 +687,7 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
     "text": "Ikuti gerakan kepala"
   },
-  "Audio lip sync (Hotkey:                                 )": {
+  "Audio lip sync / Hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
     "text": "Hotkey lip sync audio:"
   },

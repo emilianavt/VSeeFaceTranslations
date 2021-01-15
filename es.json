@@ -687,9 +687,9 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
     "text": "Seguir movimiento de la cabeza"
   },
-  "Audio lip sync (Hotkey:                                 )": {
+  "Audio lip sync / Hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
-    "text": "Lipsync por audio (Atajo:                                 )"
+    "text": "Lipsync por audio / Atajo:"
   },
   "Always use full lip sync animation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",

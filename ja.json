@@ -229,7 +229,7 @@
   },
   "Load calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load/Text",
-    "text": "較正をロードする\n"
+    "text": "較正をロードする"
   },
   "Save calibration as...": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save as/Text",
@@ -687,9 +687,9 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
     "text": "頭の動きに従う"
   },
-  "Audio lip sync (Hotkey:                                 )": {
+  "Audio lip sync / Hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
-    "text": "音声リップシンク（ホットキー:                                 )"
+    "text": "音声リップシンク / ホットキー:"
   },
   "Always use full lip sync animation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",
@@ -721,7 +721,7 @@
   },
   "Global reset position hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Global reset hotkey/Label",
-    "text": "グローバルリセット位置ホットキー："
+    "text": "グローバルリセット位置ホットキー"
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
@@ -793,7 +793,7 @@
   },
   "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera description",
-    "text": "有効にすると、仮想WebカメラがVSeeFace画像をエクスポートします。 UIがカメラに表示されることはありません。 Discordは自分のカメラをミラーリングして表示しますが、他の人には正しい向きで見えることに注意してください。"
+    "text": "有効にすると、仮想WebカメラがVSeeFace画像を\nエクスポートします。 UIがカメラに表示されることは\nありません。 Discordは自分のカメラをミラーリング\nして表示しますが、他の人には正しい向きで\n見えることに注意してください。"
   },
   "Enable virtual camera for this session": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
@@ -805,11 +805,11 @@
   },
   "Install virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Install/Text",
-    "text": "仮想カメラをインストールする"
+    "text": "仮想カメラを\nインストールする"
   },
   "Uninstall virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Uninstall/Text",
-    "text": "仮想カメラをアンインストールする"
+    "text": "仮想カメラを\nアンインストールする"
   },
   "Load background image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Load background image/Text",
@@ -829,7 +829,7 @@
   },
   "Less mesh updates (may make parts of avatar disappear, faster with many meshes)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Update offscreen/Label",
-    "text": "メッシュの更新を減らす(アバターの一部が消える可能性があり、メッシュが多いほど速くなります)"
+    "text": "メッシュの更新を減らす(アバターの一部が消える\n可能性があり、メッシュが多いほど速くなります)"
   },
   "Use old lip sync model (lower accuracy)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lip sync provider/Label",
@@ -1181,7 +1181,7 @@
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
-    "text": "微笑んで微笑んで、驚いて怒っているのは眉毛の上下です。"
+    "text": "微笑んで微笑んで、驚いて\n怒っているのは眉毛の上下です。"
   },
   "[Choose your camera here]": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera/Camera dropdown/Label",
@@ -1349,7 +1349,7 @@
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
-    "text": "これらの設定は通常には必要ありません。\n奇妙な行動かパフォーマンスの問題が発生する可能性があるので注意してください。\nおかしなことが起こる場合は、これらの設定をオフにしてみてください。"
+    "text": "これらの設定は通常には必要ありません。\n奇妙な行動かパフォーマンスの問題が\n発生する可能性があるので注意してください。\nおかしなことが起こる場合は、\nこれらの設定をオフにしてみてください。"
   },
   "Animate jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
@@ -1445,7 +1445,7 @@
   },
   "Start making your expression before beginning the recording.\nKeep it until after you stop the recording. Move your head, speak and blink your eyes.\nAnything that should not be detected as another expression should go into \"Neutral\".\nIf you accidentally make another expression, clear the data and start over.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/RecordingHelp/Help text",
-    "text": "録るの前に顔で表情の作ってください。\n録るのを停止するまで表情のままにしてください。頭を動かしたり話したりまばたきしたりをするのがいいです。\n他の表情として検出されたくない表情を「Neutral」に入られる。\n操作ミスで表情のデータに別の表情が録られた場合、その表情のデータをクリアして最初からやり直してください。"
+    "text": "録るの前に顔で表情の作ってください。録るのを停止するまで表情のままにしてください。\n頭を動かしたり話したりまばたきしたりをするのがいいです。\n他の表情として検出されたくない表情を「Neutral」に入られる。\n操作ミスで表情のデータに別の表情が録られた場合、\nその表情のデータをクリアして最初からやり直してください。"
   },
   "Track blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track blendshapes/Label",
