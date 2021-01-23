@@ -127,6 +127,10 @@
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
     "text": "tracking"
   },
+  "High quality (wink support)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "Kualitas Tinggi (wink support)"
+  },
   "High quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
     "text": "Kualitas Tinggi"

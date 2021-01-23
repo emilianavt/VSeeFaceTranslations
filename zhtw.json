@@ -127,6 +127,10 @@
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
     "text": "追蹤品質"
   },
+  "High quality (wink support)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "高品質 (wink support)"
+  },
   "High quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
     "text": "高品質"
