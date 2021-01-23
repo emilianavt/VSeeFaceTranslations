@@ -127,6 +127,10 @@
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
     "text": "Qualité du tracking"
   },
+  "High quality (wink support)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "Haute qualité (wink support)"
+  },
   "High quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
     "text": "Haute qualité"
@@ -1165,7 +1169,7 @@
   },
   "Toaster (no eye/gaze/expression tracking)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:4",
-    "text": "Grille-pain (pas de tracking des yeux/du regard/des expressions)"
+    "text": "Grille-pain (pas de tracking)"
   },
   "Please select a camera": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
@@ -1409,154 +1413,154 @@
   },
   "Apply VSeeFace tracking": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Mix and match/Label",
-    "text": null
+    "text": "Appliquer le tracking VSeeFace"
   },
   "Apply expressions": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Apply expressions/Label",
-    "text": null
+    "text": "Appliquer les expressions"
   },
   "Track face features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track face features/Label",
-    "text": null
+    "text": "Suivi: fonctionnalités du visage"
   },
   "Track head and neck": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track head and neck/Label",
-    "text": null
+    "text": "Suivi: tête+cou"
   },
   "Track fingers": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track fingers/Label",
-    "text": null
+    "text": "Suivi: doigts"
   },
   "Track hands to shoulders": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track hands to shoulders/Label",
-    "text": null
+    "text": "Suivi: mains sur épaules"
   },
   "Track spine and chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track spine and chest/Label",
-    "text": null
+    "text": "Suivi: torse+dos"
   },
   "Track lower body": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track lower body/Label",
-    "text": null
+    "text": "Suivi: bas du corps"
   },
   "Use VRoid style shade coloring": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use VRoid shade/Label",
-    "text": null
+    "text": "Utilisez la coloration d'ombre de VRoid"
   },
   "Start making your expression before beginning the recording.\nKeep it until after you stop the recording. Move your head, speak and blink your eyes.\nAnything that should not be detected as another expression should go into \"Neutral\".\nIf you accidentally make another expression, clear the data and start over.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/RecordingHelp/Help text",
-    "text": null
+    "text": "Commencez à faire votre expression avant l'enregistrement.\nGardez la jusqu'à l'arrêt de l'enregistrement. Bougez votre tête, parlez et clignez des yeux.\nTout ce qui ne devrait pas être détecté comme une autre expression devrait aller dans \"Neutre\".\nSi vous faites accidentellement une autre expression, supprimez les données et recommencez."
   },
   "Track blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track blendshapes/Label",
-    "text": null
+    "text": "Suivi: *blendshapes*"
   },
   "Track eye bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
-    "text": null
+    "text": "Suivi: *bone* des yeux"
   },
   "Track jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
-    "text": null
+    "text": "Suivi: *bone* de la mâchoire"
   },
   "OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
-    "text": null
+    "text": "Protocole OSC/VMC"
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
-    "text": null
+    "text": "Récepteur de protocole secondaire OSC/VMC"
   },
   "Apply blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",
-    "text": null
+    "text": "Appliquer: *blendshapes*"
   },
   "Apply eye bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track eyes/Label",
-    "text": null
+    "text": "Appliquer: yeux *bones*"
   },
   "Apply jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track jaw/Label",
-    "text": null
+    "text": "Appliquer: mâchoire *bone*"
   },
   "Apply head and neck": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track head and neck/Label",
-    "text": null
+    "text": "Appliquer: tête + cou"
   },
   "Apply fingers": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track fingers/Label",
-    "text": null
+    "text": "Appliquer: doigts"
   },
   "Apply hands to shoulders": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track hands to shoulders/Label",
-    "text": null
+    "text": "Appliquer: mains sur les épaules"
   },
   "Apply spine and chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track spine and chest/Label",
-    "text": null
+    "text": "Appliquer: torse+dos"
   },
   "Apply lower body": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track lower body/Label",
-    "text": null
+    "text": "Appliquer: bas du corps"
   },
   "Camera hotkey:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/GameObject/Text",
-    "text": null
+    "text": "Raccourci caméra"
   },
   "Press hotkey for <b></b>\n<size=70%>Press escape to cancel or shift+escape to unset.</size>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyListen/Message/Text",
-    "text": null
+    "text": "Appuyez sur le raccourci pour <b></b>\n<size=70%>Appuyez sur échap pour annuler ou maj+échap pour supprimer.</size>"
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
-    "text": null
+    "text": "Suivi: temps morts"
   },
   "Tracking loss transition": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
-    "text": null
+    "text": "Suivi: pertes de transition"
   },
   "Reset pose on tracking loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss fade/Label",
-    "text": null
+    "text": "Réinit. la pose si perte du suivi"
   },
   "Enable gaze and eyebrow offset settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Offset sliders/Label",
-    "text": null
+    "text": "Activer les param. de décalage du regard & des sourcils"
   },
   "Barely okay quality, but faster": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
-    "text": null
+    "text": "Qualité plutôt ok, mais plus rapide"
   },
   "Still better than toaster": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
-    "text": null
+    "text": "Tjrs mieux qu'un grille-pain"
   },
   "39539": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Port/Text",
-    "text": null
+    "text": "39539"
   },
   "Blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Blendshape smoothing",
-    "text": null
+    "text": "Lissage *Blendshape*"
   },
   "Bone smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Bone smoothing",
-    "text": null
+    "text": "Lissage *bone*"
   },
   "Auto reset position on full loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss recalibrate/Label",
-    "text": null
+    "text": "Réinit. auto de la position en cas de perte totale"
   },
   "Show LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": null
+    "text": "Montrer: IP LAN"
   },
   "LAN IP:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address",
-    "text": null
+    "text": "IP LAN"
   },
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
-    "text": null
+    "text": "Cacher: IP LAN"
   }
 }
