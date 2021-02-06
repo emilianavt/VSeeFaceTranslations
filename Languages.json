@@ -6,5 +6,6 @@
   {"code": "ptbr", "name": "Português Brasileiro"},
   {"code": "zhtw", "name": "正體中文 (繁體)"},
   {"code": "ru", "name": "Русский"},
-  {"code": "fr", "name": "Français"}
+  {"code": "fr", "name": "Français"}, 
+  {"code":  "de", "name": "Deutsch"}
 ]
