@@ -581,15 +581,11 @@
   },
   "Hands mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
-    "text": "Hands mode"
+    "text": "Mirror mode"
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
-    "text": "No swap"
-  },
-  "Desktop Mode": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
-    "text": "Desktop Mode"
+    "text": "Off"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
@@ -685,7 +681,7 @@
   },
   "Synthetic gaze": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
-    "text": "Synthetic gaze"
+    "text": "Fake gaze"
   },
   "Follow head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
@@ -909,11 +905,11 @@
   },
   "Enable mouth animation": {
     "comment": "LocalizationTools/Dummy/Expression config/Mouth checkbox/Label",
-    "text": "Enable mouth animation"
+    "text": "Enable mouth tracking"
   },
   "Enable eyebrow animation": {
     "comment": "LocalizationTools/Dummy/Expression config/Brow checkbox/Label",
-    "text": "Enable eyebrow animation"
+    "text": "Enable eyebrow tracking"
   },
   "Hold": {
     "comment": "LocalizationTools/Dummy/Expression config/Trigger/Label",
@@ -969,15 +965,7 @@
   },
   "Swap hands": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
-    "text": "Swap hands"
-  },
-  "Head Mounted A": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:0",
-    "text": "Head Mounted A"
-  },
-  "Head Mounted B": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:1",
-    "text": "Head Mounted B"
+    "text": "On"
   },
   "Look at camera": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:1",
@@ -1289,7 +1277,7 @@
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
-    "text": "Camera defaults"
+    "text": "Please select (Camera defaults)"
   },
   "Camera Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
@@ -1330,10 +1318,6 @@
   "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
     "text": "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}"
-  },
-  "Try harder to detect faces": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Try hard/Label",
-    "text": "Try harder to detect faces"
   },
   "Blackmagic capture card support": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Blackmagic/Label",
@@ -1562,5 +1546,29 @@
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
     "text": "Hide LAN IP"
+  },
+  "Screen top (V5 only)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "Screen top (V5 only)"
+  },
+  "Please select your camera settings": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
+    "text": "Please select your camera settings"
+  },
+  "VSFAvatarOneTimeNotice": {
+    "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
+    "text": "Avatars in VSFAvatar format can contain many different functions and long running animations. Please only use VSFAvatar files you made yourself or got from a trusted source while streaming."
+  },
+  "VSFAvatarOneTimeNoticeTitle": {
+    "comment": "Title of the notice.",
+    "text": "Notice"
+  },
+  "Disable improved transparency": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
+    "text": "Disable enhanced transparency"
+  },
+  "Disable webcam FPS selection cap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
+    "text": "Disable webcam FPS selection cap"
   }
 }

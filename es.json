@@ -587,10 +587,6 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
     "text": "Sin cambio de mano"
   },
-  "Desktop Mode": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
-    "text": "Modo Escritorio"
-  },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
     "text": "Longitud Focal (6-135mm)"
@@ -971,14 +967,6 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
     "text": "Intercambiar manos"
   },
-  "Head Mounted A": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:0",
-    "text": "Montado en la cabeza A"
-  },
-  "Head Mounted B": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:1",
-    "text": "Montado en la cabeza B"
-  },
   "Look at camera": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:1",
     "text": "Mirar a la camara"
@@ -1331,10 +1319,6 @@
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
     "text": null
   },
-  "Try harder to detect faces": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Try hard/Label",
-    "text": null
-  },
   "Blackmagic capture card support": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Blackmagic/Label",
     "text": null
@@ -1561,6 +1545,30 @@
   },
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
+    "text": null
+  },
+  "Screen top (V5 only)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": null
+  },
+  "Please select your camera settings": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
+    "text": null
+  },
+  "VSFAvatarOneTimeNotice": {
+    "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
+    "text": null
+  },
+  "VSFAvatarOneTimeNoticeTitle": {
+    "comment": "Title of the notice.",
+    "text": null
+  },
+  "Disable improved transparency": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
+    "text": null
+  },
+  "Disable webcam FPS selection cap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
     "text": null
   }
 }

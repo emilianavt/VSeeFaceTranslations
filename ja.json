@@ -587,10 +587,6 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
     "text": "OFF"
   },
-  "Desktop Mode": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
-    "text": "デスクトップモード"
-  },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
     "text": "画面の焦点距離（6-135mm）"
@@ -685,7 +681,7 @@
   },
   "Synthetic gaze": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
-    "text": "視線を合成"
+    "text": "模擬視線トラッキング"
   },
   "Follow head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
@@ -970,14 +966,6 @@
   "Swap hands": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
     "text": "ON"
-  },
-  "Head Mounted A": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:0",
-    "text": "ヘッドマウントA"
-  },
-  "Head Mounted B": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:1",
-    "text": "ヘッドマウントB"
   },
   "Look at camera": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:1",
@@ -1289,7 +1277,7 @@
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
-    "text": "カメラのデフォルト"
+    "text": "選択してください（カメラのデフォルト）"
   },
   "Camera Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
@@ -1330,10 +1318,6 @@
   "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
     "text": "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}"
-  },
-  "Try harder to detect faces": {
-    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Try hard/Label",
-    "text": "顔を検出するためにもっと頑張ってください"
   },
   "Blackmagic capture card support": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Blackmagic/Label",
@@ -1562,5 +1546,29 @@
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
     "text": "LAN IPを非表示"
+  },
+  "Screen top (V5 only)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "画面の上（V5のみ）"
+  },
+  "Please select your camera settings": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
+    "text": "カメラの設定を選択してください。"
+  },
+  "VSFAvatarOneTimeNotice": {
+    "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
+    "text": "VSFAvatar形式のアバターにはさまざまな機能や長時間実行されるアニメーションを含めることができます。配信中には自分で作成したまたは信頼できるソースから取得したVSFAvatarファイルのみを使用してください。"
+  },
+  "VSFAvatarOneTimeNoticeTitle": {
+    "comment": "Title of the notice.",
+    "text": "通知"
+  },
+  "Disable improved transparency": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
+    "text": "強化された透明性を無効にする"
+  },
+  "Disable webcam FPS selection cap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
+    "text": "カメラのFPS選択メニュを無制限にする"
   }
 }
