@@ -1570,5 +1570,9 @@
   "Disable webcam FPS selection cap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
     "text": "カメラのFPS選択メニュを無制限にする"
+  },
+  "Use standard blendshape accumulation": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use standard blendshape accumulation/Label",
+    "text": "MAXではなくADDでブレンドシェイプを累積します"
   }
 }
