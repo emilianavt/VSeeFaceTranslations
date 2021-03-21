@@ -1582,5 +1582,21 @@
   "Smart wink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
     "text": "スマートウインク"
+  },
+  "Prevent vertical head movement": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
+    "text": "頭を上下動かないようにする"
+  },
+  "Normalize mouth blendshape sums > 1.0": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Normalize visemes/Label",
+    "text": "合計が1.0を超える値になる口のブレンドシェイプを正規化する"
+  },
+  "Disable packet bundling": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Disable packet bundling/Label",
+    "text": "UDPパケットをバンドルしない"
+  },
+  "Avoid desaturation on transparent pixels": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
+    "text": "透明ピクセルの彩度低下を回避する"
   }
 }
