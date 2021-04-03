@@ -293,7 +293,7 @@
   },
   "Angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Angry/NotRecording/Record/Text",
-    "text": "Angry(愤怒状态)"
+    "text": "Angry(生气状态)"
   },
   "Joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Joy/NotRecording/Record/Text",
@@ -317,7 +317,7 @@
   },
   "Stop recording angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/AngryRed/Text",
-    "text": "停止记录angry(愤怒状态)"
+    "text": "停止记录angry(生气状态)"
   },
   "Stop recording joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/JoyRed/Text",
@@ -1081,7 +1081,7 @@
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": "全局快捷键可以在任何地方使用，即便此程序最小化。\n\n按 Ctrl+Shift+F1 到 Ctrl+Shift+F6 将强制显示对应的表情 (Neutral, Fun, Angry, Joy, Sorrow, Surprise)。再按下后会停止显示该表情，但是你也可以直接切换到另一个表情。\n\n按 Ctrl+Shift+F7 将启用或关闭基于Leap Motion的手部追踪。"
+    "text": "全局快捷键可以在任何地方使用，即便此程序最小化。\n\n按 Ctrl+Shift+F1 到 Ctrl+Shift+F6 将强制显示对应的表情 (Neutral, Fun, Angry, Joy, Sorrow, Surprised)。再按下后会停止显示该表情，但是你也可以直接切换到另一个表情。\n\n按 Ctrl+Shift+F7 将启用或关闭基于Leap Motion的手部追踪。"
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
@@ -1173,7 +1173,7 @@
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
-    "text": "\"Smile(笑容状态)\"对应smile(笑容), \"surprised(惊讶状态)\"和\"angry(愤怒状态)\"分别对应\"Brows up(眉毛向上)\"和\"Brows down(眉毛向下)\"。"
+    "text": "\"微笑\"来触发\"fun(有趣状态)\"; \"眉毛向上\"来触发\"surprised(惊讶状态)\"; \"眉毛向下\"来触发\"angry(生气状态)\"。"
   },
   "[Choose your camera here]": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera/Camera dropdown/Label",
