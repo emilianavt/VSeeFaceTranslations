@@ -173,15 +173,15 @@
   },
   "Failed to start tracker. This is most likely caused by a corrupted installation.": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Text",
-    "text": "Gagal memulai tracking. Kemungkinan karena installasi yang korup."
+    "text": "Gagal memulai tracking. Kemungkinan karena installasi yang rusak."
   },
   "Open logs": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Open logs/Text",
-    "text": "Buka logs"
+    "text": "Buka catatan"
   },
   "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it": {
     "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
-    "text": "[Error]\nProses tracking hilang. Matikan dan nyalakan tracking wajah di \"Pengaturan umum\" untuk me restart. Ini dapat di sebabkan oleh pengaturan kamera yang tidak cocok. Kamu dapat mencoba mengubah nya di jendela awal. Bisa juga di sebabkan oleh installasi yang korup."
+    "text": "[Error]\nProses tracking hilang. Matikan dan nyalakan tracking wajah di \"Pengaturan umum\" untuk me restart. Ini dapat di sebabkan oleh pengaturan kamera yang tidak cocok. Kamu dapat mencoba mengubah nya di jendela awal. Bisa juga di sebabkan oleh installasi yang rusak."
   },
   "X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
@@ -189,7 +189,7 @@
   },
   "Load VRM avatar": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load VRM avatar/Text",
-    "text": "\t"
+    "text": "Muat avatar VRM\t"
   },
   "Avatar selection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Avatar selection/Text",
@@ -273,7 +273,7 @@
   },
   "Neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Record/Text",
-    "text": "Neutral"
+    "text": "Netral"
   },
   "Clear": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Clear/Text",
