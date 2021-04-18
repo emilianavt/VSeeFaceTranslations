@@ -857,7 +857,7 @@
   },
   "Sun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Sun/Text",
-    "text": null
+    "text": "Matahari"
   },
   "Ambient": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Ambient/Text",
@@ -869,11 +869,11 @@
   },
   "Save pos.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Save/Text",
-    "text": null
+    "text": "Simpan pos."
   },
   "Reset pos.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Reset/Text",
-    "text": null
+    "text": "Reset pos."
   },
   "Ambient intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
@@ -925,15 +925,15 @@
   },
   "Transition time (0s - 0.5s)": {
     "comment": "LocalizationTools/Dummy/Expression config/Transition time",
-    "text": null
+    "text": "Waktu transisi (0s - 0.5s)"
   },
   "Medium quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
-    "text": "Kualitas medium"
+    "text": "Kualitas sedang"
   },
   "Barely okay quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:2",
-    "text": "Kualitas lumayan"
+    "text": "Kualitas agak lumayan"
   },
   "Low quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:3",
@@ -941,7 +941,7 @@
   },
   "Lowest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:0",
-    "text": "Ter rendah"
+    "text": "Paling rendah"
   },
   "Low": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:1",
@@ -1073,15 +1073,15 @@
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": null
+    "text": "Kamu dapat menggunakan hotkey berikut untuk secara cepat menggunakan berbagai fungsi dalam program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
-    "text": "hotkey Global"
+    "text": "Hotkey global"
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": null
+    "text": "Global hotkey dapat di gunakan dari mana saja, bahkan ketika program sedang berjalan di belakang.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off."
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
@@ -1089,7 +1089,7 @@
   },
   "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
-    "text": null
+    "text": "Mengubah latar belakang yang berbeda untuk di gunakan oleh chroma key tidak di dukung. Kamu dapat mengcapture program ini menggunakan 'True alpha transparency', yang memungkinkan kamu untuk menggunakan kombinasi warna apa saja di avatar bahkan mengizinkan objek semi transparan.\n\nUntuk melakukan ini, tekan tombol ※ di sudut pojok kanan bawah. Kamu dapat menekan space untuk menampilkan dan menyembunyikan tombol ini.\n\nSetelah menyembunyikan UI, background akan menampilkan pola papan catur, gunakan \"Game Capture\" source di <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) untuk meng capture jendela ini dan centang kotak \"Allow Transparency\". Pola papan catur akan hilang di ons dan akan berubah transparan."
   },
   "Hint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
@@ -1097,7 +1097,7 @@
   },
   "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
-    "text": null
+    "text": "Untuk petunjuk lebih lanjut dalam menggunakan program ini, cek tombol 'usage notes'. Juga bar biru pada sudut layar berarti kamu sudah dekat dengan pinggir kamera, jadi kamu mungkin tidak mau bergerak lebih lagi ke arah tersebut. bar biru tidak akan nampak pada OBS. Juga cek link berikut <u><link=\"https://www.vseeface.icu/\">manual</link></u>."
   },
   "Expression configuration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Title",
