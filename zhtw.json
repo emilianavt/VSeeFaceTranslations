@@ -1453,7 +1453,7 @@
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
-    "text": "第二OSC/VMC協議接收器
+    "text": "第二OSC/VMC協議接收器"
   },
   "Apply blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",
@@ -1549,7 +1549,7 @@
   },
   "Screen top (V5 only)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": "螢幕上(V5獨有)
+    "text": "螢幕上(V5獨有)"
   },
   "Please select your camera settings": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
