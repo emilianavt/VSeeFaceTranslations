@@ -1598,5 +1598,61 @@
   "Avoid desaturation on transparent pixels": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
     "text": "Avoid desaturation on transparent pixels"
+  },
+  "OnlyAuthor": {
+    "comment": "VRM Allowed User: OnlyAuthor",
+    "text": "Only Author"
+  },
+  "ExplicitlyLicensedPerson": {
+    "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
+    "text": "Explicitly Licensed Person"
+  },
+  "Everyone": {
+    "comment": "VRM Allowed User: Everyone",
+    "text": "Everyone"
+  },
+  "Allow": {
+    "comment": "VRM Usage: Allow",
+    "text": "Allow"
+  },
+  "Disallow": {
+    "comment": "VRM Usage: Disallow",
+    "text": "Disallow"
+  },
+  "Redistribution_Prohibited": {
+    "comment": "VRM License Type: Redistribution_Prohibited",
+    "text": "Redistribution Prohibited"
+  },
+  "CC0": {
+    "comment": "VRM License Type: CC0",
+    "text": "CC0"
+  },
+  "CC_BY": {
+    "comment": "VRM License Type: CC_BY",
+    "text": "CC BY"
+  },
+  "CC_BY_NC": {
+    "comment": "VRM License Type: CC_BY_NC",
+    "text": "CC BY-NC"
+  },
+  "CC_BY_SA": {
+    "comment": "VRM License Type: CC_BY_SA",
+    "text": "CC BY-SA"
+  },
+  "CC_BY_NC_SA": {
+    "comment": "VRM License Type: CC_BY_NC_SA",
+    "text": "CC BY-NC-SA"
+  },
+  "CC_BY_ND": {
+    "comment": "VRM License Type: CC_BY_ND",
+    "text": "CC BY-ND"
+  },
+  "CC_BY_NC_ND": {
+    "comment": "VRM License Type: CC_BY_NC_ND",
+    "text": "CC BY-NC-ND"
+  },
+  "Other": {
+    "comment": "VRM License Type: Other",
+    "text": "Other"
   }
 }

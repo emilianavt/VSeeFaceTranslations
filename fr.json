@@ -269,7 +269,7 @@
   },
   "Drift speed": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift speed/Text",
-    "text": "Vitesse de dérive"
+    "text": "Vitesse de retour"
   },
   "Neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Record/Text",
@@ -669,15 +669,15 @@
   },
   "Auto blink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:1",
-    "text": "Cligner des yeux automatiquement"
+    "text": "Auto clignement"
   },
   "Link eye blinks": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
-    "text": "Lier le clignement"
+    "text": "Lier les yeux lors clignement"
   },
   "Smooth auto blink": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smooth auto blink/Label",
-    "text": "Lissage du clignottement des yeux automatique"
+    "text": "Lisser l'auto clignement"
   },
   "Synthetic gaze": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
@@ -1285,7 +1285,7 @@
   },
   "Look down threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
-    "text": "Seuil lorsque vous regardez vers le bas"
+    "text": "Seuil de regard bas"
   },
   "Skip": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
@@ -1598,5 +1598,61 @@
   "Avoid desaturation on transparent pixels": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
     "text": null
+  },
+  "OnlyAuthor": {
+    "comment": "VRM Allowed User: OnlyAuthor",
+    "text": "Auteur seulement"
+  },
+  "ExplicitlyLicensedPerson": {
+    "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
+    "text": "Personne sous licence explicite"
+  },
+  "Everyone": {
+    "comment": "VRM Allowed User: Everyone",
+    "text": "Tout le monde"
+  },
+  "Allow": {
+    "comment": "VRM Usage: Allow",
+    "text": "Permis"
+  },
+  "Disallow": {
+    "comment": "VRM Usage: Disallow",
+    "text": "Interdit"
+  },
+  "Redistribution_Prohibited": {
+    "comment": "VRM License Type: Redistribution_Prohibited",
+    "text": "Redistribution interdite"
+  },
+  "CC0": {
+    "comment": "VRM License Type: CC0",
+    "text": "CC0"
+  },
+  "CC_BY": {
+    "comment": "VRM License Type: CC_BY",
+    "text": "CC BY"
+  },
+  "CC_BY_NC": {
+    "comment": "VRM License Type: CC_BY_NC",
+    "text": "CC BY-NC"
+  },
+  "CC_BY_SA": {
+    "comment": "VRM License Type: CC_BY_SA",
+    "text": "CC BY-SA"
+  },
+  "CC_BY_NC_SA": {
+    "comment": "VRM License Type: CC_BY_NC_SA",
+    "text": "CC BY-NC-SA"
+  },
+  "CC_BY_ND": {
+    "comment": "VRM License Type: CC_BY_ND",
+    "text": "CC BY-ND"
+  },
+  "CC_BY_NC_ND": {
+    "comment": "VRM License Type: CC_BY_NC_ND",
+    "text": "CC BY-NC-ND"
+  },
+  "Other": {
+    "comment": "VRM License Type: Other",
+    "text": "Autre"
   }
 }
