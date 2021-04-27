@@ -1598,5 +1598,65 @@
   "Avoid desaturation on transparent pixels": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
     "text": "避免透明像素去飽和"
+  },
+  "OnlyAuthor": {
+    "comment": "VRM Allowed User: OnlyAuthor",
+    "text": null
+  },
+  "ExplicitlyLicensedPerson": {
+    "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
+    "text": null
+  },
+  "Everyone": {
+    "comment": "VRM Allowed User: Everyone",
+    "text": null
+  },
+  "Allow": {
+    "comment": "VRM Usage: Allow",
+    "text": null
+  },
+  "Disallow": {
+    "comment": "VRM Usage: Disallow",
+    "text": null
+  },
+  "Redistribution_Prohibited": {
+    "comment": "VRM License Type: Redistribution_Prohibited",
+    "text": null
+  },
+  "CC0": {
+    "comment": "VRM License Type: CC0",
+    "text": null
+  },
+  "CC_BY": {
+    "comment": "VRM License Type: CC_BY",
+    "text": null
+  },
+  "CC_BY_NC": {
+    "comment": "VRM License Type: CC_BY_NC",
+    "text": null
+  },
+  "CC_BY_SA": {
+    "comment": "VRM License Type: CC_BY_SA",
+    "text": null
+  },
+  "CC_BY_NC_SA": {
+    "comment": "VRM License Type: CC_BY_NC_SA",
+    "text": null
+  },
+  "CC_BY_ND": {
+    "comment": "VRM License Type: CC_BY_ND",
+    "text": null
+  },
+  "CC_BY_NC_ND": {
+    "comment": "VRM License Type: CC_BY_NC_ND",
+    "text": null
+  },
+  "Other": {
+    "comment": "VRM License Type: Other",
+    "text": null
+  },
+  "Hide avatar": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
+    "text": null
   }
 }

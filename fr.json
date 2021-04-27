@@ -1654,5 +1654,9 @@
   "Other": {
     "comment": "VRM License Type: Other",
     "text": "Autre"
+  },
+  "Hide avatar": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
+    "text": "Cacher l'avatar"
   }
 }
