@@ -1,7 +1,7 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "<u><link=\"https://twitter.com/FrShuji\">@FrShuji</link></u> (French)"
+    "text": "<u><link=\"https://twitter.com/FrShuji\">@FrShuji</link></u>, <u><link=\"https://twitter.com/Virtual_Deat\">@Virtual_Deat</link></u> (French)"
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
@@ -465,7 +465,7 @@
   },
   "Color temperature": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Temperature/Text",
-    "text": "Couleur de la température"
+    "text": "Température"
   },
   "Tint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Tint/Text",
@@ -585,7 +585,7 @@
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
-    "text": "Pas de swap"
+    "text": "Pas d'échange"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
@@ -709,7 +709,7 @@
   },
   "Default camera position": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label",
-    "text": "Pos. de caméra (défaut)"
+    "text": "Position caméra par défaut"
   },
   "Default": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
@@ -777,7 +777,7 @@
   },
   "Cap frame rate:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label",
-    "text": "<size=9%>Images par seconde max:</size>"
+    "text": "Framerate max"
   },
   "60": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label/FPS cap/Placeholder",
@@ -977,43 +977,43 @@
   },
   "Custom": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": "Personnaliser"
+    "text": "Perso"
   },
   "Custom 2": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": "Personnaliser 2"
+    "text": "Perso 2"
   },
   "Custom 3": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": "Personnaliser 3"
+    "text": "Perso 3"
   },
   "Custom 4": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:5",
-    "text": "Personnaliser 4"
+    "text": "Perso 4"
   },
   "Custom 5": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:6",
-    "text": "Personnaliser 5"
+    "text": "Perso 5"
   },
   "Custom 6": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
-    "text": "Personnaliser 6"
+    "text": "Perso 6"
   },
   "Custom 7": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
-    "text": "Personnaliser 7"
+    "text": "Perso 7"
   },
   "Custom 8": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": "Personnaliser 8"
+    "text": "Perso 8"
   },
   "Custom 9": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": "Personnaliser 9"
+    "text": "Perso 9"
   },
   "Custom 10": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": "Personnaliser 10"
+    "text": "Perso 10"
   },
   "16x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:1",
@@ -1161,11 +1161,11 @@
   },
   "Please select a camera": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
-    "text": "Merci de sélectionner une caméra"
+    "text": "Veuillez sélectionner une caméra"
   },
   "Please select an avatar": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoAvatar",
-    "text": "Merci de sélectionner un avatar"
+    "text": "Veuillez sélectionner un avatar"
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
@@ -1277,7 +1277,7 @@
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
-    "text": null
+    "text": "Configuration caméra par défaut"
   },
   "Camera Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
@@ -1353,7 +1353,7 @@
   },
   "Enable VRM spring bone wind": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind/Label",
-    "text": "Activer le vent 'VRM spring bone'"
+    "text": "Activer le vent sur les spring bones VRM"
   },
   "No wind effect for chest spring bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind skip chest/Label",
@@ -1549,55 +1549,55 @@
   },
   "Screen top (V5 only)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": null
+    "text": "Haut de l'écran (V5 seulement)"
   },
   "Please select your camera settings": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
-    "text": null
+    "text": "Veuillez choisir les paramètres de caméra"
   },
   "VSFAvatarOneTimeNotice": {
     "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
-    "text": null
+    "text": "Les avatars au format VSFAvatar peuvent contenir différentes fonctions et animations longues. Veuillez n'utiliser pendant un livestream que des fichiers VSFAvatar que vous avez fait vous-même ou d'une source sûre."
   },
   "VSFAvatarOneTimeNoticeTitle": {
     "comment": "Title of the notice.",
-    "text": null
+    "text": "Avertissement"
   },
   "Disable improved transparency": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
-    "text": null
+    "text": "Désactiver transparence avancée"
   },
   "Disable webcam FPS selection cap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
-    "text": null
+    "text": "Désactiver limite de sélection d'IPS webcam"
   },
   "Use standard blendshape accumulation": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use standard blendshape accumulation/Label",
-    "text": null
+    "text": "Utiliser l'accumulation de blendshape standard"
   },
   "Smart wink threshold": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Smart wink threshold/Text",
-    "text": null
+    "text": "Seuil Clin d'oeil intelligent"
   },
   "Smart wink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
-    "text": null
+    "text": "Clin d'oeil intelligent"
   },
   "Prevent vertical head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
-    "text": null
+    "text": "Empêcher mouvement de tête vertical"
   },
   "Normalize mouth blendshape sums > 1.0": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Normalize visemes/Label",
-    "text": null
+    "text": "Normaliser les sommes des blendshapes de la bouche > 1.0"
   },
   "Disable packet bundling": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Disable packet bundling/Label",
-    "text": null
+    "text": "Désactiver le groupement de paquets"
   },
   "Avoid desaturation on transparent pixels": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
-    "text": null
+    "text": "Éviter la désaturation des pixels transparents"
   },
   "OnlyAuthor": {
     "comment": "VRM Allowed User: OnlyAuthor",
