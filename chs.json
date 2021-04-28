@@ -1601,62 +1601,62 @@
   },
   "OnlyAuthor": {
     "comment": "VRM Allowed User: OnlyAuthor",
-    "text": null
+    "text": "仅作者"
   },
   "ExplicitlyLicensedPerson": {
     "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
-    "text": null
+    "text": "特定的被授权人"
   },
   "Everyone": {
     "comment": "VRM Allowed User: Everyone",
-    "text": null
+    "text": "任何人"
   },
   "Allow": {
     "comment": "VRM Usage: Allow",
-    "text": null
+    "text": "允许"
   },
   "Disallow": {
     "comment": "VRM Usage: Disallow",
-    "text": null
+    "text": "不允许"
   },
   "Redistribution_Prohibited": {
     "comment": "VRM License Type: Redistribution_Prohibited",
-    "text": null
+    "text": "文件再传播禁止"
   },
   "CC0": {
     "comment": "VRM License Type: CC0",
-    "text": null
+    "text": "CC0(知识共享许可协议:自由)"
   },
   "CC_BY": {
     "comment": "VRM License Type: CC_BY",
-    "text": null
+    "text": "CC BY(知识共享许可协议:需署名)"
   },
   "CC_BY_NC": {
     "comment": "VRM License Type: CC_BY_NC",
-    "text": null
+    "text": "CC BY NC(知识共享许可协议:需署名-非商业使用)"
   },
   "CC_BY_SA": {
     "comment": "VRM License Type: CC_BY_SA",
-    "text": null
+    "text": "CC BY SA(知识共享许可协议:需署名-以相同方式分享)"
   },
   "CC_BY_NC_SA": {
     "comment": "VRM License Type: CC_BY_NC_SA",
-    "text": null
+    "text": "CC BY NC SA(知识共享许可协议:需署名-非商业使用-以相同方式分享)"
   },
   "CC_BY_ND": {
     "comment": "VRM License Type: CC_BY_ND",
-    "text": null
+    "text": "CC BY ND(知识共享许可协议:需署名-禁止再创作)"
   },
   "CC_BY_NC_ND": {
     "comment": "VRM License Type: CC_BY_NC_ND",
-    "text": null
+    "text": "CC BY NC ND(知识共享许可协议:需署名-非商业使用-禁止再创作)"
   },
   "Other": {
     "comment": "VRM License Type: Other",
-    "text": null
+    "text": "其他"
   },
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
-    "text": null
+    "text": "隐藏角色"
   }
 }
