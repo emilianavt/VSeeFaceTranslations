@@ -1,7 +1,7 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "<u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u>, <u><link=\"https://twitter.com/EthelChamomile\">@EthelChamomile</link></u> (Indonesian)"
+    "text": "<u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u>, <u><link=\"https://twitter.com/EthelChamomile\">@EthelChamomile</link></u>, <u><link=\"https://twitter.com/triplecc_mirae\">@triplecc_mirae</link></u> (Indonesian)"
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
@@ -45,7 +45,7 @@
   },
   "Sexual:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/SexLabel",
-    "text": "Aksi Sexual:"
+    "text": "Aksi Seksual:"
   },
   "Commercial Use:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
@@ -161,7 +161,7 @@
   },
   "English": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
-    "text": "Ingriss"
+    "text": "English"
   },
   "Initializing avatar...": {
     "comment": "VSeeFace/Canvas/UI/Loading avatar message",
@@ -173,7 +173,7 @@
   },
   "Failed to start tracker. This is most likely caused by a corrupted installation.": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Text",
-    "text": "Gagal memulai tracking. Kemungkinan karena installasi yang rusak."
+    "text": "Gagal memulai tracking. Kemungkinan disebabkan oleh instalasi yang rusak."
   },
   "Open logs": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Open logs/Text",
@@ -181,8 +181,8 @@
   },
   "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it": {
     "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
-    "text": "[Error]\nProses tracking hilang. Matikan dan nyalakan tracking wajah di \"Pengaturan umum\" untuk me restart. Ini dapat di sebabkan oleh pengaturan kamera yang tidak cocok. Kamu dapat mencoba mengubah nya di jendela awal. Bisa juga di sebabkan oleh installasi yang rusak."
-  },
+    "text": "[Error]\nProses tracking hilang. Anda dapat mencoba:\n1) Mulai ulang VSeeFace dan mengganti pengaturan kamera.\n2) Pastikan kamera tidak sedang digunakan\n3) Nyalakan dan matikan track wajah di \"Pengaturan umum\" untuk memulai ulang.\n4) Instal ulang VSeeFace."
+  }
   "X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
     "text": "X"
@@ -217,7 +217,7 @@
   },
   "Expression settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Expression settings/Text",
-    "text": "Pengaturan expressi"
+    "text": "Pengaturan ekspresi"
   },
   "Effect settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Effect settings/Text",
@@ -269,7 +269,7 @@
   },
   "Drift speed": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift speed/Text",
-    "text": "Keccepatan Drift"
+    "text": "Kecepatan Drift"
   },
   "Neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Record/Text",
@@ -277,7 +277,7 @@
   },
   "Clear": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Clear/Text",
-    "text": "Bersihkan"
+    "text": "Hapus"
   },
   "No": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/No/Text",
@@ -309,27 +309,27 @@
   },
   "Stop recording neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/NeutralRed/Text",
-    "text": "Berhenti rekam netral"
+    "text": "Berhenti merekam netral"
   },
   "Stop recording fun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/FunRed/Text",
-    "text": "Berhenti rekam senang"
+    "text": "Berhenti merekam senang"
   },
   "Stop recording angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/AngryRed/Text",
-    "text": "Berhenti rekam marah"
+    "text": "Berhenti merekam marah"
   },
   "Stop recording joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/JoyRed/Text",
-    "text": "Berhenti rekam bahagia"
+    "text": "Berhenti merekam bahagia"
   },
   "Stop recording sorrow": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SorrowRed/Text",
-    "text": "Berhenti rekam sedih"
+    "text": "Berhenti merekam sedih"
   },
   "Stop recording surprised": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SurpriseRed/Text",
-    "text": "Berhenti rekam terkejut"
+    "text": "Berhenti merekam terkejut"
   },
   "Calibrate": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Calibrate/Text",
@@ -349,7 +349,7 @@
   },
   "Ambient occlusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
-    "text": "Ambient occulsion"
+    "text": null
   },
   "Lens distortion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Lens distortion/Text",
@@ -357,7 +357,7 @@
   },
   "Chromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Chromatic aberration/Text",
-    "text": "Aberasi chromatic"
+    "text": "Aberasi kromatik"
   },
   "Color": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Color/Text",
@@ -373,7 +373,7 @@
   },
   "Enable post processing effects": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable/Label",
-    "text": "Nyalakan efek post proses"
+    "text": "Nyalakan efek pascapemrosesan"
   },
   "Improve anti-aliasing (SMAA)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Improve anti-aliasing/Label",
@@ -385,7 +385,7 @@
   },
   "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
-    "text": "\nEfek post proses akan membuat beban sistem bertambah. Sedang dalam status uji coba dan mungkin tidak akan selalu efek yang di inginkan. Spesifik nya, efek tidak akan berpengaruh pada area di luar avatar.\n\nPada sistem saya, menyalakan post proses dan semua efek sedikit meningkatkan pemakaian cpu dan 2x pemakaian gpu. Meyalakan sedikit efek akan menimbulkan efek yang kecil, jadi nyalakan yang hanya di perlukan saja."
+    "text": "\nEfek pascapemrosesan akan membuat beban sistem bertambah. Dalam status ujicoba, mungkin tidak selalu memberikan hasil yang diinginkan. Secara khusus, efek tidak akan berpengaruh pada area di luar avatar.\n\nPada sistem saya, menyalakan efek pascaproses dan semua efek sedikit meningkatkan pemakaian CPU dan 2 kali pemakaian GPU. Meyalakan sedikit efek akan menimbulkan efek yang kecil, jadi nyalakan efek yang diperlukan saja."
   },
   "Enable": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
@@ -409,11 +409,11 @@
   },
   "Threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
-    "text": "Treshold"
+    "text": "Threshold"
   },
   "Diffusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Diffusion/Text",
-    "text": "Diffusion"
+    "text": "Difusi"
   },
   "Transparent bloom  strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Alpha/Text",
@@ -437,7 +437,7 @@
   },
   "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Text",
-    "text": "Jika kamu mengalami bayangan aneh di sekitar mata, menyebabkan alis menyatu, coba untuk atur material ke cutout."
+    "text": "Jika terdapat bayangan aneh di sekitar mata disebabkan bulu mata yang menyatu, coba untuk atur material ke cutout."
   },
   "Multiplier X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
@@ -461,7 +461,7 @@
   },
   "Cromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
-    "text": "Aberasi chromatik"
+    "text": "Aberasi kromatik"
   },
   "Color temperature": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Temperature/Text",
@@ -477,11 +477,11 @@
   },
   "Saturation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Saturation/Text",
-    "text": "Satruasi"
+    "text": "Saturasi"
   },
   "Brightness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Brightness/Text",
-    "text": "Brightness"
+    "text": "Kecerahan"
   },
   "Contrast": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Contrast/Text",
@@ -497,7 +497,7 @@
   },
   "Luminance contribution": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Luminance contribution/Text",
-    "text": "Kontribusi luminance"
+    "text": "Kontribusi pencahayaan"
   },
   "Transparent grain strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
@@ -505,7 +505,7 @@
   },
   "Opaque background": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
-    "text": "Opaque background"
+    "text": "Latar buram"
   },
   "Black level": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Black level/Text",
@@ -521,7 +521,7 @@
   },
   "Dot size factor": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
-    "text": "Faktor ukuran Dot"
+    "text": "Faktor ukuran titik"
   },
   "Leap Motion tracking hotkey": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Label",
@@ -533,7 +533,7 @@
   },
   "Position: Right/left": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position X/Text",
-    "text": "Posisi : Kir/kanan"
+    "text": "Posisi : Kiri/kanan"
   },
   "Position: Height": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Y/Text",
@@ -553,7 +553,7 @@
   },
   "Position: Attachment": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
-    "text": "Posisi: Attachment"
+    "text": "Posisi: Lampiran"
   },
   "Flat on desk": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
@@ -569,7 +569,7 @@
   },
   "Rotation Z": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Z/Text",
-    "text": "Rotasi z"
+    "text": "Rotasi Z"
   },
   "Transition time: Down (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Transition time out/Text",
@@ -577,7 +577,7 @@
   },
   "Hands down delay (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
-    "text": "Delay tangan turun (0-2s)"
+    "text": "Tunda penurunan tangan (0-2s)"
   },
   "Hands mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
@@ -585,7 +585,7 @@
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
-    "text": "No swap"
+    "text": "Tanpa pengalihan"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
@@ -629,7 +629,7 @@
   },
   "Lip sync audio overdrive gain": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme gain/Text",
-    "text": "Gain lip sync overdrive audio"
+    "text": "Perkuat overdrive audio lip sync"
   },
   "Mouth sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth sensitivity/Text",
@@ -645,7 +645,7 @@
   },
   "Arm angle": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Arm angle/Text",
-    "text": "Angel tangan"
+    "text": "Sudut tangan"
   },
   "Shoulder stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Shoulder stiffness/Text",
@@ -653,23 +653,23 @@
   },
   "Body stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Body stiffness/Text",
-    "text": "Ke kakuan badan"
+    "text": "Kekakuan badan"
   },
   "Expression stabilizer": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Expression stabilizer/Text",
-    "text": "Stabilizer expresi"
+    "text": "Penstabil ekspresi"
   },
   "Expression smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression smoothing/Text",
-    "text": "Perhalus expresi"
+    "text": "Perhalus ekspresi"
   },
   "Expression sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression sensitivity/Text",
-    "text": "Sensitivitas expresi"
+    "text": "Sensitivitas ekspresi"
   },
   "Auto blink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:1",
-    "text": "Otomatis kedip"
+    "text": "Kedip otomatis"
   },
   "Link eye blinks": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
@@ -705,7 +705,7 @@
   },
   "Mirror image while UI hidden with ※ button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
-    "text": "Pantulkan gambar ketika UI di sembunyikan dengan tombol ※"
+    "text": "Pantulkan gambar ketika UI disembunyikan dengan tombol ※"
   },
   "Default camera position": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label",
@@ -725,19 +725,19 @@
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
-    "text": "Tracking wajah (mati = tanpa tracking, menguraki kerja CPU)"
+    "text": "Tracking wajah (mematikan berarti tanpa tracking, mengurangi kerja CPU)"
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
-    "text": "Deteksi expresi"
+    "text": "Deteksi ekspresi"
   },
   "None": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
-    "text": "None"
+    "text": "Tidak ada"
   },
   "Simple (fun, angry, surprised only)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple expression detection/Label",
-    "text": "Simpel (senang,marah,terkejut saja)"
+    "text": "Simpel (senang, marah,terkejut saja)"
   },
   "Graphics settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Graphics title",
@@ -745,7 +745,7 @@
   },
   "Allow window resizing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resizable window/Label",
-    "text": "Ijinkan resize jendela"
+    "text": "Izinkan pengubahan ukuran jendela"
   },
   "Anti-aliasing:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label",
@@ -757,7 +757,7 @@
   },
   "(high GPU load)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Warning",
-    "text": "(load GPU tinggu)"
+    "text": "(muat GPU tinggu)"
   },
   "Resolution:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolution",
@@ -793,7 +793,7 @@
   },
   "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera description",
-    "text": "Ketika di aktifkan, kamera virtual akan menampilkan gambar VSeeFace. UI tidak akan di tampilkan di kamera. Discord menampilkan kamera dengan mirrored, tapi orang lain akan melihat nya dengan benar."
+    "text": "Ketika diaktifkan, kamera virtual akan menampilkan gambar VSeeFace. UI tidak akan ditampilkan di kamera. Discord menampilkan kamera dengan cara dicerminkan, tapi orang lain akan melihatnya dengan benar."
   },
   "Enable virtual camera for this session": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
@@ -833,7 +833,7 @@
   },
   "Use old lip sync model (lower accuracy)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lip sync provider/Label",
-    "text": "Gunakan model lip sync lama"
+    "text": "Gunakan model lip sync lama (akurasi lebih rendah)"
   },
   "Factory reset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
@@ -845,7 +845,7 @@
   },
   "Stop audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Stop audio/Text",
-    "text": "Stop audio"
+    "text": "Hentikan audio"
   },
   "Show tracking points": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Show tracking points/Text",
@@ -877,7 +877,7 @@
   },
   "Ambient intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
-    "text": "Intensitas ambient"
+    "text": "Intensitas sekeliling"
   },
   "OK": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
@@ -889,7 +889,7 @@
   },
   "New Text": {
     "comment": "LocalizationTools/Dummy/Expression config/Expression title",
-    "text": "Text Baru"
+    "text": "Teks Baru"
   },
   "Base": {
     "comment": "LocalizationTools/Dummy/Expression config/Base/Label",
@@ -897,7 +897,7 @@
   },
   "Additive": {
     "comment": "LocalizationTools/Dummy/Expression config/Additive/Label",
-    "text": null
+    "text": "Tambahan"
   },
   "Enable eye blinking": {
     "comment": "LocalizationTools/Dummy/Expression config/Blink checkbox/Label",
@@ -909,19 +909,19 @@
   },
   "Enable eyebrow animation": {
     "comment": "LocalizationTools/Dummy/Expression config/Brow checkbox/Label",
-    "text": "Nyalakan animasi alis"
+    "text": "Aktifkan gerakan alis"
   },
   "Hold": {
     "comment": "LocalizationTools/Dummy/Expression config/Trigger/Label",
-    "text": null
+    "text": "Tahan"
   },
   "Toggle": {
     "comment": "LocalizationTools/Dummy/Expression config/Toggle/Label",
-    "text": null
+    "text": "Alihkan"
   },
   "Hotkey": {
     "comment": "LocalizationTools/Dummy/Expression config/Hotkey",
-    "text": null
+    "text": "Hotkey"
   },
   "Transition time (0s - 0.5s)": {
     "comment": "LocalizationTools/Dummy/Expression config/Transition time",
@@ -933,7 +933,7 @@
   },
   "Barely okay quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:2",
-    "text": "Kualitas agak lumayan"
+    "text": "Kualitas lumayan"
   },
   "Low quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:3",
@@ -949,7 +949,7 @@
   },
   "Medium": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:2",
-    "text": "Medium"
+    "text": "Sedang"
   },
   "High": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:3",
@@ -973,7 +973,7 @@
   },
   "Closer": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
-    "text": null
+    "text": "Lebih dekat"
   },
   "Custom": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
@@ -1057,15 +1057,15 @@
   },
   "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
-    "text": "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)"
+    "text": "Pembaruan tersedia di:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)"
   },
   "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>": {
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
-    "text": "Model normal oleh <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
+    "text": "Model default oleh <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
   },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
-    "text": null
+    "text": "Ujicoba deteksi ekspresi (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)"
   },
   "Hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
@@ -1073,7 +1073,7 @@
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": "Kamu dapat menggunakan hotkey berikut untuk secara cepat menggunakan berbagai fungsi dalam program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction"
+    "text": "Anda dapat menggunakan hotkey berikut untuk secara cepat menggunakan berbagai fungsi dalam program.<size=50%>\n\n</size>Spasi\tTampilkan/sembunyikan tombol UI ※ \nR\t\tReset avatar pose\nShift+R\tReset avatar pose sepenuhnya\nS\t\tAmbil tangkapan layar beresolusi tinggi\nShift+S\tAmbil tangkapan layar setelah 3 detik\nL\t\tMuat avatar VRM baru\nC\t\tReset kamera\nD\t\tReset arah cahaya"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
@@ -1081,15 +1081,15 @@
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": "Global hotkey dapat di gunakan dari mana saja, bahkan ketika program sedang berjalan di belakang.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off."
+    "text": "Global hotkey dapat digunakan dari mana saja, bahkan ketika program sedang berjalan di belakang.\n\nMenekan Ctrl+Shift+F1 to Ctrl+Shift+F6 akan memaksa ekspresi yang cocok (Netral, Senang , Marah, Bahagia, Sedih, Terkejut). Menekannya lagi dapat menghentikan ekspresi, namun anda juga dapat langsung beralih ke ekspresi yang berbeda.\n\nMenekan Ctrl+Shift+F7 akan menyalakan/mematikan pelacakan tangan menggunakan Leap Motion"
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
-    "text": "Transparansi/Greenscreen"
+    "text": "Transparansi/Layar Hijau"
   },
   "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
-    "text": "Mengubah latar belakang yang berbeda untuk di gunakan oleh chroma key tidak di dukung. Kamu dapat mengcapture program ini menggunakan 'True alpha transparency', yang memungkinkan kamu untuk menggunakan kombinasi warna apa saja di avatar bahkan mengizinkan objek semi transparan.\n\nUntuk melakukan ini, tekan tombol ※ di sudut pojok kanan bawah. Kamu dapat menekan space untuk menampilkan dan menyembunyikan tombol ini.\n\nSetelah menyembunyikan UI, background akan menampilkan pola papan catur, gunakan \"Game Capture\" source di <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) untuk meng capture jendela ini dan centang kotak \"Allow Transparency\". Pola papan catur akan hilang di ons dan akan berubah transparan."
+    "text": "Mengubah latar belakang yang berbeda untuk di gunakan oleh chroma key tidak didukung. Anda dapat menangkap program ini menggunakan 'True alpha transparency', yang memungkinkan Anda untuk menggunakan kombinasi warna apa saja di avatar bahkan membuat objek semi transparan.\n\nUntuk melakukan ini, tekan tombol ※ di sudut pojok kanan bawah. Anda dapat menekan spasi untuk menampilkan dan menyembunyikan tombol ini.\n\nSetelah menyembunyikan UI, latar akan menampilkan pola papan catur, gunakan \"Game Capture\" source di <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) untuk meng-capture jendela ini dan centang kotak \"Allow Transparency\". Pola papan catur akan hilang di OBS dan akan berubah transparan."
   },
   "Hint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
@@ -1097,51 +1097,51 @@
   },
   "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
-    "text": "Untuk petunjuk lebih lanjut dalam menggunakan program ini, cek tombol 'usage notes'. Juga bar biru pada sudut layar berarti kamu sudah dekat dengan pinggir kamera, jadi kamu mungkin tidak mau bergerak lebih lagi ke arah tersebut. bar biru tidak akan nampak pada OBS. Juga cek link berikut <u><link=\"https://www.vseeface.icu/\">manual</link></u>."
+    "text": "Untuk petunjuk lebih lanjut dalam menggunakan program ini, cek tombol 'usage notes'. Bar biru pada sudut layar berarti anda sudah dekat dengan pinggir kamera, jadi anda mungkin tidak ingin bergerak lebih lagi ke arah tersebut. Bar biru tidak akan tampak di OBS. Juga cek link berikut <u><link=\"https://www.vseeface.icu/\">manual</link></u>."
   },
   "Expression configuration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Title",
-    "text": "Pengaturan expresi"
+    "text": "Pengaturan ekspresi"
   },
   "Each expression, including the neutral one, has a number of settings that can be configured. An expression can be a base or additive expression. Only one base expression can be active at a time, but additive expressions are added on top of others. Mouth, eye blink and eyebrow animation can be disabled. A global hotkey can be assigned for every expression. If it is set to \"Hold\", the expression is enabled while the key is held. If set to \"Toggle\", it will turn on and off with each button press. The transition slider can be used to set how long the smooth transition time to or from this expressions should be, from instantaneous to half a second.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Text (TMP)",
-    "text": null
+    "text": "Setiap ekspresi, termasuk yang netral memiliki beberapa pengaturan yang dapat dikonfigurasi. Sebuah ekspresi bisa menjadi dasar atau ekspresi tambahan. Hanya satu ekspresi yang dapat diaktifkan dalam satu waktu, namun ekspresi tambahan ditambahkan di atas ekspresi lain. Mulut, kedipan mata, dan gerakan alis bisa dinonaktifkan. Ada global hotkey untuk setiap ekspresi. Bila diatur ke \"Tahan\", ekspresi tersebut akan aktif bila hotkey tersebut ditahan. Bila diatur ke \"Alihkan\", itu akan mati dan menyala setiap tombol ditekan. Penggeser transisi dapat digunakan untuk menyetel berapa lama waktu transisi yang mulus dari/ekspresi lain dari seketika sampai setengah detik."
   },
   "Eyebrow tracking": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Title",
-    "text": "Tracking alis"
+    "text": "Tracking Alis"
   },
   "Eyebrow tracking is supported for <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Text (TMP)",
-    "text": null
+    "text": "Tracking alis didukung oleh <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> dan model <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> . Kekuatan gerakan alis dapat diatur di \"Pengaturan umum\" . Untuk menyesuaikan gerakan alis atau membuatnya berfungsi pada jenis model lain, tambahkan  <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) bernama \"Brows up\" dan \"Brows down\", yang juga dapat mencampurkan ekspresi dengan benar."
   },
   "Expression detection (experimental)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Title",
-    "text": "Deteksi expresi (experimen)"
+    "text": "Pendeteksian Ekspresi (ujicoba)"
   },
   "The expression detection calibration process is a bit tedious and painful, so make sure to bring time. To use it, first enable it from the general settings menu. You can find a video walkthrough for the calibration process <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Make an expression with your face. More extreme expressions are easier to detect.\n- Press the corresponding button to start recording.\n- Move and turn your head around and talk while holding the expression.\n- Press the button again to stop recording.\n- Relax your face.\n- Repeat this for all expressions.\n- Press \"Calibrate\" and test the results.\n- If an expression gives you trouble, record more and \"Calibrate\" again.\n- If an expression is misdetected for a certain head pose, try recording more data for it in that pose.\n- Save when you are happy.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Text (TMP)",
-    "text": null
+    "text": "Proses pendeteksian ekspresi itu sedikit membosankan, jadi pastikan untuk meluangkan waktu. Untuk menggunakannya, aktifkan dari menu pengaturan umum. Anda dapat menemukan tutorial video untuk proses kalibrasi <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Buat ekspresi di wajah anda. Ekspresi yang lebih ekstrem akan lebih mudah dideteksi.\n- Tekan tombol yang cocok untuk memulai rekaman.\n- Gerakkan dan putar kepala anda dan berbicaralah saat menahan ekspresi tersebut.\n- Tekan tombol itu lagi untuk menghentikan rekaman.\n- Istirahatkan wajah anda.\n- Ulangi untuk semua ekspresi.\n- Tekan \"Kalibrasi\" dan uji hasilnya.\n- Bila ada ekspresi yang bermasalah, rekam lagi dan \"Kalibrasi'\ lagi.\n- Bila ada ekspresi yang salah deteksi pada pose kepala tertentu, cobalah untuk merekam data lebih banyak untuk pose tersebut. \n- Simpan ekspresi tersebut bila sudah puas."
   },
   "Camera and light": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Title",
-    "text": "Kamera dan cahaya"
+    "text": "Kamera dan Cahaya"
   },
   "The direction of light can be changed with Ctrl+Left click. The camera can be rotated with Alt+Left click. Alt+Right click or Alt+Mouse wheel can be used to zoom in and out. Alt+Middle click or Ctrl+Right click can be used to drag the view.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Text (TMP)",
-    "text": null
+    "text": "Arah cahaya bisa diganti dengan Ctrl+Klik kiri. Kamera dapat diputar dengan Alt+Klik kiri. Alt+Klik kanan atau Alt+Roda mouse dapat digunakan untuk memperbesar dan memperkecil. Alt+Klik tengah atau Ctrl+Klik kanan dapat digunakan untuk menyeret tampilan."
   },
   "<link></link> is in use by <b></b>, override?": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyOverride/Message/Text",
-    "text": "<link></link> sedang di gunakan oleh <b></b>, ambil alih?"
+    "text": "<link></link> sedang digunakan oleh <b></b>, ambil alih?"
   },
   "<link></link> cannot be used": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Message/Text",
-    "text": "<link></link> tidak dapat di pakai"
+    "text": "<link></link> tidak dapat digunakan"
   },
   "Assigned <link></link> to <b></b>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyDone/Message/Text",
-    "text": "<link></link> Di assign ke <b></b>"
+    "text": "<link></link> Ditetapkan ke <b></b>"
   },
   "English (en)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
@@ -1157,19 +1157,19 @@
   },
   "Toaster (no eye/gaze/expression tracking)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:4",
-    "text": "Toaster (tanpa tracking mata/tatapan/expresi)"
+    "text": "Toaster (tanpa tracking mata/tatapan/ekspresi)"
   },
   "Please select a camera": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
-    "text": "Silahkan pilih kamera"
+    "text": "Silakan pilih kamera"
   },
   "Please select an avatar": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoAvatar",
-    "text": "Silahkan pilih avatar"
+    "text": "Silakan pilih avatar"
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
-    "text": "Perhatian: Avatar memiliki rotasi tulang <b>non-zero</b>. Pastikan kamu mengexport VRM dengan pengaturan \"Pose Freeze\" di nyalakan"
+    "text": "Perhatian: Avatar memiliki rotasi tulang <b>non-zero</b>. Pastikan kamu mengekspor VRM dengan pengaturan \"Freeze Pose\" dinyalakan"
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
@@ -1193,7 +1193,7 @@
   },
   "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Making sure nothing else is using the camera\n2) Toggling face tracking off and on in the \"General settings\" to restart it\n3) Restarting VSeeFace and changing the camera settings\n4) Redownloading VSeeFace and reinstalling it": {
     "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
-    "text": "<align=\"center\">[Error]</align>\nProses tracker hilang. Kamu dapat:\n1) Memastikan kamera tidak di pakai\n2) Nyala dan matikan tracking muka di \"Pengaturan general\" untuk memulai ulang\n3) Me mulai ulang VSeeFace dan ubah pengaturan kamera\n4) Mendownload ulang VSeeFace dan install ulang"
+    "text": "<align=\"center\">[Error]</align>\nProses tracker hilang. Anda dapat mencoba:\n1) Pastikan kamera tidak sedang digunakan\n2) Nyalakan/matikan tracking wajah di \"Pengaturan umum\" untuk memulai ulang\n3) Mulai ulang VSeeFace dan ubah pengaturan kamera\n4) Instal ulang VSeeface."
   },
   "Tutorial: Transparency in OBS/SLOBS (1)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Title",
@@ -1205,7 +1205,7 @@
   },
   "Tutorial: Hide UI": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Title",
-    "text": "Tutorial: Sembunyikan (UI)"
+    "text": "Tutorial: Sembunyikan UI"
   },
   "Tutorial: Reset (1)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 1/Title",
@@ -1217,7 +1217,7 @@
   },
   "Tutorial: Camera": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Camera/Title",
-    "text": null
+    "text": "Tutorial: Kamera"
   },
   "Tutorial: Tutorial": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Tutorial/Title",
@@ -1269,7 +1269,7 @@
   },
   "While looking down:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label",
-    "text": "Ketika melihat kebawah:"
+    "text": "Saat melihat kebawah:"
   },
   "Blinks less sensitive": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:0",
@@ -1293,7 +1293,7 @@
   },
   "Increase process priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/High priority/Label",
-    "text": "Naikan prioritas proses"
+    "text": "Naikkan prioritas proses"
   },
   "Recommend Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/AutoPerformanceTune/AutoPerfTuneButton/Text",
@@ -1305,7 +1305,7 @@
   },
   "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs.": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune message/Message/Text",
-    "text": "Mengukur performa sistem, tolong tunggu \nDapat memakan waktu pada pc lambat."
+    "text": "Mengukur performa sistem, mohon tunggu... \nDapat memakan waktu pada PC lambat."
   },
   "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Recommendation",
@@ -1313,7 +1313,7 @@
   },
   "Maximum speed per quality level": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results header",
-    "text": "Kecepatan maximum per level kualitas"
+    "text": "Kecepatan maksimum per level kualitas"
   },
   "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
@@ -1333,51 +1333,51 @@
   },
   "[Network tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
-    "text": "[Tracking jaringan]"
+    "text": "[Melacak jaringan]"
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
-    "text": null
+    "text": "Pengaturan ini biasanya tidak diperlukan. Mohon dicatat bahwa pengaturan tersebut dapat memiliki efek samping yang janggal atau mengarah ke masalah kinerja. Apabila sesuatu yang janggal terjadi, cobalah untuk mematikannya."
   },
   "Animate jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
-    "text": null
+    "text": "Gerakkan tulang rahang"
   },
   "Wind strength": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind strength/Text",
-    "text": null
+    "text": "Kekuatan angin"
   },
   "Wind angle": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
-    "text": null
+    "text": "Sudut angin"
   },
   "Enable VRM spring bone wind": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind/Label",
-    "text": null
+    "text": "Aktifkan angin VRM Springbone"
   },
   "No wind effect for chest spring bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind skip chest/Label",
-    "text": null
+    "text": "Tidak ada efek angin untuk spring bone dada"
   },
   "Wind direction": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
-    "text": null
+    "text": "Arah angin"
   },
   "Wind time factor": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind time factor/Text",
-    "text": null
+    "text": "Faktor waktu angin"
   },
   "Send data with OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC send/Label",
-    "text": null
+    "text": "Kirimkan data dengan OSC/VMC Protocol"
   },
   "T-pose for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Label",
-    "text": null
+    "text": "T-pose untuk kalibrasi"
   },
   "IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Placeholder",
-    "text": null
+    "text": "Alamat IP"
   },
   "127.0.0.1": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Text",
@@ -1389,63 +1389,63 @@
   },
   "Simulate turned hands for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Turn hands/Label",
-    "text": null
+    "text": "Simulasikan tangan yang diputar untuk kalibrasi"
   },
   "OSC/VMC protocol receiver (disables tracking)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC receiving/Label",
-    "text": null
+    "text": "OSC/VMC protocol receiver (menonaktifkan tracking)"
   },
   "Apply VSeeFace tracking": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Mix and match/Label",
-    "text": null
+    "text": "Terapkan VSeeFace Tracking"
   },
   "Apply expressions": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Apply expressions/Label",
-    "text": null
+    "text": "Terapkan ekspresi"
   },
   "Track face features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track face features/Label",
-    "text": null
+    "text": "Track wajah"
   },
   "Track head and neck": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track head and neck/Label",
-    "text": null
+    "text": "Track kepala dan leher"
   },
   "Track fingers": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track fingers/Label",
-    "text": null
+    "text": "Track jari"
   },
   "Track hands to shoulders": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track hands to shoulders/Label",
-    "text": null
+    "text": "Track tangan ke bahu"
   },
   "Track spine and chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track spine and chest/Label",
-    "text": null
+    "text": "Track punggung dan dada"
   },
   "Track lower body": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track lower body/Label",
-    "text": null
+    "text": "Track tubuh bagian bawah"
   },
   "Use VRoid style shade coloring": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use VRoid shade/Label",
-    "text": null
+    "text": "Gunakan warna bergaya VRoid"
   },
   "Start making your expression before beginning the recording.\nKeep it until after you stop the recording. Move your head, speak and blink your eyes.\nAnything that should not be detected as another expression should go into \"Neutral\".\nIf you accidentally make another expression, clear the data and start over.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/RecordingHelp/Help text",
-    "text": null
+    "text": "Mulailah untuk membuat ekspresi sebelum memulai rekaman.\nTetaplah membuat ekspresi sampai selesai merekam. Gerakkan kepala, berbicaralah, dan kedipkan mata. \nSemua yang tidak seharusnya dideteksi sebagai ekspresi akan menuju \"Netral\".\nJika anda tidak sengaja membuat ekspresi lain, hapus data dan ulangi."
   },
   "Track blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track blendshapes/Label",
-    "text": null
+    "text": "Track blendshape"
   },
   "Track eye bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
-    "text": null
+    "text": "Track mata"
   },
   "Track jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
-    "text": null
+    "text": "Track tulang rahang"
   },
   "OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
@@ -1453,47 +1453,47 @@
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
-    "text": null
+    "text": "Penerima OSC/VMC Protocol sekunder"
   },
   "Apply blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",
-    "text": null
+    "text": "Terapkan blendshape"
   },
   "Apply eye bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track eyes/Label",
-    "text": null
+    "text": "Terapkan tulang mata"
   },
   "Apply jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track jaw/Label",
-    "text": null
+    "text": "Terapkan tulang rahang"
   },
   "Apply head and neck": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track head and neck/Label",
-    "text": null
+    "text": "Terapkan kepala dan leher"
   },
   "Apply fingers": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track fingers/Label",
-    "text": null
+    "text": "Terapkan jari"
   },
   "Apply hands to shoulders": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track hands to shoulders/Label",
-    "text": null
+    "text": "Terapkan tangan ke bahu"
   },
   "Apply spine and chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track spine and chest/Label",
-    "text": null
+    "text": "Terapkan punggung dan dada"
   },
   "Apply lower body": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track lower body/Label",
-    "text": null
+    "text": "Terapkan tubuh bagian bawah"
   },
   "Camera hotkey:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/GameObject/Text",
-    "text": null
+    "text": "Hotkey kamera"
   },
   "Press hotkey for <b></b>\n<size=70%>Press escape to cancel or shift+escape to unset.</size>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyListen/Message/Text",
-    "text": null
+    "text": "Tekan hotkey untuk <b></b>\n<size=70%>Tekan esc untuk membatalkan atau shift+escape untuk menghapus setelan.</size>"
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
@@ -1501,23 +1501,23 @@
   },
   "Tracking loss transition": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
-    "text": null
+    "text": "Transisi pelacakan yang hilang"
   },
   "Reset pose on tracking loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss fade/Label",
-    "text": null
+    "text": "Reset pose pada tracking yang hilang"
   },
   "Enable gaze and eyebrow offset settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Offset sliders/Label",
-    "text": null
+    "text": "Aktifkan pengaturan tatapan dan penyeimbang alis"
   },
   "Barely okay quality, but faster": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
-    "text": null
+    "text": "Tidak bagus tapi lebih cepat"
   },
   "Still better than toaster": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
-    "text": null
+    "text": "Kualitas buruk (cocok untuk PC lambat)"
   },
   "39539": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Port/Text",
@@ -1525,19 +1525,19 @@
   },
   "Blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Blendshape smoothing",
-    "text": null
+    "text": "Penghalusan blendshape"
   },
   "Bone smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Bone smoothing",
-    "text": null
+    "text": "Penghalusan bone"
   },
   "Auto reset position on full loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss recalibrate/Label",
-    "text": null
+    "text": "Atur ulang posisi pada kehilangan penuh"
   },
   "Show LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": null
+    "text": "Sembunyikan LAN IP"
   },
   "LAN IP:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address",
@@ -1545,15 +1545,15 @@
   },
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
-    "text": null
+    "text": "Sembunyikan LAN IP"
   },
   "Screen top (V5 only)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": null
+    "text": "Screen top (Hanya V5)"
   },
   "Please select your camera settings": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
-    "text": null
+    "text": "Silakan pilih pengaturan kamera"
   },
   "VSFAvatarOneTimeNotice": {
     "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
@@ -1565,15 +1565,15 @@
   },
   "Disable improved transparency": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
-    "text": null
+    "text": "Nonaktifkan peningkatan transparensi"
   },
   "Disable webcam FPS selection cap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
-    "text": null
+    "text": "Nonaktifkan pilihan FPS webcam"
   },
   "Use standard blendshape accumulation": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use standard blendshape accumulation/Label",
-    "text": null
+    "text": "Gunakan akumulasi blendshape standar"
   },
   "Smart wink threshold": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Smart wink threshold/Text",
@@ -1581,47 +1581,47 @@
   },
   "Smart wink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
-    "text": null
+    "text": "Smart wink"
   },
   "Prevent vertical head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
-    "text": null
+    "text": "Cegah gerakan vertikal kepala"
   },
   "Normalize mouth blendshape sums > 1.0": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Normalize visemes/Label",
-    "text": null
+    "text": "Normalisasikan jumlah blendshape mulut > 1.0"
   },
   "Disable packet bundling": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Disable packet bundling/Label",
-    "text": null
+    "text": "Nonaktifkan packet bundling"
   },
   "Avoid desaturation on transparent pixels": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
-    "text": null
+    "text": "Hindari desaturasi pada piksel transparan"
   },
   "OnlyAuthor": {
     "comment": "VRM Allowed User: OnlyAuthor",
-    "text": null
+    "text": "HanyaPembuat"
   },
   "ExplicitlyLicensedPerson": {
     "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
-    "text": null
+    "text": "OrangyangDiizinkanSecaraEksplisit"
   },
   "Everyone": {
     "comment": "VRM Allowed User: Everyone",
-    "text": null
+    "text": "Siapapun"
   },
   "Allow": {
     "comment": "VRM Usage: Allow",
-    "text": null
+    "text": "Izinkan"
   },
   "Disallow": {
     "comment": "VRM Usage: Disallow",
-    "text": null
+    "text": "Jangan izinkan"
   },
   "Redistribution_Prohibited": {
     "comment": "VRM License Type: Redistribution_Prohibited",
-    "text": null
+    "text": "Redistribusi dilarang"
   },
   "CC0": {
     "comment": "VRM License Type: CC0",
@@ -1653,10 +1653,10 @@
   },
   "Other": {
     "comment": "VRM License Type: Other",
-    "text": null
+    "text": "Lainnya"
   },
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
-    "text": null
+    "text": "Sembunyikan avatar"
   }
 }
