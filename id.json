@@ -349,7 +349,7 @@
   },
   "Ambient occlusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
-    "text": null
+    "text": "Ambient occulsion"
   },
   "Lens distortion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Lens distortion/Text",
@@ -1658,5 +1658,9 @@
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
     "text": "Sembunyikan avatar"
+  },
+  "Disable increased background priority": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
+    "text": null
   }
 }
