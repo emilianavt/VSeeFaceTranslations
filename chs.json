@@ -1661,10 +1661,10 @@
   },
   "Disable increased background priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
-    "text": null
+    "text": "禁止提升处于后台状态时的程序优先级"
   },
   "Landscape mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
-    "text": null
+    "text": "横向模式"
   }
 }
