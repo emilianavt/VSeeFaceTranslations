@@ -137,11 +137,11 @@
   },
   "Listen IP": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IPLabel",
-    "text": "Listen IP"
+    "text": "Прослушивать IP"
   },
   "Listen IP (127.0.0.1)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IP/Placeholder",
-    "text": "Listen IP (127.0.0.1)"
+    "text": "Прослушивать IP (127.0.0.1)"
   },
   "": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IP/IPText",
@@ -149,11 +149,11 @@
   },
   "Port": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/PortLabel",
-    "text": "Port"
+    "text": "Порт"
   },
   "Port (11573)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/Port/Placeholder",
-    "text": "Port (11573)"
+    "text": "Порт (11573)"
   },
   "Start": {
     "comment": "VSeeFace/Canvas/UI/StartUI/StartButton/Text",
@@ -689,7 +689,7 @@
   },
   "Audio lip sync / Hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
-    "text": "Аудио LipSync / Hotkey:                                 "
+    "text": "Аудио LipSync / Хоткей:                                 "
   },
   "Always use full lip sync animation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",
@@ -1601,99 +1601,99 @@
   },
   "OnlyAuthor": {
     "comment": "VRM Allowed User: OnlyAuthor",
-    "text": null
+    "text": "Только Автор"
   },
   "ExplicitlyLicensedPerson": {
     "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
-    "text": null
+    "text": "Лицо с лицензией"
   },
   "Everyone": {
     "comment": "VRM Allowed User: Everyone",
-    "text": null
+    "text": "Все"
   },
   "Allow": {
     "comment": "VRM Usage: Allow",
-    "text": null
+    "text": "Можно"
   },
   "Disallow": {
     "comment": "VRM Usage: Disallow",
-    "text": null
+    "text": "Нельзя"
   },
   "Redistribution_Prohibited": {
     "comment": "VRM License Type: Redistribution_Prohibited",
-    "text": null
+    "text": "Распространение запрещено"
   },
   "CC0": {
     "comment": "VRM License Type: CC0",
-    "text": null
+    "text": "CC0"
   },
   "CC_BY": {
     "comment": "VRM License Type: CC_BY",
-    "text": null
+    "text": "CC_BY"
   },
   "CC_BY_NC": {
     "comment": "VRM License Type: CC_BY_NC",
-    "text": null
+    "text": "CC_BY_NC"
   },
   "CC_BY_SA": {
     "comment": "VRM License Type: CC_BY_SA",
-    "text": null
+    "text": "CC_BY_SA"
   },
   "CC_BY_NC_SA": {
     "comment": "VRM License Type: CC_BY_NC_SA",
-    "text": null
+    "text": "CC_BY_NC_SA"
   },
   "CC_BY_ND": {
     "comment": "VRM License Type: CC_BY_ND",
-    "text": null
+    "text": "CC_BY_ND"
   },
   "CC_BY_NC_ND": {
     "comment": "VRM License Type: CC_BY_NC_ND",
-    "text": null
+    "text": "CC_BY_NC_ND"
   },
   "Other": {
     "comment": "VRM License Type: Other",
-    "text": null
+    "text": "Другая"
   },
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
-    "text": null
+    "text": "Скрыть аватар"
   },
   "Disable increased background priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
-    "text": null
+    "text": "Отключить повышение фонового приоритета"
   },
   "Landscape mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
-    "text": null
+    "text": "Альбомная ориентация"
   },
   "iFacialMocap receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "Приёмник iFacialMocap"
   },
   "iPhone IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/IP wrapper/IP/Placeholder",
-    "text": null
+    "text": "IP адрес iPhone"
   },
   "Receive facial features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Blendshapes/Label",
-    "text": null
+    "text": "Получать выражения лица"
   },
   "Receive head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Head movement/Label",
-    "text": null
+    "text": "Получать движения головы"
   },
   "Receive eye gaze": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Eyes/Label",
-    "text": null
+    "text": "Получать движение взгляда"
   },
   "Hybrid audio lipsync": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Allow hybrid lipsync/Label",
-    "text": null
+    "text": "Гибрид с аудио LipSync"
   },
   "FaceMotion3D app": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/FaceMotion3D/Label",
-    "text": null
+    "text": "Использование FaceMotion3D"
   },
   "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
@@ -1701,7 +1701,7 @@
   },
   "iFacialMocap smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
-    "text": null
+    "text": "Сглаживание iFacialMocap"
   },
   "Show IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
@@ -1709,10 +1709,10 @@
   },
   "Only open mouth according to one source": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Prevent iPhone mouth opening while lip syncing/Label",
-    "text": null
+    "text": "Открывать рот только для одного источника"
   },
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": null
+    "text": "Грудь (Исправлено)"
   }
 }
