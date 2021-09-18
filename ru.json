@@ -129,7 +129,7 @@
   },
   "High quality (wink support)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
-    "text": "Высокое качество (wink support)"
+    "text": "Высокое качество (поддержка подмигивания)"
   },
   "High quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
@@ -725,7 +725,7 @@
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
-    "text": "Отслеживание лица (отключив, будет отсутствовать движение лица, но сэкономит ресурсы процессора)"
+    "text": "Отслеживание лица (отключив, не будет движений от камеры, но сэкономит проц)"
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
@@ -1337,7 +1337,7 @@
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
-    "text": "Обычно, эти настройки не нужны. Обратите внимание, что эти настройки могут иметь странные эффекты или привести к проблемам с производительностью.     Если что-то работает не так, попробуйте отключить их."
+    "text": "Обычно, эти настройки не нужны. Обратите внимание, что эти настройки могут иметь странные эффекты или привести к проблемам с производительностью. Если что-то работает не так, попробуйте отключить их."
   },
   "Animate jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
@@ -1357,7 +1357,7 @@
   },
   "No wind effect for chest spring bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind skip chest/Label",
-    "text": "Без ветра для SpringBone груди"
+    "text": "Без ветра для физики груди"
   },
   "Wind direction": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
@@ -1493,7 +1493,7 @@
   },
   "Press hotkey for <b></b>\n<size=70%>Press escape to cancel or shift+escape to unset.</size>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyListen/Message/Text",
-    "text": "Нажмите клавишу для <b></b>\n<size=70%>Нажмите escape чтобы закрыть или shift+escape, чтобы убрать."
+    "text": "Нажмите клавишу для <b></b>\n<size=70%>Нажмите Escape чтобы закрыть или Shift+Escape, чтобы убрать."
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
@@ -1581,7 +1581,7 @@
   },
   "Smart wink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
-    "text": "Умный подмиг"
+    "text": "Умное подмиг."
   },
   "Prevent vertical head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
