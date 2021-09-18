@@ -1669,31 +1669,31 @@
   },
   "iFacialMocap receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "iFacialMocap接收器"
   },
   "iPhone IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/IP wrapper/IP/Placeholder",
-    "text": null
+    "text": "iPhone IP地址"
   },
   "Receive facial features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Blendshapes/Label",
-    "text": null
+    "text": "接收面部表情"
   },
   "Receive head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Head movement/Label",
-    "text": null
+    "text": "接收头部运动"
   },
   "Receive eye gaze": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Eyes/Label",
-    "text": null
+    "text": "接收眼球追踪"
   },
   "Hybrid audio lipsync": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Allow hybrid lipsync/Label",
-    "text": null
+    "text": "复合型音频嘴型同步"
   },
   "FaceMotion3D app": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/FaceMotion3D/Label",
-    "text": null
+    "text": "FaceMotion3D应用"
   },
   "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
@@ -1701,18 +1701,18 @@
   },
   "iFacialMocap smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
-    "text": null
+    "text": "iFacialMocap平滑化"
   },
   "Show IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": "显示 IP"
+    "text": "显示IP"
   },
   "Only open mouth according to one source": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Prevent iPhone mouth opening while lip syncing/Label",
-    "text": null
+    "text": "仅根据一个源开闭嘴型"
   },
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": null
+    "text": "胸部(固定)"
   }
 }
