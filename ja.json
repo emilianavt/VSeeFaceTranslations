@@ -259,6 +259,10 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Track Leap Motion/Text",
     "text": "Leap Motionトラッキング"
   },
+  "Movement smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
+    "text": "動き平滑化"
+  },
   "Smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
     "text": "平滑化"
@@ -1331,9 +1335,9 @@
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeDropdown",
     "text": "スロー"
   },
-  "[Network tracking]": {
+  "[OpenSeeFace tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
-    "text": "[ネットワークトラッキング]"
+    "text": "[OpenSeeFaceトラッキング]"
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
@@ -1699,9 +1703,9 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
     "text": "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>"
   },
-  "iFacialMocap smoothing": {
+  "iPhone blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
-    "text": "iFacialMocap平滑化"
+    "text": "iPhoneのブレンドシェイプ平滑化"
   },
   "Show IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
@@ -1714,5 +1718,17 @@
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
     "text": "胸（動きに合わせない）"
+  },
+  "Tracking app:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
+    "text": "トラッキングアプリ："
+  },
+  "iFacialMocap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
+    "text": null
+  },
+  "iPhone/ARKit tracking receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
+    "text": "iPhone/ARKitからトラッキングを受信"
   }
 }

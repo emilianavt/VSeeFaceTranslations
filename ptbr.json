@@ -259,6 +259,10 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Track Leap Motion/Text",
     "text": "Capturar Leap Motion"
   },
+  "Movement smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
+    "text": "Suavização"
+  },
   "Smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
     "text": "Suavização"
@@ -1331,7 +1335,7 @@
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeDropdown",
     "text": null
   },
-  "[Network tracking]": {
+  "[OpenSeeFace tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
     "text": null
   },
@@ -1699,7 +1703,7 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
     "text": null
   },
-  "iFacialMocap smoothing": {
+  "iPhone blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
     "text": null
   },
@@ -1713,6 +1717,18 @@
   },
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": null
+  },
+  "Tracking app:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
+    "text": null
+  },
+  "iFacialMocap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
+    "text": null
+  },
+  "iPhone/ARKit tracking receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
     "text": null
   }
 }

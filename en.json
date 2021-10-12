@@ -259,6 +259,10 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Track Leap Motion/Text",
     "text": "Track Leap Motion"
   },
+  "Movement smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
+    "text": "Movement smoothing"
+  },
   "Smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
     "text": "Smoothing"
@@ -1331,9 +1335,9 @@
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeDropdown",
     "text": "Slow"
   },
-  "[Network tracking]": {
+  "[OpenSeeFace tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
-    "text": "[Network tracking]"
+    "text": "[OpenSeeFace tracking]"
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
@@ -1699,9 +1703,9 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
     "text": "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>"
   },
-  "iFacialMocap smoothing": {
+  "iPhone blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
-    "text": "iFacialMocap smoothing"
+    "text": "iPhone blendshape smoothing"
   },
   "Show IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
@@ -1714,5 +1718,17 @@
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
     "text": "Chest (Fixed)"
+  },
+  "Tracking app:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
+    "text": "Tracking app:"
+  },
+  "iFacialMocap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
+    "text": "iFacialMocap"
+  },
+  "iPhone/ARKit tracking receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
+    "text": "iPhone/ARKit tracking receiver"
   }
 }
