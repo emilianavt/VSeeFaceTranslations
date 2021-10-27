@@ -1,0 +1,1734 @@
+{
+  "{translation_credits}": {
+    "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
+    "text": "Pencunia\n"
+  },
+  "+": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
+    "text": "+"
+  },
+  "Add avatar": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/NameText",
+    "text": "아바타 추가"
+  },
+  "Remove Avatar": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/RemoveAvatarButton/Text",
+    "text": "아바타 제거"
+  },
+  "Title:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/TitleLabel",
+    "text": "제목:"
+  },
+  "Author:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/AuthorLabel",
+    "text": "제작자:"
+  },
+  "Version:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/VersionLabel",
+    "text": "버전:"
+  },
+  "Contact:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ContactLabel",
+    "text": "연락처:"
+  },
+  "Reference:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ReferenceLabel",
+    "text": "참조:"
+  },
+  "Can Perform:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CanPerformLabel",
+    "text": "사용 가능한 형태:"
+  },
+  "Violence:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ViolenceLabel",
+    "text": "폭력 표현 허가:"
+  },
+  "Sexual:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/SexLabel",
+    "text": "성적 표현 허가:"
+  },
+  "Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "상업적 이용:"
+  },
+  "License:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
+    "text": "라이센스:"
+  },
+  "License URL:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
+    "text": "라이센스 URL:"
+  },
+  "Select": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/SelectButton/Text",
+    "text": "선택"
+  },
+  "Cancel": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/CancelButton/Text",
+    "text": "취소"
+  },
+  "Camera": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraLabel",
+    "text": "카메라"
+  },
+  "Camera 1": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
+    "text": "카메라 1"
+  },
+  "Option A": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Template/Viewport/Content/Item/Item Label",
+    "text": "옵션 A"
+  },
+  "Camera Width": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/WidthContainer/CameraWidthLabel",
+    "text": "카메라 넓이"
+  },
+  "Width": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/WidthContainer/Width/Placeholder",
+    "text": "넓이"
+  },
+  "1280": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/WidthContainer/Width/WidthText",
+    "text": "1280"
+  },
+  "Camera Height": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/HeightContainer/CameraHeightLabel",
+    "text": "카메라 길이"
+  },
+  "Height": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/HeightContainer/Height/Placeholder",
+    "text": "길이"
+  },
+  "720": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/HeightContainer/Height/HeightText",
+    "text": "720"
+  },
+  "Camera Framerate": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/FramerateContainer/CameraFramerateLabel",
+    "text": "카메라 프레임 속도"
+  },
+  "FPS": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/FramerateContainer/FPS/Placeholder",
+    "text": "FPS"
+  },
+  "24": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/FramerateContainer/FPS/FpsText",
+    "text": "24"
+  },
+  "Microphone": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/MicrophoneContainer/MicLabel",
+    "text": "마이크"
+  },
+  "[Choose your microphone here]": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/MicrophoneContainer/MicDropdown/Label",
+    "text": "[마이크를 선택하세요]"
+  },
+  "Tracking": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
+    "text": "트래킹 품질"
+  },
+  "High quality (wink support)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "고품질 (윙크 지원)"
+  },
+  "High quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "고품질"
+  },
+  "Listen IP": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IPLabel",
+    "text": "IP"
+  },
+  "Listen IP (127.0.0.1)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IP/Placeholder",
+    "text": "IP (127.0.0.1)"
+  },
+  "": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IP/IPText",
+    "text": ""
+  },
+  "Port": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/PortLabel",
+    "text": "Port"
+  },
+  "Port (11573)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/Port/Placeholder",
+    "text": "Port (11573)"
+  },
+  "Start": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/StartButton/Text",
+    "text": "시작"
+  },
+  "English": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
+    "text": "영어"
+  },
+  "Initializing avatar...": {
+    "comment": "VSeeFace/Canvas/UI/Loading avatar message",
+    "text": "아바타 실행 중..."
+  },
+  "Loading camera list": {
+    "comment": "VSeeFace/Canvas/UI/LoadingUI/Text",
+    "text": "카메라 로딩 중"
+  },
+  "Failed to start tracker. This is most likely caused by a corrupted installation.": {
+    "comment": "VSeeFace/Canvas/UI/ErrorUI/Text",
+    "text": "트래커 실행에 실패하였습니다. 이것은 설치의 실패가 원인일 수 있습니다."
+  },
+  "Open logs": {
+    "comment": "VSeeFace/Canvas/UI/ErrorUI/Open logs/Text",
+    "text": "로그 열기"
+  },
+  "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it": {
+    "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
+    "text": "<align=\"center\">[Error]</align>\n얼굴 인식 프로세스가 손실되었습니다. 다음을 시도해보십시오:\n1) VSeeFace를 재실행하고 카메라 설정을 변경\n2) 다른 것이 카메라를 사용 중인지 확인\n3) 얼굴 인식을 끄고 \"일반 설정\" 에서 이것을 다시 실행\n4) VSeeFace를 다시 다운로드 후 재설치"
+  },
+  "X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
+    "text": "X"
+  },
+  "Load VRM avatar": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load VRM avatar/Text",
+    "text": "VRM 아바타 불러오기"
+  },
+  "Avatar selection": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Avatar selection/Text",
+    "text": "아바타 선택"
+  },
+  "Show settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Show settings/Text",
+    "text": "설정"
+  },
+  "Hide settings menu": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Text",
+    "text": "설정"
+  },
+  "General settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/General settings/Text",
+    "text": "일반 설정"
+  },
+  "Leap Motion settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Leap Motion settings/Text",
+    "text": "Leap Motion 설정"
+  },
+  "Light settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Light settings/Text",
+    "text": "조명 설정"
+  },
+  "Expression settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Expression settings/Text",
+    "text": "표정 설정"
+  },
+  "Effect settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Effect settings/Text",
+    "text": "보정 설정"
+  },
+  "Show help": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show help/Text",
+    "text": "설명"
+  },
+  "Clear calibration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Clear calibration/Text",
+    "text": "캘리브레이션 제거"
+  },
+  "Load calibration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load/Text",
+    "text": "캘리브레이션 불러오기"
+  },
+  "Save calibration as...": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save as/Text",
+    "text": "캘리브레이션 다른 이름으로 저장"
+  },
+  "Save calibration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save/Text",
+    "text": "캘리브레이션 저장"
+  },
+  "Reset position": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Reset position/Text",
+    "text": "위치 재설정"
+  },
+  "Mirror motion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Mirror motion/Text",
+    "text": "거울 모드"
+  },
+  "Drift back to normal": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift/Text",
+    "text": "서서히 위치를 재설정"
+  },
+  "Track Leap Motion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Track Leap Motion/Text",
+    "text": "Leap Motion 추적"
+  },
+  "Movement smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
+    "text": "움직임 평활화"
+  },
+  "Smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
+    "text": "평활화"
+  },
+  "Movement range": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Movement range/Text",
+    "text": "이동 범위"
+  },
+  "Drift speed": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift speed/Text",
+    "text": "위치 재설정 속도"
+  },
+  "Neutral": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Record/Text",
+    "text": "기본"
+  },
+  "Clear": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Clear/Text",
+    "text": "비우기"
+  },
+  "No": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/No/Text",
+    "text": "아니오"
+  },
+  "Yes": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Yes/Text",
+    "text": "예"
+  },
+  "Fun": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Fun/NotRecording/Record/Text",
+    "text": "즐거운"
+  },
+  "Angry": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Angry/NotRecording/Record/Text",
+    "text": "화난"
+  },
+  "Joy": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Joy/NotRecording/Record/Text",
+    "text": "기쁨"
+  },
+  "Sorrow": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Sorrow/NotRecording/Record/Text",
+    "text": "슬픔"
+  },
+  "Surprised": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Surprise/NotRecording/Record/Text",
+    "text": "놀란"
+  },
+  "Stop recording neutral": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/NeutralRed/Text",
+    "text": "기본 표정 녹화 중지"
+  },
+  "Stop recording fun": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/FunRed/Text",
+    "text": "즐거운 표정 녹화 중지"
+  },
+  "Stop recording angry": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/AngryRed/Text",
+    "text": "화난 표정 녹화 중지"
+  },
+  "Stop recording joy": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/JoyRed/Text",
+    "text": "기쁜 표정 녹화 중지"
+  },
+  "Stop recording sorrow": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SorrowRed/Text",
+    "text": "슬픈 표정 녹화 중지"
+  },
+  "Stop recording surprised": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SurpriseRed/Text",
+    "text": "놀란 표정 녹화 중지"
+  },
+  "Calibrate": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Calibrate/Text",
+    "text": "캘리브레이션"
+  },
+  "Effects settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Title",
+    "text": "보정 설정"
+  },
+  "General": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/General/Text",
+    "text": "일반 설정"
+  },
+  "Bloom": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Bloom/Text",
+    "text": "블룸"
+  },
+  "Ambient occlusion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
+    "text": "Ambient occlusion"
+  },
+  "Lens distortion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Lens distortion/Text",
+    "text": "렌즈 왜곡"
+  },
+  "Chromatic aberration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Chromatic aberration/Text",
+    "text": "색수차"
+  },
+  "Color": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Color/Text",
+    "text": "색상 보정"
+  },
+  "그래인": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Grain/Text",
+    "text": "Grain"
+  },
+  "Halftone": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Halftone dots/Text",
+    "text": "Halftone"
+  },
+  "Enable post processing effects": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable/Label",
+    "text": "포스트 프로세싱 효과 사용"
+  },
+  "Improve anti-aliasing (SMAA)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Improve anti-aliasing/Label",
+    "text": "안티얼라이징 향상 (SMAA)"
+  },
+  "Enable broken effects": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable broken/Label",
+    "text": "깨진 효과 사용"
+  },
+  "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
+    "text": "\n포스트 프로세싱 효과는 시스템 부하를 증가시킵니다. 현재 아직 실험적이며 항상 바람직한 결과를 초래하지는 않습니다. 구체적 내용은 기본적으로 아바타 외부 영역에 영향을 주지 않습니다.\n\n내 시스템에서는 포스트 프로세싱과 모든 효과는 CPU 사용량을 약간 증가시키고 GPU 사용량은 두배 이상입니다. 적은 효과를 사용할수록 적은 영향을 미치므로 실제로 필요한 것만 사용하십시오."
+  },
+  "Enable": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
+    "text": "활성화"
+  },
+  "Don't cut at edge": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Fix alpha/Label",
+    "text": "아바타 외에도 효과 적용"
+  },
+  "#FFFFFF": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Hex color/InputField/Placeholder",
+    "text": "#FFFFFF"
+  },
+  "Color intensity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Color intensity/Text",
+    "text": "색의 강도"
+  },
+  "Intensity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Intensity/Text",
+    "text": "강도"
+  },
+  "Threshold": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
+    "text": "임계 값"
+  },
+  "Diffusion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Diffusion/Text",
+    "text": "확산"
+  },
+  "Transparent bloom  strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Alpha/Text",
+    "text": "투명도의 bloom 강도"
+  },
+  "Reset settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Reset/Text",
+    "text": "설정 초기화"
+  },
+  "Radius": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Radius/Text",
+    "text": "반경"
+  },
+  "Quality": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality",
+    "text": "품질"
+  },
+  "Ultra": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:4",
+    "text": "울트라"
+  },
+  "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Text",
+    "text": "속눈썹의 메쉬로 인해 눈 주위에 이상한 그림자가 발생한 경우 소재를 컷 아웃으로 설정해보십시오"
+  },
+  "Multiplier X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
+    "text": "배수 X"
+  },
+  "Multiplier Y": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier Y/Text",
+    "text": "배수 Y"
+  },
+  "Center X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center X/Text",
+    "text": "중앙 위치 X"
+  },
+  "Center Y": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center Y/Text",
+    "text": "중앙 위치 Y"
+  },
+  "Scale": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
+    "text": "크기"
+  },
+  "Cromatic aberration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
+    "text": "색수차"
+  },
+  "Color temperature": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Temperature/Text",
+    "text": "색온도"
+  },
+  "Tint": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Tint/Text",
+    "text": "틴트"
+  },
+  "Hue": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Hue/Text",
+    "text": "색"
+  },
+  "Saturation": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Saturation/Text",
+    "text": "채도"
+  },
+  "Brightness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Brightness/Text",
+    "text": "밝기"
+  },
+  "Contrast": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Contrast/Text",
+    "text": "대조"
+  },
+  "Colored": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Colored/Label",
+    "text": "색상의(RGB분리)"
+  },
+  "Size": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
+    "text": "크기"
+  },
+  "Luminance contribution": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Luminance contribution/Text",
+    "text": "밝기 기여도"
+  },
+  "Transparent grain strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
+    "text": "투명도 입자 강도"
+  },
+  "Opaque background": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
+    "text": "불투명한 배경"
+  },
+  "Black level": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Black level/Text",
+    "text": "블랙 레벨"
+  },
+  "White level": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/White level/Text",
+    "text": "화이트 레벨"
+  },
+  "Dot grid size": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot grid size/Text",
+    "text": "도트 그리드 크기"
+  },
+  "Dot size factor": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
+    "text": "도트 크기 계수"
+  },
+  "Leap Motion tracking hotkey": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Label",
+    "text": "Leap Motion 추적 단축키"
+  },
+  "Button": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
+    "text": "버튼"
+  },
+  "Position: Right/left": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position X/Text",
+    "text": "위치: 오른쪽/왼쪽"
+  },
+  "Position: Height": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Y/Text",
+    "text": "위치: 높이"
+  },
+  "Position: Forward": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Z/Text",
+    "text": "위치: 앞쪽"
+  },
+  "Transition time: Up (0-2s)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Transition time in/Text",
+    "text": "전환 시간: Up (0-2s)"
+  },
+  "Detection range (0.3-1m)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Range limit/Toggle/Label",
+    "text": "감지 범위 (0.3-1m)"
+  },
+  "Position: Attachment": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
+    "text": "위치: 부가 장치"
+  },
+  "Flat on desk": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "책상의 수평"
+  },
+  "Rotation X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation X/Text",
+    "text": "회전 X"
+  },
+  "Rotation Y": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Y/Text",
+    "text": "회전 Y"
+  },
+  "Rotation Z": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Z/Text",
+    "text": "회전 Z"
+  },
+  "Transition time: Down (0-2s)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Transition time out/Text",
+    "text": "전환 시간: Down (0-2s)"
+  },
+  "Hands down delay (0-2s)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
+    "text": "손을 내릴 때까지의 시간 (0-2s)"
+  },
+  "Hands mode": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
+    "text": "거울 모드"
+  },
+  "No swap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
+    "text": "Off"
+  },
+  "Focal length (6-135mm)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
+    "text": "초점 거리 (6-135mm)"
+  },
+  "Blink sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink sensitivity/Text",
+    "text": "깜빡임 민감도"
+  },
+  "Gaze strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze strength/Text",
+    "text": "시선의 강도"
+  },
+  "Gaze sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze sensitivity/Text",
+    "text": "시선 민감도"
+  },
+  "Gaze offset up/down": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze up/down/Text",
+    "text": "시선 오프셋 상/하"
+  },
+  "Gaze offset left/right": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze left/right/Text",
+    "text": "시선 오프셋 좌/우"
+  },
+  "Eyebrow strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow strength/Text",
+    "text": "눈썹 강도"
+  },
+  "Eyebrow sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow sensitivity/Text",
+    "text": "눈썹 민감도"
+  },
+  "Eyebrow offset": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow offset/Text",
+    "text": "눈썹 오프셋"
+  },
+  "Lip  sync smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme smoothing/Text",
+    "text": "립싱크 평활화"
+  },
+  "Lip sync audio overdrive gain": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme gain/Text",
+    "text": "립싱크 마이크 게인"
+  },
+  "Mouth sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth sensitivity/Text",
+    "text": "입 움직임 민감도"
+  },
+  "Mouth smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth smoothing/Text",
+    "text": "입 움직임 평활화"
+  },
+  "Mouth size reduction": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth reduction/Text",
+    "text": "입 움직임 크기 감소"
+  },
+  "Arm angle": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Arm angle/Text",
+    "text": "팔 각도"
+  },
+  "Shoulder stiffness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Shoulder stiffness/Text",
+    "text": "어깨 위치 고정도"
+  },
+  "Body stiffness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Body stiffness/Text",
+    "text": "몸 위치 고정도"
+  },
+  "Expression stabilizer": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Expression stabilizer/Text",
+    "text": "표정 안정화"
+  },
+  "Expression smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression smoothing/Text",
+    "text": "표정 평활화"
+  },
+  "Expression sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression sensitivity/Text",
+    "text": "표정 민감도"
+  },
+  "Auto blink": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:1",
+    "text": "자동 깜빡임"
+  },
+  "Link eye blinks": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
+    "text": "눈 깜빡임 동기화"
+  },
+  "Smooth auto blink": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smooth auto blink/Label",
+    "text": "부드러운 자동 깜빡임"
+  },
+  "Synthetic gaze": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
+    "text": "가상 시선"
+  },
+  "Follow head movement": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
+    "text": "머리의 움직임을 따름"
+  },
+  "Audio lip sync / Hotkey:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
+    "text": "음성 립싱크 / 단축키:"
+  },
+  "Always use full lip sync animation": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",
+    "text": "항상 립싱크 애니메이션을 모두 사용"
+  },
+  "Hybrid lip sync/mouth tracking": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hybrid lip sync/Label",
+    "text": "하이브리드 립싱크/입 추적"
+  },
+  "Avatar locomotion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Avatar locomotion/Label",
+    "text": "아바타 이동"
+  },
+  "Mirror image while UI hidden with ※ button": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
+    "text": "※ 버튼으로 UI를 숨긴 동안 거울상"
+  },
+  "Default camera position": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label",
+    "text": "기본 카메라 위치"
+  },
+  "Default": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
+    "text": "기본"
+  },
+  "Save": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Save/Text",
+    "text": "저장"
+  },
+  "Global reset position hotkey:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Global reset hotkey/Label",
+    "text": "위치 글로벌 리셋 단축키:"
+  },
+  "Face tracking (disabling means no face movement and saves CPU)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
+    "text": "얼굴 추적 (비활성화는 얼굴이 움직이지 않고 CPU가 절약됩니다.)"
+  },
+  "Expression detection": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
+    "text": "표정 감지"
+  },
+  "None": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
+    "text": "없음"
+  },
+  "Simple (fun, angry, surprised only)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple expression detection/Label",
+    "text": "간단하게 (즐거움, 화남, 놀람만 표현)"
+  },
+  "Graphics settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Graphics title",
+    "text": "그래픽 설정"
+  },
+  "Allow window resizing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resizable window/Label",
+    "text": "창 크기 조절 허용"
+  },
+  "Anti-aliasing:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label",
+    "text": "안티얼라이징:"
+  },
+  "Really nice": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:0",
+    "text": "매우 좋음"
+  },
+  "(high GPU load)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Warning",
+    "text": "(높은 GPU 사용)"
+  },
+  "Resolution:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolution",
+    "text": "해상도:"
+  },
+  "1600x900": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:3",
+    "text": "1600x900"
+  },
+  "Set": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Custom/Set/Text",
+    "text": "설정"
+  },
+  "VSync": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/VSync/Label",
+    "text": "VSync"
+  },
+  "Cap frame rate:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label",
+    "text": "프레임 속도 제한: "
+  },
+  "60": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label/FPS cap/Placeholder",
+    "text": "60"
+  },
+  "Device settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Devices title",
+    "text": "장치 설정"
+  },
+  "Virtual camera": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera title",
+    "text": "가상 카메라"
+  },
+  "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera description",
+    "text": "활성화 시 가상 웹캠이 VSeeFace 이미지를 내보냅니다.\nUI는 카메라에 나타나지 않습니다.\nDiscord는 본인에게는 카메라가 반전된 것으로 표시하지만, 다른 사람에게는 올바른 방향으로 보이는 점에 유의하십시오."
+  },
+  "Enable virtual camera for this session": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
+    "text": "이 세션에서 가상 카메라 활성화"
+  },
+  "Low latency": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Low latency/Label",
+    "text": "낮은 지연"
+  },
+  "Install virtual camera": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Install/Text",
+    "text": "가상 카메라 설치"
+  },
+  "Uninstall virtual camera": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Uninstall/Text",
+    "text": "가상 카메라 삭제"
+  },
+  "Load background image": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Load background image/Text",
+    "text": "배경 이미지 불러오기"
+  },
+  "Background image": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Background",
+    "text": "배경 이미지"
+  },
+  "Unload image": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Unload image container/Unload image/Text",
+    "text": "이미지 제거"
+  },
+  "Advanced": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Advanced",
+    "text": "고급"
+  },
+  "Less mesh updates (may make parts of avatar disappear, faster with many meshes)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Update offscreen/Label",
+    "text": "메쉬 업데이트 줄이기 (아바타의 일부가 사라질 수 있으며, 메쉬가 많을수록 빨라집니다)"
+  },
+  "Use old lip sync model (lower accuracy)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lip sync provider/Label",
+    "text": "이전 립싱크 모델 사용 (낮은 정확도)"
+  },
+  "Factory reset": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
+    "text": "공장 초기화"
+  },
+  "Load and play audio": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Load and play audio/Text",
+    "text": "오디오를 가져와 재생"
+  },
+  "Stop audio": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Stop audio/Text",
+    "text": "오디오 정지"
+  },
+  "Show tracking points": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Show tracking points/Text",
+    "text": "트래킹 위치 표시"
+  },
+  "Hide tracking points": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Hide tracking points/Text",
+    "text": "트래킹 포인트 감추기"
+  },
+  "Sun": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Sun/Text",
+    "text": "태양"
+  },
+  "Ambient": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Ambient/Text",
+    "text": "환경"
+  },
+  "Shadows": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Toggle/Label",
+    "text": "그림자"
+  },
+  "Save pos.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Save/Text",
+    "text": "위치 저장"
+  },
+  "Reset pos.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Reset/Text",
+    "text": "위치 초기화"
+  },
+  "Ambient intensity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
+    "text": "환경 강도"
+  },
+  "OK": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
+    "text": "OK"
+  },
+  "FPS\t?\nTR\t?": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Perf monitor",
+    "text": "FPS\t?\nTR\t?"
+  },
+  "New Text": {
+    "comment": "LocalizationTools/Dummy/Expression config/Expression title",
+    "text": "New Text"
+  },
+  "Base": {
+    "comment": "LocalizationTools/Dummy/Expression config/Base/Label",
+    "text": "기본"
+  },
+  "Additive": {
+    "comment": "LocalizationTools/Dummy/Expression config/Additive/Label",
+    "text": "추가적인"
+  },
+  "Enable eye blinking": {
+    "comment": "LocalizationTools/Dummy/Expression config/Blink checkbox/Label",
+    "text": "눈 깜빡임 활성화"
+  },
+  "Enable mouth animation": {
+    "comment": "LocalizationTools/Dummy/Expression config/Mouth checkbox/Label",
+    "text": "입 추적 활성화"
+  },
+  "Enable eyebrow animation": {
+    "comment": "LocalizationTools/Dummy/Expression config/Brow checkbox/Label",
+    "text": "눈썹 추적 활성화"
+  },
+  "Hold": {
+    "comment": "LocalizationTools/Dummy/Expression config/Trigger/Label",
+    "text": "누르고 있기"
+  },
+  "Toggle": {
+    "comment": "LocalizationTools/Dummy/Expression config/Toggle/Label",
+    "text": "토글"
+  },
+  "Hotkey": {
+    "comment": "LocalizationTools/Dummy/Expression config/Hotkey",
+    "text": "단축키"
+  },
+  "Transition time (0s - 0.5s)": {
+    "comment": "LocalizationTools/Dummy/Expression config/Transition time",
+    "text": "전환 시간 (0s - 0.5s)"
+  },
+  "Medium quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
+    "text": "중간 품질"
+  },
+  "Barely okay quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:2",
+    "text": "나름대로 괜찮은 품질"
+  },
+  "Low quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:3",
+    "text": "낮은 품질"
+  },
+  "Lowest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:0",
+    "text": "최저"
+  },
+  "Low": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:1",
+    "text": "낮음"
+  },
+  "Medium": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:2",
+    "text": "중간"
+  },
+  "High": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:3",
+    "text": "높음"
+  },
+  "Chest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:1",
+    "text": "가슴"
+  },
+  "Head or HMD": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:2",
+    "text": "머리 또는 HMD"
+  },
+  "Swap hands": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
+    "text": "On"
+  },
+  "Look at camera": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:1",
+    "text": "카메라 보기"
+  },
+  "Closer": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
+    "text": "근접"
+  },
+  "Custom": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
+    "text": "커스텀"
+  },
+  "Custom 2": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
+    "text": "커스텀 2"
+  },
+  "Custom 3": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
+    "text": "커스텀 3"
+  },
+  "Custom 4": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:5",
+    "text": "커스텀 4"
+  },
+  "Custom 5": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:6",
+    "text": "커스텀 5"
+  },
+  "Custom 6": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
+    "text": "커스텀 6"
+  },
+  "Custom 7": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
+    "text": "커스텀 7"
+  },
+  "Custom 8": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
+    "text": "커스텀 8"
+  },
+  "Custom 9": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
+    "text": "커스텀 9"
+  },
+  "Custom 10": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
+    "text": "커스텀 10"
+  },
+  "16x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:1",
+    "text": "16x"
+  },
+  "8x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:2",
+    "text": "8x"
+  },
+  "4x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:3",
+    "text": "4x"
+  },
+  "2x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:4",
+    "text": "2x"
+  },
+  "Custom:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:0",
+    "text": "커스텀:"
+  },
+  "960x540": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:1",
+    "text": "960x540"
+  },
+  "1280x720": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:2",
+    "text": "1280x720"
+  },
+  "1920x1080": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:4",
+    "text": "1920x1080"
+  },
+  "※": {
+    "comment": "VSeeFace/Canvas/ShowUI/Text (TMP)",
+    "text": "※"
+  },
+  "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersion: {version} β": {
+    "comment": "VSeeFace/Canvas/UI/Title (TMP)",
+    "text": "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersion: {version} β"
+  },
+  "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
+    "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
+    "text": "업데이트 사용 가능:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)"
+  },
+  "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>": {
+    "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
+    "text": "샘플 모델은 <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>의 <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u>앱으로 만들어졌습니다"
+  },
+  "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
+    "text": "실험적인 표정 감지 (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">튜토리얼(영문)</link></u>)"
+  },
+  "Hotkeys": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
+    "text": "단축키"
+  },
+  "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
+    "text": "이 프로그램의 다양한 기능을 빠르게 사용하기 위해서 아래의 단축키를 사용할 수 있습니다.<size=50%>\n\n</size>Space\t\tUI를 숨기는 ※ 버튼 표시/숨기기\nR\t\t아바타 자세를 초기화\nShift+R\t아바타 자세를 완전히 초기화\nS\t\t고해상도 스크린샷 촬영\nShift+S\t3초 뒤 스크린샷 촬영\nL\t\t새 VRM 아바타 불러오기\nC\t\t카메라 초기화\nD\t\t빛 방향 초기화\n\n"
+  },
+  "Global hotkeys": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
+    "text": "글로벌 단축키"
+  },
+  "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
+    "text": "글로벌 단축키는 어디에서나 쓸 수 있습니다.\n이 프로그램이 비활성화일 때도 사용 가능합니다.\n\nCtrl+Shift+F1부터 Ctrl+Shift+F6을 누르면 각 표정(기본, 즐거운, 화난, 기쁜, 슬픈, 놀란)을 강제로 적용합니다. 이것을 다시 눌러 표정을 멈출 수 있으며, 다른 표정으로 바로 바꿀 수도 있습니다.\n\nCtrl+Shift+F7은 토글방식으로 Leap Motion 기반의 핸드 트래킹을 켜고 끕니다.(단축키 지정 안되어 있을 수 있음)"
+  },
+  "Transparency/Greenscreen": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
+    "text": "투명/그린스크린"
+  },
+  "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
+    "text": "크로마키를 위한 다른 배경색 설정은 지원하지 않습니다. 대신 캡처시 투명한 배경을 사용할 수 있습니다. 이것은 당신의 아바타가 어떤 색의 조합이던지 사용할 수 있게 하며, 반투명한 물체 또한 사용이 가능하게 합니다.\n\n이것을 사용하기 위해선 오른쪽 구석의 ※버튼을 눌러야합니다. 또한 스페이스 키로 이 버튼을 숨기거나 표시할 수 있습니다.\n\nUI를 숨긴 뒤엔 배경은 체커보드 패턴으로 표시됩니다. 이 창을 캡쳐하기 위해서는 <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS)의 \"Game Capture\"소스를 사용하고 \"Allow Transparency\"항목의 박스에 체크를 해 주십시오. 체커보드 패턴은 OBS에서 사라지고 투명하게 바뀔 것입니다."
+  },
+  "Hint": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
+    "text": "힌트"
+  },
+  "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
+    "text": "파란 바는 당신이 카메라 이미지의 가장자리에 가깝다는 것을 의미합니다. 따라서 그 방향으로 더 이동하지 않는 것이 좋습니다. 그것은 OBS에 나타나지 않습니다. 또한 <u><link=\"https://www.vseeface.icu/\">메뉴얼</link></u>을 확인 하십시오.(영어입니다)"
+  },
+  "Expression configuration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Title",
+    "text": "표정 구성"
+  },
+  "Each expression, including the neutral one, has a number of settings that can be configured. An expression can be a base or additive expression. Only one base expression can be active at a time, but additive expressions are added on top of others. Mouth, eye blink and eyebrow animation can be disabled. A global hotkey can be assigned for every expression. If it is set to \"Hold\", the expression is enabled while the key is held. If set to \"Toggle\", it will turn on and off with each button press. The transition slider can be used to set how long the smooth transition time to or from this expressions should be, from instantaneous to half a second.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Text (TMP)",
+    "text": "기본 표정을 포함한 각 표정에는 추가로 구성할 수 있는 설정이 다수 있습니다. 한 표정은 기본 혹은 구성한 표정이 됩니다. 기본 표정은 한번에 하나씩만 사용 가능하지만 추가로 구성하는 표정은 기본 표정 위에 추가됩니다. 입과 눈 깜빡임, 눈썹 애니메이션은 비활성화 할 수 있습니다. 글로벌 단축키는 각 표정을 나타낼 수 있습니다. \"누르고 있기\"로 설정되어 있다면 표정은 누르고 있는 동안 유지되며, \"토글\"로 설정되어 있다면 버튼을 누름에 따라 on/off로 작동합니다. 전환 슬라이더는 표정이 부드럽게 변화하는 시간을 설정하는데 사용하며, 순간에서 0.5초 범위를 가집니다.\n"
+  },
+  "Eyebrow tracking": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Title",
+    "text": "눈썹 트래킹"
+  },
+  "Eyebrow tracking is supported for <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Text (TMP)",
+    "text": "눈썹 트래킹은 <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u>와 <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u>모델을 지원합니다. 눈썹 모션의 강도는 \"일반 설정\"에서 설정할 수 있습니다. 눈썹 애니메이션을 커스터마이즈 하거나 다른 모델 타입에서 작동하게 하기 위해서는 <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) 프리셋에서 \"Brows up\"과 \"Brows down\"라는 이름의 항목을 조정하거나 추가해야 합니다. 또한 이것을 이용하면 표정을 적절하게 조정할 수 있게 합니다."
+  },
+  "Expression detection (experimental)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Title",
+    "text": "표정 감지 (실험적)"
+  },
+  "The expression detection calibration process is a bit tedious and painful, so make sure to bring time. To use it, first enable it from the general settings menu. You can find a video walkthrough for the calibration process <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Make an expression with your face. More extreme expressions are easier to detect.\n- Press the corresponding button to start recording.\n- Move and turn your head around and talk while holding the expression.\n- Press the button again to stop recording.\n- Relax your face.\n- Repeat this for all expressions.\n- Press \"Calibrate\" and test the results.\n- If an expression gives you trouble, record more and \"Calibrate\" again.\n- If an expression is misdetected for a certain head pose, try recording more data for it in that pose.\n- Save when you are happy.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Text (TMP)",
+    "text": "표정 감지 캘리브레이션 작업은 조금 지루하고 성가시므로 여유을 가지고 해야합니다. 사용하기 위해서는 먼저 일반 설정에서 활성화해야 합니다. <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">여기</link></u> 영상에서 캘리브레이션 과정에 대한 자세한 설명을 볼 수 있습니다:\n\n- 당신의 얼굴로 표정을 짓습니다. 극적으로 표현할 수록 감지가 쉽습니다.\n- 상응하는 버튼을 눌러 녹화를 시작합니다.\n- 표정을 유지한채로 움직이고 고개도 돌려보고 말도 해봅니다.\n- 버튼을 다시 눌러 녹화를 정지합니다.\n- 얼굴을 진정시키고\n- 이것을 모든 표정에 반복합니다.\n- \"캘리브레이트\"를 누르고 결과를 테스트합니다.\n- 표정에 문제가 있으면 더 녹화하고 \"캘리브레이트\"를 한번 더 합니다.\n- 특정 표정이 잘 감지되지 않으면, 해당 포즈에서 더 많은 데이터를 기록해 보십시오.\n- 만족스럽게 되었다면 저장하십시오.\n(일어 버전에서는 다른 이름으로 저장하라고 되어 있습니다)"
+  },
+  "Camera and light": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Title",
+    "text": "카메라와 조명"
+  },
+  "The direction of light can be changed with Ctrl+Left click. The camera can be rotated with Alt+Left click. Alt+Right click or Alt+Mouse wheel can be used to zoom in and out. Alt+Middle click or Ctrl+Right click can be used to drag the view.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Text (TMP)",
+    "text": "빛의 방향은 Ctrl + 좌클릭을 이용하여 변경할 수 있습니다. 카메라는 Alt + 좌클릭으로 회전시킬 수 있습니다. Alt + 우클릭 또는 Alt + 마우스 휠을 이용하여 확대/축소 할 수 있습니다. Alt + 휠 클릭 또는 Ctrl + 우클릭을 이용하여 시점을 옮길 수 있습니다."
+  },
+  "<link></link> is in use by <b></b>, override?": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyOverride/Message/Text",
+    "text": "<link></link> 은(는) <b></b>에 사용되고 있습니다. 덮어 쓰시겠습니까?"
+  },
+  "<link></link> cannot be used": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Message/Text",
+    "text": "<link></link> 은(는) 사용 불가능합니다."
+  },
+  "Assigned <link></link> to <b></b>": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyDone/Message/Text",
+    "text": "<link></link> 을(를) <b></b>에 할당하였습니다."
+  },
+  "English (en)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
+    "text": "영어 (en)"
+  },
+  "Blink smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink smoothing/Text",
+    "text": "눈 깜빡임 평활화"
+  },
+  "Neck stiffness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Neck stiffness/Text",
+    "text": "목 위치 고정도"
+  },
+  "Toaster (no eye/gaze/expression tracking)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:4",
+    "text": "토스터 급 PC 대상 (눈 깜빡임/시선/표정 트래킹 없음)"
+  },
+  "Please select a camera": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
+    "text": "카메라를 선택하세요."
+  },
+  "Please select an avatar": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoAvatar",
+    "text": "아바타를 선택하세요"
+  },
+  "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
+    "text": "경고: 아바타에 0이 아닌 본 회전이 있습니다. \"Pose Freeze\" 자세에서 내보내기 되었는지 확인하십시오."
+  },
+  "Smile to smile, surprised and angry are eye brows up and down.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
+    "text": "미소에서 미소, 놀람, 화남은 눈썹의 상하를 통해 변경됩니다."
+  },
+  "[Choose your camera here]": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera/Camera dropdown/Label",
+    "text": "[카메라를 선택하십시오]"
+  },
+  "Keep virtual camera enabled": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Keep virtual cam on/Label",
+    "text": "가상카메라 활성화 유지"
+  },
+  ">": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Navigation/>/Text",
+    "text": ">"
+  },
+  "<": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Navigation/</Text",
+    "text": "<"
+  },
+  "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Making sure nothing else is using the camera\n2) Toggling face tracking off and on in the \"General settings\" to restart it\n3) Restarting VSeeFace and changing the camera settings\n4) Redownloading VSeeFace and reinstalling it": {
+    "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
+    "text": "<align=\"center\">[Error]</align>\n얼굴 인식 프로세스가 손실되었습니다. 다음을 시도해보십시오:\n1) 다른 것이 카메라를 사용 중인지 확인\n2) 얼굴 인식을 끄고 \"일반 설정\" 에서 이것을 다시 실행\n3) VSeeFace를 재실행하고 카메라 설정을 변경\n4) VSeeFace를 다시 다운로드 후 재설치"
+  },
+  "Tutorial: Transparency in OBS/SLOBS (1)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Title",
+    "text": "튜토리얼: OBS 또는 SLOBS에서 투명한 배경 (1)"
+  },
+  "Tutorial: Transparency in OBS/SLOBS (2)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Title",
+    "text": "튜토리얼: OBS 또는 SLOBS에서 투명한 배경 (2)"
+  },
+  "Tutorial: Hide UI": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Title",
+    "text": "튜토리얼: UI 숨기기"
+  },
+  "Tutorial: Reset (1)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 1/Title",
+    "text": "튜토리얼: 리셋 (1)"
+  },
+  "Tutorial: Reset (2)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 2/Title",
+    "text": "튜토리얼: 리셋 (2)"
+  },
+  "Tutorial: Camera": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Camera/Title",
+    "text": "튜토리얼: 카메라"
+  },
+  "Tutorial: Tutorial": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Tutorial/Title",
+    "text": "튜토리얼: 튜토리얼"
+  },
+  "1/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Page number",
+    "text": "1/7"
+  },
+  "2/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Page number",
+    "text": "2/7"
+  },
+  "3/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Page number",
+    "text": "3/7"
+  },
+  "4/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 1/Page number",
+    "text": "4/7"
+  },
+  "5/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 2/Page number",
+    "text": "5/7"
+  },
+  "6/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Camera/Page number",
+    "text": "6/7"
+  },
+  "7/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Tutorial/Page number",
+    "text": "7/7"
+  },
+  "Tutorial": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Tutorialx/Text",
+    "text": "튜토리얼"
+  },
+  "T\nu\nt\no\nr\ni\na\nl": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Tutorial/Text",
+    "text": "튜\n토\n리\n얼"
+  },
+  "(none)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
+    "text": "(없음)"
+  },
+  "Show log and settings folder": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Show log folder/Text",
+    "text": "로그 및 설정 폴더 열기"
+  },
+  "While looking down:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label",
+    "text": "아래를 보는 동안:"
+  },
+  "Blinks less sensitive": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:0",
+    "text": "눈 깜빡임 감도 완화"
+  },
+  "Camera defaults": {
+    "comment": "Default configuration mode for webcams",
+    "text": "선택하십시오 (카메라 기본값)"
+  },
+  "Camera Settings": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
+    "text": "카메라 설정"
+  },
+  "Look down threshold": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
+    "text": "아래를 보는 한계"
+  },
+  "Skip": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
+    "text": "스킵"
+  },
+  "Increase process priority": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/High priority/Label",
+    "text": "프로세스 우선 순위 올리기"
+  },
+  "Recommend Settings": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/AutoPerformanceTune/AutoPerfTuneButton/Text",
+    "text": "권장 설정"
+  },
+  "This can take a minute or longer. Proceed?": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune confirm/Message/Text",
+    "text": "1분 이상 걸릴 수 있습니다. 계속 하시겠습니까?"
+  },
+  "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs.": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune message/Message/Text",
+    "text": "PC의 성능을 측정합니다. 잠시 기다려주십시오.\n매우 느린 PC에서는 몇 분 이상 소요될 수 있습니다."
+  },
+  "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Recommendation",
+    "text": "권장 설정\n\n<size=22>트래킹 품질: {1}\n카메라 프레임 속도: {2} fps</size>"
+  },
+  "Maximum speed per quality level": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results header",
+    "text": "트래킹 품질 수준에 따른 최대 속도"
+  },
+  "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
+    "text": "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}"
+  },
+  "Blackmagic capture card support": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Blackmagic/Label",
+    "text": "Blackmagic 캡쳐 보드 지원"
+  },
+  "Keep hips mostly fixed": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lock hips/Label",
+    "text": "엉덩이를 고정"
+  },
+  "Slow": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeDropdown",
+    "text": "Slow"
+  },
+  "[OpenSeeFace tracking]": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
+    "text": "[OpenSeeFace tracking]"
+  },
+  "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
+    "text": "이 설정들은 일반적으로 필요하지 않습니다. 이 설정들은 이상한 영향이 나타날 수 있고 성능 문제가 따를 수 있음을 주의하십시오. 문제가 발생하면 이 설정을 해제하십시오."
+  },
+  "Animate jaw bone": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
+    "text": "턱 뼈 움직이기"
+  },
+  "Wind strength": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind strength/Text",
+    "text": "바람의 세기"
+  },
+  "Wind angle": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
+    "text": "바람의 각도"
+  },
+  "Enable VRM spring bone wind": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind/Label",
+    "text": "VRM spring bone 바람 활성화"
+  },
+  "No wind effect for chest spring bones": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind skip chest/Label",
+    "text": "가슴 spring bones의 바람 사용 안 함"
+  },
+  "Wind direction": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
+    "text": "바람의 방향"
+  },
+  "Wind time factor": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind time factor/Text",
+    "text": "바람의 시간 계수"
+  },
+  "Send data with OSC/VMC protocol": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC send/Label",
+    "text": "OSC/VMC protocol로 데이터 보내기"
+  },
+  "T-pose for calibration": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Label",
+    "text": "캘리브레이션용 T-pose"
+  },
+  "IP address": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Placeholder",
+    "text": "IP 주소"
+  },
+  "127.0.0.1": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Text",
+    "text": "127.0.0.1"
+  },
+  "39540": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Port/Text",
+    "text": "39540"
+  },
+  "Simulate turned hands for calibration": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Turn hands/Label",
+    "text": "캘리브레이션을 위해 손 돌리기"
+  },
+  "OSC/VMC protocol receiver (disables tracking)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC receiving/Label",
+    "text": "OSC/VMC에서 데이터 받기 (트래킹 비활성화)"
+  },
+  "Apply VSeeFace tracking": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Mix and match/Label",
+    "text": "VSeeFace 트래킹 수신"
+  },
+  "Apply expressions": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Apply expressions/Label",
+    "text": "표정 수신"
+  },
+  "Track face features": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track face features/Label",
+    "text": "얼굴 트래킹"
+  },
+  "Track head and neck": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track head and neck/Label",
+    "text": "머리와 목 트래킹"
+  },
+  "Track fingers": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track fingers/Label",
+    "text": "손가락 트래킹"
+  },
+  "Track hands to shoulders": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track hands to shoulders/Label",
+    "text": "손부터 어깨까지 트래킹"
+  },
+  "Track spine and chest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track spine and chest/Label",
+    "text": "척추와 가슴 트래킹"
+  },
+  "Track lower body": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track lower body/Label",
+    "text": "하반신 트래킹"
+  },
+  "Use VRoid style shade coloring": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use VRoid shade/Label",
+    "text": "VRoid 스타일 그림자 색상 사용"
+  },
+  "Start making your expression before beginning the recording.\nKeep it until after you stop the recording. Move your head, speak and blink your eyes.\nAnything that should not be detected as another expression should go into \"Neutral\".\nIf you accidentally make another expression, clear the data and start over.": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/RecordingHelp/Help text",
+    "text": "녹화를 시작하기 전에 표정을 지으십시오.\n녹화를 끝낼 때 까지 유지하십시오. 머리를 움직이고, 말하고, 눈을 깜빡이십시오.\n감지 되고 싶지 않은 다른 표정은 \"Neutral\"에 들어갑니다.\n만약 실수로 다른 표정을 지은 경우 그 표정의 데이터를 지우고 처음부터 다시 시작하십시오."
+  },
+  "Track blendshapes": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track blendshapes/Label",
+    "text": "blendshapes 트래킹"
+  },
+  "Track eye bones": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
+    "text": "eye bones 트래킹"
+  },
+  "Track jaw bone": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
+    "text": "jaw bone 트래킹"
+  },
+  "OSC/<link=\"https://vmc.info/\">VMC protocol</link>": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
+    "text": "OSC/<link=\"https://vmc.info/\">VMC 프로토콜</link>"
+  },
+  "Secondary OSC/VMC protocol receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
+    "text": "보조 OSC/VMC 프로토콜 수신"
+  },
+  "Apply blendshapes": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",
+    "text": "blendshapes 수신"
+  },
+  "Apply eye bones": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track eyes/Label",
+    "text": "eye bones 수신"
+  },
+  "Apply jaw bone": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track jaw/Label",
+    "text": "jaw bone 수신"
+  },
+  "Apply head and neck": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track head and neck/Label",
+    "text": "머리와 목 수신"
+  },
+  "Apply fingers": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track fingers/Label",
+    "text": "손가락 수신"
+  },
+  "Apply hands to shoulders": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track hands to shoulders/Label",
+    "text": "손부터 머리까지 수신"
+  },
+  "Apply spine and chest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track spine and chest/Label",
+    "text": "척추와 가슴 수신"
+  },
+  "Apply lower body": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track lower body/Label",
+    "text": "하반신 수신"
+  },
+  "Camera hotkey:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/GameObject/Text",
+    "text": "카메라 단축키:"
+  },
+  "Press hotkey for <b></b>\n<size=70%>Press escape to cancel or shift+escape to unset.</size>": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyListen/Message/Text",
+    "text": "<b></b>의 단축키로 원하는 것을 눌러주세요.\n<size=70%>ESC키를 눌러 취소 또는 shift + ESC를 눌러 지정 해제</size>"
+  },
+  "Tracking loss timeout": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
+    "text": "트래킹 놓침 대기 시간"
+  },
+  "Tracking loss transition": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
+    "text": "트래킹 놓침 전환 시간"
+  },
+  "Reset pose on tracking loss": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss fade/Label",
+    "text": "트래킹을 놓칠시 포즈 리셋"
+  },
+  "Enable gaze and eyebrow offset settings": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Offset sliders/Label",
+    "text": "시선과 눈썹 오프셋 설정 활성화"
+  },
+  "Barely okay quality, but faster": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "빠르지만 나름대로 괜찮은 품질"
+  },
+  "Still better than toaster": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
+    "text": "그래도 토스터보단 좋다"
+  },
+  "39539": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Port/Text",
+    "text": "39539"
+  },
+  "Blendshape smoothing": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Blendshape smoothing",
+    "text": "Blendshape 평활화"
+  },
+  "Bone smoothing": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Bone smoothing",
+    "text": "Bone 평활화"
+  },
+  "Auto reset position on full loss": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss recalibrate/Label",
+    "text": "완전히 놓쳤을 때 위치 자동 리셋"
+  },
+  "Show LAN IP": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
+    "text": "LAN IP 표시"
+  },
+  "LAN IP:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address",
+    "text": "LAN IP:"
+  },
+  "Hide LAN IP": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
+    "text": "LAN IP 숨기기"
+  },
+  "Screen top (V5 only)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "화면 상단 표시 (V5 전용)"
+  },
+  "Please select your camera settings": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
+    "text": "카메라를 선택해 주세요"
+  },
+  "VSFAvatarOneTimeNotice": {
+    "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
+    "text": "VSFAvatar 형식의 아바타는 다양한 기능과 장시간 실행되는 애니메이션을 포함할 수 있습니다. 방송 중에는 오직 직접 만들거나 신뢰할 수 있는 소스로부터 얻은 VSFAvatar 파일만 사용하십시오."
+  },
+  "VSFAvatarOneTimeNoticeTitle": {
+    "comment": "Title of the notice.",
+    "text": "알림"
+  },
+  "Disable improved transparency": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
+    "text": "향상된 투명도 비활성화"
+  },
+  "Disable webcam FPS selection cap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
+    "text": "웹캠 FPS 제한 해제"
+  },
+  "Use standard blendshape accumulation": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use standard blendshape accumulation/Label",
+    "text": "표준 blendshape 누적을 사용"
+  },
+  "Smart wink threshold": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Smart wink threshold/Text",
+    "text": "스마트 윙크 임계값"
+  },
+  "Smart wink": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
+    "text": "스마트 윙크"
+  },
+  "Prevent vertical head movement": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
+    "text": "머리의 수직운동 제한"
+  },
+  "Normalize mouth blendshape sums > 1.0": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Normalize visemes/Label",
+    "text": "합이 1.0보다 큰 값이 될 입의 blendshape를 정상화"
+  },
+  "Disable packet bundling": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Disable packet bundling/Label",
+    "text": "UDP 패킷의 bundling 해제"
+  },
+  "Avoid desaturation on transparent pixels": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
+    "text": "투명 픽셀의 채도 저하를 방지"
+  },
+  "OnlyAuthor": {
+    "comment": "VRM Allowed User: OnlyAuthor",
+    "text": "제작자만"
+  },
+  "ExplicitlyLicensedPerson": {
+    "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
+    "text": "특별히 허가된 인물"
+  },
+  "Everyone": {
+    "comment": "VRM Allowed User: Everyone",
+    "text": "모두"
+  },
+  "Allow": {
+    "comment": "VRM Usage: Allow",
+    "text": "허가"
+  },
+  "Disallow": {
+    "comment": "VRM Usage: Disallow",
+    "text": "불허가"
+  },
+  "Redistribution_Prohibited": {
+    "comment": "VRM License Type: Redistribution_Prohibited",
+    "text": "재배포 금지"
+  },
+  "CC0": {
+    "comment": "VRM License Type: CC0",
+    "text": "CC0"
+  },
+  "CC_BY": {
+    "comment": "VRM License Type: CC_BY",
+    "text": "CC BY"
+  },
+  "CC_BY_NC": {
+    "comment": "VRM License Type: CC_BY_NC",
+    "text": "CC BY-NC"
+  },
+  "CC_BY_SA": {
+    "comment": "VRM License Type: CC_BY_SA",
+    "text": "CC BY-SA"
+  },
+  "CC_BY_NC_SA": {
+    "comment": "VRM License Type: CC_BY_NC_SA",
+    "text": "CC BY-NC-SA"
+  },
+  "CC_BY_ND": {
+    "comment": "VRM License Type: CC_BY_ND",
+    "text": "CC BY-ND"
+  },
+  "CC_BY_NC_ND": {
+    "comment": "VRM License Type: CC_BY_NC_ND",
+    "text": "CC BY-NC-ND"
+  },
+  "Other": {
+    "comment": "VRM License Type: Other",
+    "text": "Other"
+  },
+  "Hide avatar": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
+    "text": "아바타 숨기기"
+  },
+  "Disable increased background priority": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
+    "text": "백그라운드 우선 순위 향상 비활성화"
+  },
+  "Landscape mode": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
+    "text": "표시방향 변경(90º 회전)"
+  },
+  "iFacialMocap receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
+    "text": "iFacialMocap 수신"
+  },
+  "iPhone IP address": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/IP wrapper/IP/Placeholder",
+    "text": "iPhone IP 주소"
+  },
+  "Receive facial features": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Blendshapes/Label",
+    "text": "얼굴 수신"
+  },
+  "Receive head movement": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Head movement/Label",
+    "text": "머리 움직임 수신"
+  },
+  "Receive eye gaze": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Eyes/Label",
+    "text": "시선 수신"
+  },
+  "Hybrid audio lipsync": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Allow hybrid lipsync/Label",
+    "text": "하이브리드 립싱크(음성+이미지)"
+  },
+  "FaceMotion3D app": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/FaceMotion3D/Label",
+    "text": "FaceMotion3D 앱"
+  },
+  "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
+    "text": "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>"
+  },
+  "iPhone blendshape smoothing": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
+    "text": "iPhone blendshape 평활화"
+  },
+  "Show IP": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
+    "text": "IP 표시"
+  },
+  "Only open mouth according to one source": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Prevent iPhone mouth opening while lip syncing/Label",
+    "text": "한가지 소스만을 따라 입 동작"
+  },
+  "Chest (Fixed)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "가슴 (고정)"
+  },
+  "Tracking app:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
+    "text": "트래킹 앱:"
+  },
+  "iFacialMocap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
+    "text": "iFacialMocap"
+  },
+  "iPhone/ARKit tracking receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
+    "text": "iPhone/ARKit 트래킹 수신"
+  }
+}
