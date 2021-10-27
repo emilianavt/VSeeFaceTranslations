@@ -8,5 +8,6 @@
   {"code": "ru", "name": "Русский"},
   {"code": "fr", "name": "Français"}, 
   {"code":  "de", "name": "Deutsch"},
-  {"code": "chs","name":"中文 (简体)"}
+  {"code": "chs","name":"中文 (简体)"},
+  {"code": "ko", "name": "한국어"}
 ]
