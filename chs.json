@@ -1277,7 +1277,7 @@
   },
   "Blinks less sensitive": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:0",
-    "text": "减少眨眼灵敏度"
+    "text": "降低眨眼灵敏度"
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
@@ -1733,10 +1733,10 @@
   },
   "Leap Motion V4 compatibility (restart required)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Leap Motion Orion V4 Compat/Label",
-    "text": null
+    "text": "兼容Leap Motion V4 (需要重启软件)"
   },
   "iPhone blendshapes required!": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Warning/Label",
-    "text": null
+    "text": "需要iPhone形态键(blendshape)!"
   }
 }
