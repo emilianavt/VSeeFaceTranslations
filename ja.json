@@ -1738,5 +1738,17 @@
   "iPhone blendshapes required!": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Warning/Label",
     "text": "iPhoneのブレンドシェイプが必要"
+  },
+  "Props": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Menu right/Props/Text",
+    "text": "アイテム"
+  },
+  "Add": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/AddPropButton/Text",
+    "text": "追加"
+  },
+  "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
+    "text": "マウスホイール：サイズ変更\nShift＋マウスホイール：回転\nXキー：水平方向のミラーリング\nYキー： 垂直方向のミラーリング\n中クリック：常に上に表示\nDel：削除"
   }
 }

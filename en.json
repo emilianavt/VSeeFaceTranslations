@@ -1738,5 +1738,17 @@
   "iPhone blendshapes required!": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Warning/Label",
     "text": "iPhone blendshapes required!"
+  },
+  "Props": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Menu right/Props/Text",
+    "text": "Props"
+  },
+  "Add": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/AddPropButton/Text",
+    "text": "Add"
+  },
+  "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
+    "text": "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete"
   }
 }
