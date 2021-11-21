@@ -1741,14 +1741,14 @@
   },
   "Props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Menu right/Props/Text",
-    "text": null
+    "text": "Объекты"
   },
   "Add": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/AddPropButton/Text",
-    "text": null
+    "text": "Добавить"
   },
   "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
     "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
-    "text": null
+    "text": "Колёсико мыши: изменить размер\nShift + колёсико мыши: поворот\nX: Отразить по горизонтали\nY: Отразить по вертикали\nСКМ: Включить показ всегда поверх модели\nDel: Удалить"
   }
 }
