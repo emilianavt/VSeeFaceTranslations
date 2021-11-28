@@ -1750,5 +1750,9 @@
   "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
     "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
     "text": null
+  },
+  "Clear all props": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
+    "text": null
   }
 }

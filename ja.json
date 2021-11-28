@@ -1750,5 +1750,9 @@
   "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
     "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
     "text": "マウスホイール：サイズ変更\nShift＋マウスホイール：回転\nXキー：水平方向のミラーリング\nYキー： 垂直方向のミラーリング\n中クリック：常に上に表示\nDel：削除"
+  },
+  "Clear all props": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
+    "text": "付けたアイテムをクリア"
   }
 }
