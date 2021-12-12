@@ -441,7 +441,7 @@
   },
   "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Text",
-    "text": "如果你遇到奇怪的阴影围在眼睛周围，并且是由眼睫毛网络(mesh)引起的，则尝试把它的材质设置成\"cutout(透明度裁剪)\"。"
+    "text": "如果你发现奇怪的阴影出现在眼睛周围，并且阴影是由眼睫毛网络(mesh)引起的，则尝试把它的材料(material)设置成\"cutout(透明度裁剪)\"。"
   },
   "Multiplier X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
@@ -629,11 +629,11 @@
   },
   "Lip  sync smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme smoothing/Text",
-    "text": "口型同步 平滑化"
+    "text": "平滑口型同步"
   },
   "Lip sync audio overdrive gain": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme gain/Text",
-    "text": "口型同步 音频过载增量"
+    "text": "口型同步的音频过载增量"
   },
   "Mouth sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth sensitivity/Text",
@@ -641,7 +641,7 @@
   },
   "Mouth smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth smoothing/Text",
-    "text": "嘴部平滑化"
+    "text": "平滑嘴部"
   },
   "Mouth size reduction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth reduction/Text",
@@ -705,7 +705,7 @@
   },
   "Avatar locomotion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Avatar locomotion/Label",
-    "text": "角色挪动"
+    "text": "角色会进行位置移动"
   },
   "Mirror image while UI hidden with ※ button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
@@ -725,7 +725,7 @@
   },
   "Global reset position hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Global reset hotkey/Label",
-    "text": "全局重置位置快捷键:"
+    "text": "全局重置位置的快捷键:"
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
@@ -801,7 +801,7 @@
   },
   "Enable virtual camera for this session": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
-    "text": "启用虚拟摄像机于这次会话中"
+    "text": "此次启用虚拟摄像机"
   },
   "Low latency": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Low latency/Label",
@@ -841,7 +841,7 @@
   },
   "Factory reset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
-    "text": "回复出厂设置"
+    "text": "恢复默认设置"
   },
   "Load and play audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Load and play audio/Text",
@@ -1061,7 +1061,7 @@
   },
   "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
-    "text": "可更新:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">更新说明</link></u>)"
+    "text": "更新可用:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">更新说明</link></u>)"
   },
   "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>": {
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
@@ -1085,7 +1085,7 @@
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": "全局快捷键可以在任何地方使用，即便此程序最小化。\n\n按 Ctrl+Shift+F1 到 Ctrl+Shift+F6 将强制显示对应的表情 (Neutral, Fun, Angry, Joy, Sorrow, Surprised)。再按下后会停止显示该表情，但是你也可以直接切换到另一个表情。\n\n按 Ctrl+Shift+F7 将启用或关闭基于Leap Motion的手部追踪。"
+    "text": "全局快捷键可以在任何地方使用，即便此程序最小化。\n\n按 Ctrl+Shift+F1 到 Ctrl+Shift+F6 将强制显示对应的表情 (Neutral, Fun, Angry, Joy, Sorrow, Surprised)。再按下后会停止显示该表情，但是你也可以直接切换到另一个表情。\n\n按 Ctrl+Shift+F7 将启用或关闭使用Leap Motion的手部追踪。"
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
@@ -1153,7 +1153,7 @@
   },
   "Blink smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink smoothing/Text",
-    "text": "眨眼平滑化"
+    "text": "平滑眨眼"
   },
   "Neck stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Neck stiffness/Text",
@@ -1185,7 +1185,7 @@
   },
   "Keep virtual camera enabled": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Keep virtual cam on/Label",
-    "text": "保持虚拟摄像机开启"
+    "text": "保持开启虚拟摄像机"
   },
   ">": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Navigation/>/Text",
@@ -1309,7 +1309,7 @@
   },
   "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs.": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune message/Message/Text",
-    "text": "正在检测系统性能，请稍等。\n这可能需要几分钟的时间，在很慢的PC上的话。"
+    "text": "正在检测系统性能，请稍等。\n这在很慢的PC上可能需要几分钟的时间。"
   },
   "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Recommendation",
@@ -1345,7 +1345,7 @@
   },
   "Animate jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
-    "text": "使jaw bone(下巴骨骼)动起来"
+    "text": "使下巴骨骼动起来"
   },
   "Wind strength": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind strength/Text",
@@ -1357,11 +1357,11 @@
   },
   "Enable VRM spring bone wind": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind/Label",
-    "text": "启用VRM spring bone(VRM弹性骨骼)的风"
+    "text": "启用VRM弹性骨骼(SpringBone)的风"
   },
   "No wind effect for chest spring bones": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind skip chest/Label",
-    "text": "风不影响胸口部位的spring bone(弹性骨骼)"
+    "text": "风不影响胸口部位的弹性骨骼(SpringBone)"
   },
   "Wind direction": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
@@ -1369,7 +1369,7 @@
   },
   "Wind time factor": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind time factor/Text",
-    "text": "风的时间属性系数(风波)"
+    "text": "风的时间属性系数"
   },
   "Send data with OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC send/Label",
@@ -1377,7 +1377,7 @@
   },
   "T-pose for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Label",
-    "text": "T-pose用于校准"
+    "text": "为校准使用T-pose"
   },
   "IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Placeholder",
@@ -1501,19 +1501,19 @@
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
-    "text": "追踪遗失判定时限"
+    "text": "追踪丢失的判定时限"
   },
   "Tracking loss transition": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
-    "text": "追踪遗失过渡"
+    "text": "追踪丢失过渡"
   },
   "Reset pose on tracking loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss fade/Label",
-    "text": "追踪遗失后重置姿势"
+    "text": "追踪丢失后重置姿势"
   },
   "Enable gaze and eyebrow offset settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Offset sliders/Label",
-    "text": "启用眼球追踪(gaze)以及眉毛偏移设置"
+    "text": "启用眼球追踪(gaze)以及眉毛偏移选项"
   },
   "Barely okay quality, but faster": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
@@ -1529,15 +1529,15 @@
   },
   "Blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Blendshape smoothing",
-    "text": "形态键(Blendshape)平滑化"
+    "text": "平滑形态键(Blendshape)"
   },
   "Bone smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Bone smoothing",
-    "text": "骨骼平滑化"
+    "text": "平滑骨骼"
   },
   "Auto reset position on full loss": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss recalibrate/Label",
-    "text": "完全遗失后自动重置位置"
+    "text": "完全丢失追踪后自动重置位置"
   },
   "Show LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
@@ -1593,7 +1593,7 @@
   },
   "Normalize mouth blendshape sums > 1.0": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Normalize visemes/Label",
-    "text": "规格化总和大于1.0的嘴部形态键"
+    "text": "规一化总和大于1.0的嘴部形态键"
   },
   "Disable packet bundling": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Disable packet bundling/Label",
@@ -1665,7 +1665,7 @@
   },
   "Disable increased background priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
-    "text": "禁止提升处于后台状态时的程序优先级"
+    "text": "禁止提升处于后台状态时的进程优先级"
   },
   "Landscape mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
@@ -1753,6 +1753,6 @@
   },
   "Clear all props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
-    "text": null
+    "text": "清除所有贴纸"
   }
 }
