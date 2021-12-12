@@ -841,7 +841,7 @@
   },
   "Factory reset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
-    "text": "回复出厂设置"
+    "text": "恢复默认设置"
   },
   "Load and play audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Load and play audio/Text",
