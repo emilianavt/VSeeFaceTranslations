@@ -1757,11 +1757,11 @@
   },
   "Settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/ShowPropSettingsButton/Text",
-    "text": "Settings\n"
+    "text": "Settings"
   },
   "Hide settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/HidePropSettingsButton/Text",
-    "text": "Hide settings\n"
+    "text": "Hide settings"
   },
   "Distance to avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/Distance adjustment/Text",
