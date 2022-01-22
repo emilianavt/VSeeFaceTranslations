@@ -1,7 +1,7 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "<u><link=\"https://twitter.com/IriskovayaIRISK\">@IriskovayaIRISK</link></u> (Russian)"
+    "text": "<u><link=\"https://twitter.com/Kurenai_Iriska\">@Kurenai_Iriska</link></u> (Russian)"
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
@@ -1497,7 +1497,7 @@
   },
   "Press hotkey for <b></b>\n<size=70%>Press escape to cancel or shift+escape to unset.</size>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyListen/Message/Text",
-    "text": "Нажмите клавишу для <b></b>\n<size=70%>Нажмите Escape чтобы закрыть или Shift+Escape, чтобы убрать."
+    "text": "Нажмите клавишу для <b></b>\n<size=70%>Нажмите Escape чтобы закрыть или Shift+Escape, чтобы убрать.</size>"
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
@@ -1753,34 +1753,34 @@
   },
   "Clear all props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
-    "text": null
+    "text": "<size=12>Убрать все объекты</size>"
   },
   "Settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/ShowPropSettingsButton/Text",
-    "text": null
+    "text": "Настройки"
   },
   "Hide settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/HidePropSettingsButton/Text",
-    "text": null
+    "text": "Скрыть настройки"
   },
   "Distance to avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/Distance adjustment/Text",
-    "text": null
+    "text": "Дистанция до аватара"
   },
   "Always on top": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/AlwaysOnTopToggle/Label",
-    "text": null
+    "text": "Всегда поверх"
   },
   "Mirror X": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorXButton/Text",
-    "text": null
+    "text": "Отразить X"
   },
   "Mirror Y": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorYButton/Text",
-    "text": null
+    "text": "Отразить Y"
   },
   "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
-    "text": null
+    "text": "Поддержка захвата изображения Spout2"
   }
 }
