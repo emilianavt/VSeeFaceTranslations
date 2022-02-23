@@ -1,7 +1,8 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "<size=65%><u><link=\"https://twitter.com/Heros_Jani\">@Heros_Jani</link></u></size>,\nDiese Übersetzung ist noch nicht Fertig! Es kann sein, dass Fehler oder gar noch die Engliche Übersetzing dasteht.\nIch bitte um Verstädnis. Danke"
+    "text": "<size=65%><u><link=\"https://twitter.com/Heros_Jani\">@Heros_Jani</link></u></size>,\n"
+    "text": "<size=65%><u><link=\"https://twitter.com/DerHyphon\">@Hyphon</link></u></size>,\nDie Übersetzung ist aktuell in Bearbeitung. Sie enthält noch Fehler und benötigt Ergänzungen./nBitte Feedback zur Übersetzung an Hyphon via Twitter oder per offiziellen Discord."
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
@@ -37,7 +38,7 @@
   },
   "Can Perform:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CanPerformLabel",
-    "text": "Can Perform:"
+    "text": "Erlaubte Nutzer:"
   },
   "Violence:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ViolenceLabel",
@@ -49,7 +50,7 @@
   },
   "Commercial Use:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": "Kommerzielle Benutzung:"
+    "text": "Kommerzielle Nutzung:"
   },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
@@ -65,7 +66,7 @@
   },
   "Cancel": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/CancelButton/Text",
-    "text": "beenden"
+    "text": "Abbrechen"
   },
   "Camera": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraLabel",
@@ -121,7 +122,7 @@
   },
   "[Choose your microphone here]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/MicrophoneContainer/MicDropdown/Label",
-    "text": "[Wähle dein Mikrofon hier]"
+    "text": "[Wähle dein Mikrofon]"
   },
   "Tracking": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
@@ -129,7 +130,7 @@
   },
   "High quality (wink support)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
-    "text": null
+    "text": "Hohe Qualität (Zwinkern)"
   },
   "High quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
@@ -181,7 +182,7 @@
   },
   "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it": {
     "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
-    "text": "\"<align=\\\"center\\\">[Error]</align>\\nDer Face Tracker Prozess ist beendet worden. Du kannst versuchen:\\n1) VSeeFace neu zu starten und die Kameraeinstellunnge zu ändern/n2) Sicherstellen, dass nichts anderes die Kamera verwendet\\n3 In den \"Allgemeinen Einstellungen\" die Gesichtsverfolgung aus und wieder einzuschalten\n4) VSeeFace neu herunterladen und neu Installieren"
+    "text": "\"<align=\\\"center\\\">[Error]</align>\\nDer Face Tracker Prozess ist beendet worden. Du kannst versuchen:\\n1) VSeeFace neu zu starten und die Kameraeinstellungen zu ändern/n2) Sicherstellen, dass nichts Anderes die Kamera verwendet\\n3 In den \"Allgemeinen Einstellungen\" die Gesichtsverfolgung aus und wieder einzuschalten\n4) VSeeFace neu herunterladen und neu Installieren"
   },
   "X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
@@ -193,7 +194,7 @@
   },
   "Avatar selection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Avatar selection/Text",
-    "text": "Avatar auswahl"
+    "text": "Avatar Auswahl"
   },
   "Show settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Show settings/Text",
@@ -209,7 +210,7 @@
   },
   "Leap Motion settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Leap Motion settings/Text",
-    "text": "Sprungbewegungseinstellungen"
+    "text": "\"Leap Motion\"Einstellungen"
   },
   "Light settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Light settings/Text",
@@ -229,7 +230,7 @@
   },
   "Clear calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Clear calibration/Text",
-    "text": "Clear calibration"
+    "text": "Kalibrierung zurücksetzen"
   },
   "Load calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load/Text",
@@ -249,19 +250,19 @@
   },
   "Mirror motion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Mirror motion/Text",
-    "text": "Gespiegelte Beweungssteuerung"
+    "text": "Gespiegelte Bewegungssteuerung"
   },
   "Drift back to normal": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift/Text",
-    "text": "Zurücktreiben zu Normalposition"
+    "text": "Zur Normalposition zurückgleiten"
   },
   "Track Leap Motion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Track Leap Motion/Text",
-    "text": "Sprungbewegung verfolgen"
+    "text": "\"Leap Motion\" Tracker"
   },
   "Movement smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
-    "text": "Glättung"
+    "text": "Bewegungsglättung"
   },
   "Smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
@@ -273,7 +274,7 @@
   },
   "Drift speed": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift speed/Text",
-    "text": "Geschwindigkeit zum Zurücktreiben"
+    "text": "Geschwindigkeit zum Zurückgleiten"
   },
   "Neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Record/Text",
@@ -305,7 +306,7 @@
   },
   "Sorrow": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Sorrow/NotRecording/Record/Text",
-    "text": "Sorrow"
+    "text": "Trauer"
   },
   "Surprised": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Surprise/NotRecording/Record/Text",
@@ -317,23 +318,23 @@
   },
   "Stop recording fun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/FunRed/Text",
-    "text": "Beenden der spaßigen Aufnahme"
+    "text": "Beenden der \"Spaß\" Aufnahme"
   },
   "Stop recording angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/AngryRed/Text",
-    "text": "Beenden der wütenden Aufnahme"
+    "text": "Beenden der \"Wütend\" Aufnahme"
   },
   "Stop recording joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/JoyRed/Text",
-    "text": "Beenden der freudigen Aufnahme"
+    "text": "Beenden der \"Freude\" Aufnahme"
   },
   "Stop recording sorrow": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SorrowRed/Text",
-    "text": "Beenden der traurigen Aufnahme"
+    "text": "Beenden der \"Trauer\" Aufnahme"
   },
   "Stop recording surprised": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SurpriseRed/Text",
-    "text": "Beenden der überraschenden Aufnahme"
+    "text": "Beenden der \"Überrascht\" Aufnahme"
   },
   "Calibrate": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Calibrate/Text",
@@ -349,7 +350,7 @@
   },
   "Bloom": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Bloom/Text",
-    "text": "blühen"
+    "text": "Schimmer"
   },
   "Ambient occlusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
@@ -369,7 +370,7 @@
   },
   "Grain": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Grain/Text",
-    "text": "Grain"
+    "text": "Körnung"
   },
   "Halftone": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Halftone dots/Text",
@@ -381,7 +382,7 @@
   },
   "Improve anti-aliasing (SMAA)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Improve anti-aliasing/Label",
-    "text": "Verbesserte antia-aliasing (SMAA)"
+    "text": "Verbessertes Anti-Aliasing (SMAA)"
   },
   "Enable broken effects": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable broken/Label",
@@ -389,11 +390,11 @@
   },
   "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
-    "text": "\nPost processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need."
+    "text": "\nNachbearbeitungseffekte erhöhen die Systemlast. Sie sind experimentell und können nicht den erwünschten Effekt haben. Speziell die Bereiche außerhalb des Avatars werden grundsätzlich nicht beeinflusst.\n\nAuf meinem System, erhöht die Aktivierung von Nachbearbeitungseffekten und aller Effekte die CPU-Last und verdoppelt die Auslastung meiner Grafikkarte. Weniger Effekte haben auch weniger Auswirkung. Aktivert nur das,w as ihr wirklich braucht."
   },
   "Enable": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
-    "text": "altivieren"
+    "text": "Aktivieren"
   },
   "Don't cut at edge": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Fix alpha/Label",
@@ -413,15 +414,15 @@
   },
   "Threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
-    "text": "Threshold"
+    "text": "Schwellenwert"
   },
   "Diffusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Diffusion/Text",
-    "text": "Diffusion"
+    "text": "Streuung"
   },
   "Transparent bloom  strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Alpha/Text",
-    "text": "Transparent bloom strength"
+    "text": "Transparenz Schimmer Stärke"
   },
   "Reset settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Reset/Text",
@@ -461,11 +462,11 @@
   },
   "Scale": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
-    "text": "Skallieren"
+    "text": "Skalieren"
   },
   "Cromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
-    "text": "Chromatische Abweichungen"
+    "text": "Chromatische Abweichung"
   },
   "Color temperature": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Temperature/Text",
@@ -477,7 +478,7 @@
   },
   "Hue": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Hue/Text",
-    "text": "Farbe"
+    "text": "Farbschattierung"
   },
   "Saturation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Saturation/Text",
@@ -501,11 +502,11 @@
   },
   "Luminance contribution": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Luminance contribution/Text",
-    "text": "Luminanz Knotribution"
+    "text": "Leuchtkraft Beitrag"
   },
   "Transparent grain strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
-    "text": "Transparente Kornfestigkeit"
+    "text": "Sträke der transparenten Körnung"
   },
   "Opaque background": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
@@ -521,15 +522,15 @@
   },
   "Dot grid size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot grid size/Text",
-    "text": "Punktgittergröße"
+    "text": "Rastergröße"
   },
   "Dot size factor": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
-    "text": "Dot size factor"
+    "text": "Rasterpunktgröße"
   },
   "Leap Motion tracking hotkey": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Label",
-    "text": "Hotkey für die Verfolgung von Sprungbewegungen"
+    "text": "Hotkey für den \"Leap Motion\" Tracker"
   },
   "Button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
@@ -561,7 +562,7 @@
   },
   "Flat on desk": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": "Flat on desk"
+    "text": "Flach auf dem Tisch"
   },
   "Rotation X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation X/Text",
@@ -581,15 +582,15 @@
   },
   "Hands down delay (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
-    "text": "Hands down delay (0-2s)"
+    "text": "Verzögerung Hände runter (0-2s)"
   },
   "Hands mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
-    "text": "Hands mode"
+    "text": "Hand Modus"
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
-    "text": "Kein Tauschen"
+    "text": "Nicht Tauschen"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
@@ -673,15 +674,15 @@
   },
   "Auto blink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:1",
-    "text": "Automatisches zwinkern"
+    "text": "Automatisches Zwinkern"
   },
   "Link eye blinks": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
-    "text": "Link eye blinks"
+    "text": "Zwinkern synchonisieren"
   },
   "Smooth auto blink": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smooth auto blink/Label",
-    "text": "Weiche des Automatischen Zwinkern"
+    "text": "Weiches automatisches Zwinkern"
   },
   "Synthetic gaze": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
@@ -689,83 +690,83 @@
   },
   "Follow head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
-    "text": "verfolgung der Kopfbewegung"
+    "text": "Verfolgung der Kopfbewegung"
   },
   "Audio lip sync / Hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
-    "text": null
+    "text": "Keiner"
   },
   "Always use full lip sync animation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",
-    "text": "Always use full lip sync animation"
+    "text": "Immer volle Lippensynchronisation"
   },
   "Hybrid lip sync/mouth tracking": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hybrid lip sync/Label",
-    "text": "Hybrid lip sync/mouth tracking"
+    "text": "Gemischtes Lippensynch/Mund-Tracking"
   },
   "Avatar locomotion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Avatar locomotion/Label",
-    "text": "Avatar locomotion"
+    "text": "Avatarbewegung"
   },
   "Mirror image while UI hidden with ※ button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
-    "text": "Mirror image while UI hidden with ※ button"
+    "text": "Bild spiegeln wenn die UI mit ※ versteckt wurde"
   },
   "Default camera position": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label",
-    "text": "Default camera position"
+    "text": "Voreingestellte Kameraposition"
   },
   "Default": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
-    "text": "Default"
+    "text": "Standart"
   },
   "Save": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Save/Text",
-    "text": "Save"
+    "text": "Speichern"
   },
   "Global reset position hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Global reset hotkey/Label",
-    "text": "Global reset position hotkey:"
+    "text": "Knopf zum Zurücksetzen der Position:"
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
-    "text": "Face tracking (disabling means no face movement and saves CPU)"
+    "text": "Gesichtsverfolgung	(ausgeschaltet bedeutet keine Gesichtserkennung und spart CPU)"
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
-    "text": "Expression detection"
+    "text": "Ausdruckserkennung"
   },
   "None": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
-    "text": "None"
+    "text": "Keine"
   },
   "Simple (fun, angry, surprised only)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple expression detection/Label",
-    "text": "Simple (fun, angry, surprised only)"
+    "text": "Einfach (Nur Spaß, Wütend, Überrascht)"
   },
   "Graphics settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Graphics title",
-    "text": "Graphics settings"
+    "text": "Grafikeinstellungen"
   },
   "Allow window resizing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resizable window/Label",
-    "text": "Allow window resizing"
+    "text": "Fensterskalierung erlauben"
   },
   "Anti-aliasing:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label",
-    "text": "Anti-aliasing:"
+    "text": "Anti-Aliasing:"
   },
   "Really nice": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:0",
-    "text": "Really nice"
+    "text": "Sehr Schön"
   },
   "(high GPU load)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Warning",
-    "text": "(high GPU load)"
+    "text": "(Hohe GPU last)"
   },
   "Resolution:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolution",
-    "text": "Resolution:"
+    "text": "Auflösung:"
   },
   "1600x900": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:3",
@@ -773,7 +774,7 @@
   },
   "Set": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Custom/Set/Text",
-    "text": "Set"
+    "text": "Festlegen"
   },
   "VSync": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/VSync/Label",
@@ -781,7 +782,7 @@
   },
   "Cap frame rate:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label",
-    "text": "Cap frame rate: "
+    "text": "Max. Bildwiederholung: "
   },
   "60": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label/FPS cap/Placeholder",
@@ -789,47 +790,47 @@
   },
   "Device settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Devices title",
-    "text": "Device settings"
+    "text": "Geräteeinstellung"
   },
   "Virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera title",
-    "text": "Virtual camera"
+    "text": "Virtulle Kamera"
   },
   "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera description",
-    "text": "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly."
+    "text": "Wenn die Virtuelle Kamera aktiviert ist, wird das VSeeFace Bild über diese exportiert. Die UI wird dabei nicht in dem Bild angezeigt. Bitte beachte, dass Discord das Bild gespielgelt anzeigt, Andere es aber richtig herum sehen."
   },
   "Enable virtual camera for this session": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
-    "text": "Enable virtual camera for this session"
+    "text": "Virtuelle Kamera für diese Sitzung aktivieren."
   },
   "Low latency": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Low latency/Label",
-    "text": "Low latency"
+    "text": "Niedrige Latenz"
   },
   "Install virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Install/Text",
-    "text": "Install virtual camera"
+    "text": "Virtuelle Kamera installieren"
   },
   "Uninstall virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Uninstall/Text",
-    "text": "Uninstall virtual camera"
+    "text": "Virtuelle Kamera Deinstallieren"
   },
   "Load background image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Load background image/Text",
-    "text": "Load background image"
+    "text": "Hintegrundbild laden"
   },
   "Background image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Background",
-    "text": "Background image"
+    "text": "Hintergrundbild"
   },
   "Unload image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Unload image container/Unload image/Text",
-    "text": "Unload image"
+    "text": "Bild entladen"
   },
   "Advanced": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Advanced",
-    "text": "Advanced"
+    "text": "Fortgeschritten"
   },
   "Less mesh updates (may make parts of avatar disappear, faster with many meshes)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Update offscreen/Label",
@@ -961,63 +962,63 @@
   },
   "Chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:1",
-    "text": "Chest"
+    "text": "Brust"
   },
   "Head or HMD": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:2",
-    "text": "Head or HMD"
+    "text": "Kopf oder HMD"
   },
   "Swap hands": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
-    "text": "Swap hands"
+    "text": "Hände wechslen"
   },
   "Look at camera": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:1",
-    "text": "Look at camera"
+    "text": "In die Kamera gucken"
   },
   "Closer": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
-    "text": "Closer"
+    "text": "Nahe"
   },
   "Custom": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": "Custom"
+    "text": "Benutzer 1"
   },
   "Custom 2": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": "Custom 2"
+    "text": "Benutzer 2"
   },
   "Custom 3": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": "Custom 3"
+    "text": "Benutzer 3"
   },
   "Custom 4": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:5",
-    "text": "Custom 4"
+    "text": "Benutzer 4"
   },
   "Custom 5": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:6",
-    "text": "Custom 5"
+    "text": "Benutzer 5"
   },
   "Custom 6": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
-    "text": "Custom 6"
+    "text": "Benutzer 6"
   },
   "Custom 7": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
-    "text": "Custom 7"
+    "text": "Benutzer 7"
   },
   "Custom 8": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": "Custom 8"
+    "text": "Benutzer 8"
   },
   "Custom 9": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": "Custom 9"
+    "text": "Benutzer 9"
   },
   "Custom 10": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": "Custom 10"
+    "text": "Benutzer 10"
   },
   "16x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:1",
@@ -1037,7 +1038,7 @@
   },
   "Custom:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:0",
-    "text": "Custom:"
+    "text": "Benutzer:"
   },
   "960x540": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:1",
@@ -1061,15 +1062,15 @@
   },
   "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
-    "text": "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)"
+    "text": "Update verfügbar:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Versionshinweise</link></u>)"
   },
   "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>": {
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
-    "text": "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
+    "text": "Standartmodell erstellt mit <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
   },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
-    "text": "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)"
+    "text": "Experimentelle Ausdruckserkennung (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)"
   },
   "Hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
@@ -1077,7 +1078,7 @@
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction\n\n"
+    "text": "Du kannst folgende Hotkeys benutzen um auf Funktionen zuzugreifen .<size=50%>\n\n</size>Leertaste\tZeige/Verstecke die UI ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction\n\n"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
@@ -1293,23 +1294,23 @@
   },
   "Skip": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
-    "text": "Skip"
+    "text": "Überspringen"
   },
   "Increase process priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/High priority/Label",
-    "text": "Increase process priority"
+    "text": "Erhöhe Prozesspriorität"
   },
   "Recommend Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/AutoPerformanceTune/AutoPerfTuneButton/Text",
-    "text": "Recommend Settings"
+    "text": "Empfohlene Einstellungen"
   },
   "This can take a minute or longer. Proceed?": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune confirm/Message/Text",
-    "text": "This can take a minute or longer. Proceed?"
+    "text": "Dies kann etwas dauern. Weiter?"
   },
   "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs.": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune message/Message/Text",
-    "text": "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs."
+    "text": "Messe Systemleistung, bitte warten.\nDies kann auf sehr langsamen PCs ein paar Minuten dauern."
   },
   "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Recommendation",
