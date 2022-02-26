@@ -757,7 +757,7 @@
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
-    "text": "Expression detection"
+    "text": "Expression detection (requires webcam tracking)"
   },
   "None": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
@@ -1862,5 +1862,9 @@
   "Log out": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
     "text": "Log out"
+  },
+  "Send VRChat OSC data (experimental)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
+    "text": "Send VRChat OSC data (experimental)"
   }
 }

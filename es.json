@@ -1862,5 +1862,9 @@
   "Log out": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
     "text": null
+  },
+  "Send VRChat OSC data (experimental)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
+    "text": null
   }
 }

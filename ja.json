@@ -757,7 +757,7 @@
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
-    "text": "表情を検出"
+    "text": "表情を検出（Webカメラのトラッキングが必要）"
   },
   "None": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
@@ -1862,5 +1862,9 @@
   "Log out": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
     "text": "ログアウト"
+  },
+  "Send VRChat OSC data (experimental)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
+    "text": "VRChatへOSCパラメータを送信（実験的）"
   }
 }
