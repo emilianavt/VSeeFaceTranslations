@@ -1,7 +1,7 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "<size=65%><u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u>, <u><link=\"https://twitter.com/EthelChamomile\">@EthelChamomile</link></u>, <u><link=\"https://twitter.com/RafaelRiva0\">@RafaelRiva0</link></u>, <u><link=\"https://twitter.com/Aile_Rozy\">@Aile_Rozy</link></u>, <u><link=\"https://twitter.com/IriskovayaIRISK\">@IriskovayaIRISK</link></u>, <u><link=\"https://twitter.com/FrShuji\">@FrShuji</link></u>, <u><link=\"https://twitter.com/Kurogane_8_Gk\">@Kurogane_8_Gk</link></u>, <u><link=\"https://twitter.com/Heros_Jani\">@Heros_Jani</link></u>, <u><link=\"https://twitter.com/PrettyFireNOI7\">@PrettyFireNOI7</link></u></size>"
+    "text": "<size=65%><u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u>, <u><link=\"https://twitter.com/EthelChamomile\">@EthelChamomile</link></u>, <u><link=\"https://twitter.com/RafaelRiva0\">@RafaelRiva0</link></u>, <u><link=\"https://twitter.com/Aile_Rozy\">@Aile_Rozy</link></u>, <u><link=\"https://twitter.com/Kurenai_Iriska\">@Kurenai_Iriska</link></u>, <u><link=\"https://twitter.com/FrShuji\">@FrShuji</link></u>, <u><link=\"https://twitter.com/Kurogane_8_Gk\">@Kurogane_8_Gk</link></u>, <u><link=\"https://twitter.com/Heros_Jani\">@Heros_Jani</link></u>, <u><link=\"https://twitter.com/PrettyFireNOI7\">@PrettyFireNOI7</link></u></size>"
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
@@ -51,9 +51,33 @@
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
     "text": "Commercial Use:"
   },
+  "Commercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "Commercial use"
+  },
+  "Personal noncommercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "Personal noncommercial use"
+  },
+  "Personal commercial use": {
+    "comment": "VRoid Hub 'lc_profit'",
+    "text": "Personal commercial use"
+  },
+  "Non-profit use": {
+    "comment": "VRoid Hub 'nonprofit'",
+    "text": "Non-commercial use by individuals"
+  },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
     "text": "License:"
+  },
+  "Required": {
+    "comment": "VRoid Hub 'need'",
+    "text": "Required"
+  },
+  "Not required": {
+    "comment": "VRoid Hub 'noneed'",
+    "text": "Not required"
   },
   "License URL:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
@@ -1782,5 +1806,61 @@
   "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
     "text": "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)"
+  },
+  "VRoid Hub Login": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
+    "text": "VRoid Hub Login"
+  },
+  "Not logged in": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
+    "text": "Not logged in"
+  },
+  "Refresh": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
+    "text": "Refresh"
+  },
+  "Character:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
+    "text": "Character:"
+  },
+  "Model:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
+    "text": "Model:"
+  },
+  "Corporate Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CorporateCommercialLabel",
+    "text": "Corporate Commercial Use:"
+  },
+  "Personal Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/PersonalCommercialLabel",
+    "text": "Personal Commercial Use:"
+  },
+  "Modification:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModificationLabel",
+    "text": "Modification:"
+  },
+  "Redistribution:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/RedistributionLabel",
+    "text": "Redistribution:"
+  },
+  "Crediting:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CreditingLabel",
+    "text": "Crediting:"
+  },
+  "Local avatars": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
+    "text": "Local avatars"
+  },
+  "VRoid Hub": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
+    "text": "VRoid Hub"
+  },
+  "Retrieving characters...": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
+    "text": "Retrieving characters..."
+  },
+  "Log out": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
+    "text": "Log out"
   }
 }

@@ -51,9 +51,33 @@
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
     "text": "Uso comercial:"
   },
+  "Commercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": null
+  },
+  "Personal noncommercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": null
+  },
+  "Personal commercial use": {
+    "comment": "VRoid Hub 'lc_profit'",
+    "text": null
+  },
+  "Non-profit use": {
+    "comment": "VRoid Hub 'nonprofit'",
+    "text": null
+  },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
     "text": "Licença:"
+  },
+  "Required": {
+    "comment": "VRoid Hub 'need'",
+    "text": null
+  },
+  "Not required": {
+    "comment": "VRoid Hub 'noneed'",
+    "text": null
   },
   "License URL:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
@@ -1781,6 +1805,62 @@
   },
   "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
+    "text": null
+  },
+  "VRoid Hub Login": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
+    "text": null
+  },
+  "Not logged in": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
+    "text": null
+  },
+  "Refresh": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
+    "text": null
+  },
+  "Character:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
+    "text": null
+  },
+  "Model:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
+    "text": null
+  },
+  "Corporate Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CorporateCommercialLabel",
+    "text": null
+  },
+  "Personal Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/PersonalCommercialLabel",
+    "text": null
+  },
+  "Modification:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModificationLabel",
+    "text": null
+  },
+  "Redistribution:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/RedistributionLabel",
+    "text": null
+  },
+  "Crediting:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CreditingLabel",
+    "text": null
+  },
+  "Local avatars": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
+    "text": null
+  },
+  "VRoid Hub": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
+    "text": null
+  },
+  "Retrieving characters...": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
+    "text": null
+  },
+  "Log out": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
     "text": null
   }
 }

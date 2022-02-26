@@ -51,9 +51,33 @@
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
     "text": "商用利用の許可:"
   },
+  "Commercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "営利目的の活動に利用を許可"
+  },
+  "Personal noncommercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "非営利目的の活動に限り利用を許可"
+  },
+  "Personal commercial use": {
+    "comment": "VRoid Hub 'lc_profit'",
+    "text": "営利目的で個人の商用利用可"
+  },
+  "Non-profit use": {
+    "comment": "VRoid Hub 'nonprofit'",
+    "text": "非営利目的に限り個人の商用利用可"
+  },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
     "text": "ライセンスタイプ:"
+  },
+  "Required": {
+    "comment": "VRoid Hub 'need'",
+    "text": "必要"
+  },
+  "Not required": {
+    "comment": "VRoid Hub 'noneed'",
+    "text": "不要"
   },
   "License URL:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
@@ -1782,5 +1806,61 @@
   "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
     "text": "Spout2で画面をエクスポート(<u><link=\"https://www.vseeface.icu/spout\">ヘルプ</link></u>)"
+  },
+  "VRoid Hub Login": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
+    "text": "VRoid Hubへログイン"
+  },
+  "Not logged in": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
+    "text": "ログインしていません"
+  },
+  "Refresh": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
+    "text": "更新"
+  },
+  "Character:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
+    "text": "キャラクター:"
+  },
+  "Model:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
+    "text": "モデル:"
+  },
+  "Corporate Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CorporateCommercialLabel",
+    "text": "法人の商用利用:"
+  },
+  "Personal Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/PersonalCommercialLabel",
+    "text": "個人の商用利用:"
+  },
+  "Modification:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModificationLabel",
+    "text": "改変:"
+  },
+  "Redistribution:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/RedistributionLabel",
+    "text": "再配布:"
+  },
+  "Crediting:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CreditingLabel",
+    "text": "クレジット表記:"
+  },
+  "Local avatars": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
+    "text": "ローカルのアバター"
+  },
+  "VRoid Hub": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
+    "text": "VRoid Hub"
+  },
+  "Retrieving characters...": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
+    "text": "キャラクターのリストを更新…"
+  },
+  "Log out": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
+    "text": "ログアウト"
   }
 }
