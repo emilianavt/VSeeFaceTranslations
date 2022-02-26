@@ -1,8 +1,7 @@
 {
   "{translation_credits}": {
     "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
-    "text": "<size=65%><u><link=\"https://twitter.com/Heros_Jani\">@Heros_Jani</link></u></size>,\n"
-    "text": "<size=65%><u><link=\"https://twitter.com/DerHyphon\">@Hyphon</link></u></size>,\nDie Übersetzung ist aktuell in Bearbeitung. Sie enthält noch Fehler und benötigt Ergänzungen./nBitte Feedback zur Übersetzung an Hyphon via Twitter oder per offiziellen Discord."
+    "text": "<size=65%><u><link=\"https://twitter.com/Heros_Jani\">@Heros_Jani</link></u></size>, <size=65%><u><link=\"https://twitter.com/DerHyphon\">@Hyphon</link></u></size>,\nDie Übersetzung ist aktuell in Bearbeitung. Sie enthält noch Fehler und benötigt Ergänzungen./nBitte Feedback zur Übersetzung an Hyphon via Twitter oder per offiziellen Discord."
   },
   "+": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
