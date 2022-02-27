@@ -1827,26 +1827,6 @@
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
     "text": "モデル:"
   },
-  "Corporate Commercial Use:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CorporateCommercialLabel",
-    "text": "法人の商用利用:"
-  },
-  "Personal Commercial Use:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/PersonalCommercialLabel",
-    "text": "個人の商用利用:"
-  },
-  "Modification:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModificationLabel",
-    "text": "改変:"
-  },
-  "Redistribution:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/RedistributionLabel",
-    "text": "再配布:"
-  },
-  "Crediting:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CreditingLabel",
-    "text": "クレジット表記:"
-  },
   "Local avatars": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
     "text": "ローカルのアバター"
@@ -1870,5 +1850,73 @@
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
     "text": "受信より前データを送信（ブレンドシェイプが送信されない場合もある）"
+  },
+  "I agree to the conditions of use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/Permissions/AgreeToggle/Label",
+    "text": "利用条件に従って利用する"
+  },
+  "VRH_Conditions of use for this model": {
+    "comment": "Do not translate: Conditions of use for this model/モデルデータの利用条件",
+    "text": "モデルデータの利用条件"
+  },
+  "VRH_Required": {
+    "comment": "Do not translate: Necessary/必要",
+    "text": "必要"
+  },
+  "VRH_Not required": {
+    "comment": "Do not translate: Unnecessary/不要",
+    "text": "不要"
+  },
+  "VRH_Disallow": {
+    "comment": "Do not translate: NO/NG",
+    "text": "NG"
+  },
+  "VRH_Allow": {
+    "comment": "Do not translate: YES/OK",
+    "text": "OK"
+  },
+  "VRH_Default": {
+    "comment": "Do not translate: default/-",
+    "text": "-"
+  },
+  "VRH_Profit": {
+    "comment": "Do not translate.",
+    "text": "OK - ギフティングOK"
+  },
+  "VRH_NonProfit": {
+    "comment": "Do not translate.",
+    "text": "OK - 同人OK"
+  },
+  "VRH_Avatar use:": {
+    "comment": "Do not translate.",
+    "text": "アバターでの利用："
+  },
+  "VRH_Violence:": {
+    "comment": "Do not translate.",
+    "text": "暴力表現での利用："
+  },
+  "VRH_Sexual acts:": {
+    "comment": "Do not translate.",
+    "text": "性的表現での利用："
+  },
+  "VRH_Corporate use:": {
+    "comment": "Do not translate.",
+    "text": "法人の商用利用："
+  },
+  "VRH_Individual commercial use:": {
+    "comment": "Do not translate.",
+    "text": "個人の商用利用："
+  },
+  "VRH_Alterations:": {
+    "comment": "Do not translate.",
+    "text": "改変："
+  },
+  "VRH_Redistribution:": {
+    "comment": "Do not translate.",
+    "text": "再配布："
+  },
+  "VRH_Attribution:": {
+    "comment": "Do not translate.",
+    "text": "クレジット表記："
   }
 }

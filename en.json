@@ -1827,26 +1827,6 @@
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
     "text": "Model:"
   },
-  "Corporate Commercial Use:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CorporateCommercialLabel",
-    "text": "Corporate Commercial Use:"
-  },
-  "Personal Commercial Use:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/PersonalCommercialLabel",
-    "text": "Personal Commercial Use:"
-  },
-  "Modification:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModificationLabel",
-    "text": "Modification:"
-  },
-  "Redistribution:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/RedistributionLabel",
-    "text": "Redistribution:"
-  },
-  "Crediting:": {
-    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CreditingLabel",
-    "text": "Crediting:"
-  },
   "Local avatars": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
     "text": "Local avatars"
@@ -1870,5 +1850,73 @@
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
     "text": "Send before receiving (may not send blendshapes)"
+  },
+  "I agree to the conditions of use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/Permissions/AgreeToggle/Label",
+    "text": "I agree to the conditions of use"
+  },
+  "VRH_Conditions of use for this model": {
+    "comment": "Do not translate: Conditions of use for this model/モデルデータの利用条件",
+    "text": "Conditions of use for this model"
+  },
+  "VRH_Required": {
+    "comment": "Do not translate: Necessary/必要",
+    "text": "Necessary"
+  },
+  "VRH_Not required": {
+    "comment": "Do not translate: Unnecessary/不要",
+    "text": "Unnecessary"
+  },
+  "VRH_Disallow": {
+    "comment": "Do not translate: NO/NG",
+    "text": "NO"
+  },
+  "VRH_Allow": {
+    "comment": "Do not translate: YES/OK",
+    "text": "YES"
+  },
+  "VRH_Default": {
+    "comment": "Do not translate: default/-",
+    "text": "-"
+  },
+  "VRH_Profit": {
+    "comment": "Do not translate.",
+    "text": "YES - For-profit use (donations): YES"
+  },
+  "VRH_NonProfit": {
+    "comment": "Do not translate.",
+    "text": "YES - Individual non-profit use"
+  },
+  "VRH_Avatar use:": {
+    "comment": "Do not translate.",
+    "text": "Avatar use:"
+  },
+  "VRH_Violence:": {
+    "comment": "Do not translate.",
+    "text": "Violence:"
+  },
+  "VRH_Sexual acts:": {
+    "comment": "Do not translate.",
+    "text": "Sexual acts:"
+  },
+  "VRH_Corporate use:": {
+    "comment": "Do not translate.",
+    "text": "Corporate use:"
+  },
+  "VRH_Individual commercial use:": {
+    "comment": "Do not translate.",
+    "text": "Individual commercial use:"
+  },
+  "VRH_Alterations:": {
+    "comment": "Do not translate.",
+    "text": "Alterations:"
+  },
+  "VRH_Redistribution:": {
+    "comment": "Do not translate.",
+    "text": "Redistribution:"
+  },
+  "VRH_Attribution:": {
+    "comment": "Do not translate.",
+    "text": "Attribution:"
   }
 }
