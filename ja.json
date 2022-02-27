@@ -1869,6 +1869,6 @@
   },
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
-    "text": "受信より前データを送信（ブレンドシェイプが送信しない場合もある）"
+    "text": "受信より前データを送信（ブレンドシェイプが送信されない場合もある）"
   }
 }
