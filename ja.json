@@ -1867,8 +1867,8 @@
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
     "text": "VRChatへOSCパラメータを送信（実験的） <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
   },
-  "Send before receiving": {
+  "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
-    "text": null
+    "text": "受信より前データを送信（ブレンドシェイプが送信しない場合もある）"
   }
 }
