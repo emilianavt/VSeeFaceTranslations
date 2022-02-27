@@ -1866,5 +1866,9 @@
   "Send VRChat OSC data (experimental) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
     "text": "VRChatへOSCパラメータを送信（実験的） <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
+  },
+  "Send before receiving": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
+    "text": null
   }
 }
