@@ -49,23 +49,23 @@
   },
   "Commercial Use:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": "商业用途使用:"
+    "text": "商业用途:"
   },
   "Commercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "商业用途:"
   },
   "Personal noncommercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "个人非商业用途:"
   },
   "Personal commercial use": {
     "comment": "VRoid Hub 'lc_profit'",
-    "text": null
+    "text": "个人商业用途:"
   },
   "Non-profit use": {
     "comment": "VRoid Hub 'nonprofit'",
-    "text": null
+    "text": "非盈利用途:"
   },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
@@ -73,11 +73,11 @@
   },
   "Required": {
     "comment": "VRoid Hub 'need'",
-    "text": null
+    "text": "需要"
   },
   "Not required": {
     "comment": "VRoid Hub 'noneed'",
-    "text": null
+    "text": "不需要"
   },
   "License URL:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
@@ -1789,7 +1789,7 @@
   },
   "Distance to avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/Distance adjustment/Text",
-    "text": "与虚拟形象间的距离"
+    "text": "与化身间的距离"
   },
   "Always on top": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/AlwaysOnTopToggle/Label",
@@ -1809,27 +1809,27 @@
   },
   "VRoid Hub Login": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
-    "text": null
+    "text": "登录VRoid Hub"
   },
   "Not logged in": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
-    "text": null
+    "text": "未登入"
   },
   "Refresh": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
-    "text": null
+    "text": "刷新"
   },
   "Character:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
-    "text": null
+    "text": "角色:"
   },
   "Model:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
-    "text": null
+    "text": "模型:"
   },
   "Local avatars": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
-    "text": null
+    "text": "本地化身"
   },
   "VRoid Hub": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
@@ -1837,23 +1837,23 @@
   },
   "Retrieving characters...": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
-    "text": null
+    "text": "正在取回角色..."
   },
   "Log out": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
-    "text": null
+    "text": "登出"
   },
   "Send VRChat OSC data (experimental) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
-    "text": null
+    "text": "发送VRChat OSC数据(实验性) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
   },
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
-    "text": null
+    "text": "在接收前发送数据(可能无法发送形态键(blendshapes))"
   },
   "I agree to the conditions of use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/Permissions/AgreeToggle/Label",
-    "text": null
+    "text": "我同意使用条款"
   },
   "VRH_Conditions of use for this model": {
     "comment": "Do not translate: Conditions of use for this model/モデルデータの利用条件",
