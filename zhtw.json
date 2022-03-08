@@ -9,11 +9,11 @@
   },
   "Add avatar": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/NameText",
-    "text": "增加角色"
+    "text": "增加虛擬化身"
   },
   "Remove Avatar": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/RemoveAvatarButton/Text",
-    "text": "移除角色"
+    "text": "移除虛擬化身"
   },
   "Title:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/TitleLabel",
@@ -37,7 +37,7 @@
   },
   "Can Perform:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CanPerformLabel",
-    "text": "賦予角色人格的許可範圍:"
+    "text": "賦予虛擬化身人格的許可範圍:"
   },
   "Violence:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ViolenceLabel",
@@ -53,31 +53,31 @@
   },
   "Commercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "允許用於商業用途"
   },
   "Personal noncommercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "僅允許用於非商業用途"
   },
   "Personal commercial use": {
     "comment": "VRoid Hub 'lc_profit'",
-    "text": null
+    "text": "用於營利目的的個人商業用途"
   },
   "Non-profit use": {
     "comment": "VRoid Hub 'nonprofit'",
-    "text": null
+    "text": "僅用於非營利目的的個人商業用途"
   },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
-    "text": "授權條款:"
+    "text": "授權條款類型:"
   },
   "Required": {
     "comment": "VRoid Hub 'need'",
-    "text": null
+    "text": "需要"
   },
   "Not required": {
     "comment": "VRoid Hub 'noneed'",
-    "text": null
+    "text": "不必要"
   },
   "License URL:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
@@ -145,7 +145,7 @@
   },
   "[Choose your microphone here]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/MicrophoneContainer/MicDropdown/Label",
-    "text": "[在此選擇您的麥克風]"
+    "text": "[選擇麥克風]"
   },
   "Tracking": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
@@ -189,11 +189,11 @@
   },
   "Initializing avatar...": {
     "comment": "VSeeFace/Canvas/UI/Loading avatar message",
-    "text": "角色初始化中..."
+    "text": "虛擬化身初始化中..."
   },
   "Loading camera list": {
     "comment": "VSeeFace/Canvas/UI/LoadingUI/Text",
-    "text": "讀取攝影機列表"
+    "text": "讀取攝影機列表中"
   },
   "Failed to start tracker. This is most likely caused by a corrupted installation.": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Text",
@@ -205,7 +205,7 @@
   },
   "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it": {
     "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
-    "text": "<align=\"center\">[Error]</align>\n追蹤器處理程序丟失. 您可嘗試:\n1) 重啟VSeeFace和改變攝影機設定\n2) 確認沒有其他東西占用攝影機\n3) 在 \"一般設定\" 切換臉部追蹤至關閉後再開啟來重新啟動\n4) 重新下載VSeeFace和重新安裝他"
+    "text": "<align=\"center\">[Error]</align>\n臉部追蹤器處理程序丟失. 您可嘗試:\n1) 重啟VSeeFace和改變攝影機設定\n2) 確認沒有其他東西占用攝影機\n3) 在 \"一般設定\" 切換臉部追蹤至關閉後再開啟來重新啟動\n4) 重新下載VSeeFace和重新安裝"
   },
   "X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
@@ -213,11 +213,11 @@
   },
   "Load VRM avatar": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load VRM avatar/Text",
-    "text": "讀取VRM角色"
+    "text": "讀取VRM虛擬化身"
   },
   "Avatar selection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Avatar selection/Text",
-    "text": "角色選擇"
+    "text": "虛擬化身選擇"
   },
   "Show settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Show settings/Text",
@@ -373,7 +373,7 @@
   },
   "Bloom": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Bloom/Text",
-    "text": "光暈"
+    "text": "泛光"
   },
   "Ambient occlusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
@@ -413,7 +413,7 @@
   },
   "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
-    "text": "\n後製特效會增加系統負荷. 他們仍然是實驗性的並且可能不會一直呈現理想的結果. 特別是, 他們基本不會在角色範圍外的區域起作用.\n\n在我的系統, 打開後製特效裡的所有效果略為增加了CPU使用率和增加了略大於兩倍的GPU使用率. 啟用比較少效果影響較小, 所以只啟用您確切需要的."
+    "text": "\n後製特效會增加系統負荷. 他們仍然是實驗性的並且可能不會一直呈現理想的結果. 特別是, 他們基本不會在虛擬化身範圍外的區域起作用.\n\n在我的系統, 打開後製特效裡的所有效果略為增加了CPU使用率和增加了略大於兩倍的GPU使用率. 啟用比較少效果影響較小, 所以只啟用您確切需要的."
   },
   "Enable": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
@@ -433,7 +433,7 @@
   },
   "Intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Intensity/Text",
-    "text": "亮度"
+    "text": "強度"
   },
   "Threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
@@ -445,7 +445,7 @@
   },
   "Transparent bloom  strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Alpha/Text",
-    "text": "透明光暈強度"
+    "text": "透明部份泛光強度"
   },
   "Reset settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Reset/Text",
@@ -729,7 +729,7 @@
   },
   "Avatar locomotion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Avatar locomotion/Label",
-    "text": "角色運動"
+    "text": "虛擬化身運動"
   },
   "Mirror image while UI hidden with ※ button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
@@ -757,7 +757,7 @@
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
-    "text": "表情偵測"
+    "text": "表情偵測 (需要攝影機追蹤)"
   },
   "None": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
@@ -857,7 +857,7 @@
   },
   "Less mesh updates (may make parts of avatar disappear, faster with many meshes)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Update offscreen/Label",
-    "text": "減少網格更新 (可能會讓角色部份部位消失, 有很多網格時會更快)"
+    "text": "減少網格更新 (可能會讓虛擬化身部份部位消失, 有很多網格時會更快)"
   },
   "Use old lip sync model (lower accuracy)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lip sync provider/Label",
@@ -865,7 +865,7 @@
   },
   "Factory reset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
-    "text": "係數重置"
+    "text": "恢復出廠設置"
   },
   "Load and play audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Load and play audio/Text",
@@ -897,15 +897,15 @@
   },
   "Save pos.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Save/Text",
-    "text": "儲存位置."
+    "text": "儲存位置"
   },
   "Reset pos.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Reset/Text",
-    "text": "重置位置."
+    "text": "重置位置"
   },
   "Ambient intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
-    "text": "環境光亮度"
+    "text": "環境光強度"
   },
   "OK": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
@@ -1085,7 +1085,7 @@
   },
   "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
-    "text": "更新可用:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">發佈紀錄</link></u>)"
+    "text": "更新可用:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">發布紀錄</link></u>)"
   },
   "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>": {
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
@@ -1093,7 +1093,7 @@
   },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
-    "text": "實驗性的表情偵測 (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)"
+    "text": "實驗性的表情偵測 (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">教學</link></u>)"
   },
   "Hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
@@ -1101,7 +1101,7 @@
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": "您可以使用下列熱鍵來快速的使用程式裡的各種功能.<size=50%>\n\n</size>空白\t\t顯示/隱藏UI的隱藏 ※ 按鍵\nR\t\t重置角色姿勢\nShift+R\t徹底的重置角色姿勢\nS\t\t擷取高清照片\nShift+S\t在三秒後拍照\nL\t\t讀取新的VRM角色\nC\t\t重置攝影機\nD\t\t重置光源方向\n\n"
+    "text": "您可以使用下列熱鍵來快速的使用程式裡的各種功能.<size=50%>\n\n</size>空白鍵\t\t顯示/隱藏UI的隱藏 ※ 按鍵\nR\t\t重置虛擬化身姿勢\nShift+R\t徹底的重置虛擬化身姿勢\nS\t\t擷取高清照片\nShift+S\t在三秒後拍照\nL\t\t讀取新的VRM虛擬化身\nC\t\t重置攝影機\nD\t\t重置光源方向\n\n"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
@@ -1113,11 +1113,11 @@
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
-    "text": "透明/綠幕"
+    "text": "透明背景/綠幕"
   },
   "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
-    "text": "設置一個不同的背景顏色來使用色鍵是不受支援的. 替代的是, 您可以直接擷取這個程式的真alpha透明, 允許您使用任何顏色配合您的角色, 甚至允許半透明的物件.\n\n要做這點, 按下 ※ 按鈕, 位於右下方. 您可以按下空白鍵來隱藏或顯示這個按鈕.\n\n隱藏UI後, 背景會顯示棋盤圖案. 使用 \"遊戲擷取\" 擷取這個視窗來源 <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (或 Streamlabs OBS) 然後勾選 \"允許透明\" 選項. 棋盤圖樣會消失並顯示透明在OBS內."
+    "text": "設置一個不同的背景顏色來使用色鍵是不受支援的. 替代的是, 您可以直接擷取這個程式的真alpha透明, 允許您使用任何顏色配合您的虛擬化身, 甚至允許半透明的物件.\n\n要做這點, 按下 ※ 按鈕, 位於右下方. 您可以按下空白鍵來隱藏或顯示這個按鈕.\n\n隱藏UI後, 背景會顯示棋盤圖案. 使用 \"遊戲擷取\" 擷取這個視窗來源 <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (或 Streamlabs OBS) 然後勾選 \"允許透明\" 選項. 棋盤圖樣會消失並顯示透明背景在OBS內."
   },
   "Hint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
@@ -1193,11 +1193,11 @@
   },
   "Please select an avatar": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoAvatar",
-    "text": "請選擇一個角色"
+    "text": "請選擇一個虛擬化身"
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
-    "text": "警告: 角色有非零的骨骼旋轉. 確保在最初匯出VRM時啟用 \"Pose Freeze\"."
+    "text": "警告: 虛擬化身有非零的骨骼旋轉. 確保在最初匯出VRM時啟用 \"Pose Freeze\"."
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
@@ -1225,11 +1225,11 @@
   },
   "Tutorial: Transparency in OBS/SLOBS (1)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Title",
-    "text": "教程: 使用透明 OBS/SLOBS (1)"
+    "text": "教程: 使用透明背景 OBS/SLOBS (1)"
   },
   "Tutorial: Transparency in OBS/SLOBS (2)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Title",
-    "text": "教程: 使用透明 OBS/SLOBS (2)"
+    "text": "教程: 使用透明背景 OBS/SLOBS (2)"
   },
   "Tutorial: Hide UI": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Title",
@@ -1361,11 +1361,11 @@
   },
   "[OpenSeeFace tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
-    "text": "[網路追蹤]"
+    "text": "[OpenSeeFace追蹤]"
   },
   "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
-    "text": "這些設定正常來說並不需要. 請記得這些設定可能有些奇怪的副作用或導致出現效能問題. 如果有怪事發生, 嘗試關閉他們."
+    "text": "這些設定正常來說並不必要. 請記得這些設定可能有些奇怪的副作用或導致出現效能問題. 如果有怪事發生, 嘗試關閉他們."
   },
   "Animate jaw bone": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
@@ -1417,7 +1417,7 @@
   },
   "Simulate turned hands for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Turn hands/Label",
-    "text": "模擬交換的雙手進行校準"
+    "text": "模擬雙手前轉來進行校準"
   },
   "OSC/VMC protocol receiver (disables tracking)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC receiving/Label",
@@ -1585,7 +1585,7 @@
   },
   "VSFAvatarOneTimeNotice": {
     "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
-    "text": "使用VSFAvatar規格的角色可以包含更多不同功能和長時間的動畫. 請在實況時只使用您自己製作的或從可信任的來源取得的VSFAvatar檔案."
+    "text": "使用VSFAvatar規格的虛擬化身可以包含更多不同功能和長時間的動畫. 請在實況時只使用您自己製作的或從可信任的來源取得的VSFAvatar檔案."
   },
   "VSFAvatarOneTimeNoticeTitle": {
     "comment": "Title of the notice.",
@@ -1601,7 +1601,7 @@
   },
   "Use standard blendshape accumulation": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use standard blendshape accumulation/Label",
-    "text": "使用標準blendshape累加作用"
+    "text": "不用MAX而是使用ADD累加Blendshape"
   },
   "Smart wink threshold": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Smart wink threshold/Text",
@@ -1617,7 +1617,7 @@
   },
   "Normalize mouth blendshape sums > 1.0": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Normalize visemes/Label",
-    "text": "標準化嘴巴blendshape總和 > 1.0"
+    "text": "標準化blendshape總和大於1.0的嘴巴"
   },
   "Disable packet bundling": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Disable packet bundling/Label",
@@ -1629,31 +1629,31 @@
   },
   "OnlyAuthor": {
     "comment": "VRM Allowed User: OnlyAuthor",
-    "text": null
+    "text": "只有作者"
   },
   "ExplicitlyLicensedPerson": {
     "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
-    "text": null
+    "text": "明確許可的人"
   },
   "Everyone": {
     "comment": "VRM Allowed User: Everyone",
-    "text": null
+    "text": "任何人"
   },
   "Allow": {
     "comment": "VRM Usage: Allow",
-    "text": null
+    "text": "允許"
   },
   "Disallow": {
     "comment": "VRM Usage: Disallow",
-    "text": null
+    "text": "禁止"
   },
   "Redistribution_Prohibited": {
     "comment": "VRM License Type: Redistribution_Prohibited",
-    "text": null
+    "text": "禁止重新發布"
   },
   "CC0": {
     "comment": "VRM License Type: CC0",
-    "text": null
+    "text": "放棄著作權(CC0)"
   },
   "CC_BY": {
     "comment": "VRM License Type: CC_BY",
@@ -1681,43 +1681,43 @@
   },
   "Other": {
     "comment": "VRM License Type: Other",
-    "text": null
+    "text": "其他"
   },
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
-    "text": null
+    "text": "隱藏虛擬化身"
   },
   "Disable increased background priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
-    "text": null
+    "text": "禁用增加背景運行優先度"
   },
   "Landscape mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
-    "text": null
+    "text": "橫向模式"
   },
   "iFacialMocap receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "iFacialMocap接收器"
   },
   "iPhone IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/IP wrapper/IP/Placeholder",
-    "text": null
+    "text": "iPhone的IP地址"
   },
   "Receive facial features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Blendshapes/Label",
-    "text": null
+    "text": "接收臉部特徵"
   },
   "Receive head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Head movement/Label",
-    "text": null
+    "text": "接收頭部運動"
   },
   "Receive eye gaze": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Eyes/Label",
-    "text": null
+    "text": "接收眼睛注視"
   },
   "Hybrid audio lipsync": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Allow hybrid lipsync/Label",
-    "text": null
+    "text": "混合音訊唇形同步"
   },
   "FaceMotion3D app": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/FaceMotion3D/Label",
@@ -1729,23 +1729,23 @@
   },
   "iPhone blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
-    "text": null
+    "text": "平滑處理iPhone的Blendshape"
   },
   "Show IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": null
+    "text": "顯示IP"
   },
   "Only open mouth according to one source": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Prevent iPhone mouth opening while lip syncing/Label",
-    "text": null
+    "text": "只根據一個源頭張開嘴巴"
   },
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": null
+    "text": "胸部(固定)
   },
   "Tracking app:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
-    "text": null
+    "text": "動捕App"
   },
   "iFacialMocap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
@@ -1753,83 +1753,83 @@
   },
   "iPhone/ARKit tracking receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "iPhone/ARKit追蹤接收器"
   },
   "Leap Motion V4 compatibility (restart required)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Leap Motion Orion V4 Compat/Label",
-    "text": null
+    "text": "Leap Motion V4相容性(需要重新啟動)"
   },
   "iPhone blendshapes required!": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Warning/Label",
-    "text": null
+    "text": "需要iPhone的Blendshape!"
   },
   "Props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Menu right/Props/Text",
-    "text": null
+    "text": "道具"
   },
   "Add": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/AddPropButton/Text",
-    "text": null
+    "text": "添加"
   },
   "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
     "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
-    "text": null
+    "text": "滑鼠滾輪: 改變大小\nShift+滑鼠滾輪: 旋轉\nX: 水平鏡像\nY: 垂直鏡像\n滑鼠中鍵: 開關永遠在最前\nDel: 刪除"
   },
   "Clear all props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
-    "text": null
+    "text": "清空附加的道具"
   },
   "Settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/ShowPropSettingsButton/Text",
-    "text": null
+    "text": "設定"
   },
   "Hide settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/HidePropSettingsButton/Text",
-    "text": null
+    "text": "隱藏設定"
   },
   "Distance to avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/Distance adjustment/Text",
-    "text": null
+    "text": "與虛擬化身的距離"
   },
   "Always on top": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/AlwaysOnTopToggle/Label",
-    "text": null
+    "text": "永遠在最前"
   },
   "Mirror X": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorXButton/Text",
-    "text": null
+    "text": "水平鏡像"
   },
   "Mirror Y": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorYButton/Text",
-    "text": null
+    "text": "垂直鏡像"
   },
   "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
-    "text": null
+    "text": "使用Spout2輸出畫面(<u><link=\"https://www.vseeface.icu/spout\">說明</link></u>)"
   },
   "VRoid Hub Login": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
-    "text": null
+    "text": "VRoid Hub登入"
   },
   "Not logged in": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
-    "text": null
+    "text": "尚未登入"
   },
   "Refresh": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
-    "text": null
+    "text": "刷新"
   },
   "Character:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
-    "text": null
+    "text": "角色:"
   },
   "Model:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
-    "text": null
+    "text": "模型:"
   },
   "Local avatars": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
-    "text": null
+    "text": "本地的虛擬化身"
   },
   "VRoid Hub": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
@@ -1837,23 +1837,23 @@
   },
   "Retrieving characters...": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
-    "text": null
+    "text": "檢索角色中..."
   },
   "Log out": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
-    "text": null
+    "text": "登出"
   },
   "Send VRChat OSC data (experimental) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
-    "text": null
+    "text": "傳送VRChat OSC資料(實驗性) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
   },
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
-    "text": null
+    "text": "在接收前傳送(可能不會傳送Blendshapes)"
   },
   "I agree to the conditions of use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/Permissions/AgreeToggle/Label",
-    "text": null
+    "text": "我同意使用條款"
   },
   "VRH_Conditions of use for this model": {
     "comment": "Do not translate: Conditions of use for this model/モデルデータの利用条件",
