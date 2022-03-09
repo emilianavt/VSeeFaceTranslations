@@ -1093,7 +1093,7 @@
   },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
-    "text": "實驗性的表情偵測 (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">教學</link></u>)"
+    "text": "實驗性的表情偵測 　　　　　　　(<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">教學</link></u>)"
   },
   "Hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
@@ -1845,7 +1845,7 @@
   },
   "Send VRChat OSC data (experimental) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
-    "text": "傳送VRChat OSC資料(實驗性) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
+    "text": "傳送VRChat OSC資料(實驗性)　　　　　<u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
   },
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
