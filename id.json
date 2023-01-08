@@ -273,7 +273,7 @@
   },
   "Mirror motion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Mirror motion/Text",
-    "text": "Pantulkan gerakan"
+    "text": "Mirror gerakan"
   },
   "Drift back to normal": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift/Text",
@@ -905,7 +905,7 @@
   },
   "Ambient intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
-    "text": "Intensitas sekeliling"
+    "text": "Intensitas Ambient"
   },
   "OK": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
@@ -913,7 +913,7 @@
   },
   "FPS\t?\nTR\t?": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Perf monitor",
-    "text": "FPS\t?\nTR\t?"
+    "text": null
   },
   "New Text": {
     "comment": "LocalizationTools/Dummy/Expression config/Expression title",
@@ -1081,7 +1081,7 @@
   },
   "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersion: {version} β": {
     "comment": "VSeeFace/Canvas/UI/Title (TMP)",
-    "text": null
+    "text": "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersi: {version} β"
   },
   "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
@@ -1169,11 +1169,11 @@
   },
   "Assigned <link></link> to <b></b>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyDone/Message/Text",
-    "text": "<link></link> Ditetapkan ke <b></b>"
+    "text": "Tetapkan <link></link> ke <b></b>"
   },
   "English (en)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
-    "text": null
+    "text": "Inggris (en)"
   },
   "Blink smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink smoothing/Text",
@@ -1305,7 +1305,7 @@
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
-    "text": null
+    "text": "Pengaturan kamera bawaan"
   },
   "Camera Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
@@ -1689,39 +1689,39 @@
   },
   "Disable increased background priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
-    "text": null
+    "text": "Matikan prioritas background yang di naikkan"
   },
   "Landscape mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
-    "text": null
+    "text": "Mode lanskap"
   },
   "iFacialMocap receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "Penerima iFacialMocap"
   },
   "iPhone IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/IP wrapper/IP/Placeholder",
-    "text": null
+    "text": "Alamat IP iPhone"
   },
   "Receive facial features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Blendshapes/Label",
-    "text": null
+    "text": "Terima fitur wajah"
   },
   "Receive head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Head movement/Label",
-    "text": null
+    "text": "Terima pergerakan kepala"
   },
   "Receive eye gaze": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Eyes/Label",
-    "text": null
+    "text": "Terima sorotan mata"
   },
   "Hybrid audio lipsync": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Allow hybrid lipsync/Label",
-    "text": null
+    "text": "Lipsync audio hibrid"
   },
   "FaceMotion3D app": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/FaceMotion3D/Label",
-    "text": null
+    "text": "Aplikasi FaceMotion3D"
   },
   "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>/<link=\"https://github.com/DenchiSoft/VTubeStudio/wiki/Sending-data-to-VSeeFace\">VTube Studio</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
@@ -1729,23 +1729,23 @@
   },
   "iPhone blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
-    "text": null
+    "text": "Perhalus blendshape iPhone"
   },
   "Show IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": "Sembunyikan IP"
+    "text": "Tampilkan IP"
   },
   "Only open mouth according to one source": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Prevent iPhone mouth opening while lip syncing/Label",
-    "text": null
+    "text": "Hanya buka mulut dengan satu sumber"
   },
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": null
+    "text": "Dada (Fixed)"
   },
   "Tracking app:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
-    "text": null
+    "text": "Aplikasi tracking:"
   },
   "iFacialMocap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
@@ -1753,47 +1753,47 @@
   },
   "iPhone/ARKit tracking receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "Perima tracking iPhone/ARKit"
   },
   "Leap Motion V4 compatibility (restart required)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Leap Motion Orion V4 Compat/Label",
-    "text": null
+    "text": "Kompatibilitas Leap Motion V4 (butuh restart)"
   },
   "iPhone blendshapes required!": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Warning/Label",
-    "text": null
+    "text": "Blendshape iPhone dibutuhkan!"
   },
   "Props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Menu right/Props/Text",
-    "text": null
+    "text": "Props"
   },
   "Add": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/AddPropButton/Text",
-    "text": null
+    "text": "Tambah"
   },
   "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
     "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
-    "text": null
+    "text": "Roda mouse: Ubah ukuran\nShift + roda mouse: Putar\nX: Mirror secara horizontal\nY: Mirror secara vertikal\nKlik tengah: Nyala atau matikan selalu di atas\nDel: Hapus"
   },
   "Clear all props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
-    "text": null
+    "text": "Bersihkan semua prop"
   },
   "Settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/ShowPropSettingsButton/Text",
-    "text": null
+    "text": "Pengaturan"
   },
   "Hide settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/HidePropSettingsButton/Text",
-    "text": null
+    "text": "Sembunyikan pengaturan"
   },
   "Distance to avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/Distance adjustment/Text",
-    "text": null
+    "text": "Jarak ke avatar"
   },
   "Always on top": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/AlwaysOnTopToggle/Label",
-    "text": null
+    "text": "Selalu di atas"
   },
   "Mirror X": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorXButton/Text",
@@ -1805,23 +1805,23 @@
   },
   "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
-    "text": null
+    "text": "Dukungan tangkapan gambar Spout2 (<u><link=\"https://www.vseeface.icu/spout\">Dukungan</link></u>)"
   },
   "VRoid Hub Login": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
-    "text": null
+    "text": "Masuk VRoid Hub"
   },
   "Not logged in": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
-    "text": null
+    "text": "Tidak masuk"
   },
   "Refresh": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
-    "text": null
+    "text": "Muat ulang"
   },
   "Character:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
-    "text": null
+    "text": "Karakter"
   },
   "Model:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
@@ -1829,7 +1829,7 @@
   },
   "Local avatars": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
-    "text": null
+    "text": "Avatar lokal"
   },
   "VRoid Hub": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
@@ -1837,23 +1837,23 @@
   },
   "Retrieving characters...": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
-    "text": null
+    "text": "Memuat karakter..."
   },
   "Log out": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
-    "text": null
+    "text": "Keluar"
   },
   "Send VRChat OSC data (experimental) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
-    "text": null
+    "text": "Kirim data VRChat OSC (ujicoba) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
   },
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
-    "text": null
+    "text": "Kirim sebelum menerima (bisa tidak mengirim blendshapes)"
   },
   "I agree to the conditions of use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/Permissions/AgreeToggle/Label",
-    "text": null
+    "text": "Saya setuju terhadap ketentuan penggunaan"
   },
   "VRH_Conditions of use for this model": {
     "comment": "Do not translate: Conditions of use for this model/モデルデータの利用条件",
