@@ -53,19 +53,19 @@
   },
   "Commercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "Penggunaan komersil"
   },
   "Personal noncommercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "Penggunaan non komersil personal"
   },
   "Personal commercial use": {
     "comment": "VRoid Hub 'lc_profit'",
-    "text": null
+    "text": "Penggunaan komersil personal"
   },
   "Non-profit use": {
     "comment": "VRoid Hub 'nonprofit'",
-    "text": null
+    "text": "Penggunakan non profit"
   },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
@@ -73,11 +73,11 @@
   },
   "Required": {
     "comment": "VRoid Hub 'need'",
-    "text": null
+    "text": "Dibutuhkan"
   },
   "Not required": {
     "comment": "VRoid Hub 'noneed'",
-    "text": null
+    "text": "Tidak dibutuhkan"
   },
   "License URL:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
@@ -185,7 +185,7 @@
   },
   "English": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
-    "text": "English"
+    "text": "Inggris"
   },
   "Initializing avatar...": {
     "comment": "VSeeFace/Canvas/UI/Loading avatar message",
@@ -377,7 +377,7 @@
   },
   "Ambient occlusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
-    "text": "Ambient occulsion"
+    "text": "Oklusi ambien"
   },
   "Lens distortion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Lens distortion/Text",
@@ -401,7 +401,7 @@
   },
   "Enable post processing effects": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable/Label",
-    "text": "Nyalakan efek pascapemrosesan"
+    "text": "Nyalakan efek pasca pemrosesan"
   },
   "Improve anti-aliasing (SMAA)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Improve anti-aliasing/Label",
@@ -421,7 +421,7 @@
   },
   "Don't cut at edge": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Fix alpha/Label",
-    "text": "Jangan potong di sudut"
+    "text": "Jangan potong di pinggir"
   },
   "#FFFFFF": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Hex color/InputField/Placeholder",
@@ -437,7 +437,7 @@
   },
   "Threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
-    "text": "Threshold"
+    "text": "Batas"
   },
   "Diffusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Diffusion/Text",
@@ -469,23 +469,23 @@
   },
   "Multiplier X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
-    "text": "Multiplier X"
+    "text": "Pengganda X"
   },
   "Multiplier Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier Y/Text",
-    "text": "Multiplier Y"
+    "text": "Pengganda Y"
   },
   "Center X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center X/Text",
-    "text": "Center X"
+    "text": "Tengah X"
   },
   "Center Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center Y/Text",
-    "text": "Center Y"
+    "text": "Tengah Y"
   },
   "Scale": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
-    "text": "Scale"
+    "text": "Skala"
   },
   "Cromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
@@ -517,7 +517,7 @@
   },
   "Colored": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Colored/Label",
-    "text": "Colored"
+    "text": "Diwarnai"
   },
   "Size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
@@ -581,7 +581,7 @@
   },
   "Position: Attachment": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
-    "text": "Posisi: Lampiran"
+    "text": "Posisi: Item Tambahan"
   },
   "Flat on desk": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
@@ -889,7 +889,7 @@
   },
   "Ambient": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Ambient/Text",
-    "text": null
+    "text": "Ambient"
   },
   "Shadows": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Toggle/Label",
@@ -909,7 +909,7 @@
   },
   "OK": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
-    "text": null
+    "text": "OK"
   },
   "FPS\t?\nTR\t?": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Perf monitor",
@@ -921,7 +921,7 @@
   },
   "Base": {
     "comment": "LocalizationTools/Dummy/Expression config/Base/Label",
-    "text": null
+    "text": "Dasar"
   },
   "Additive": {
     "comment": "LocalizationTools/Dummy/Expression config/Additive/Label",
@@ -1293,7 +1293,7 @@
   },
   "Show log and settings folder": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Show log folder/Text",
-    "text": "Tampilkan folder setting dan log"
+    "text": "Tampilkan folder pengaturan dan log"
   },
   "While looking down:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label",
@@ -1313,7 +1313,7 @@
   },
   "Look down threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
-    "text": "Treshold lihat ke bawah"
+    "text": "Batas lihat ke bawah"
   },
   "Skip": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
@@ -1477,7 +1477,7 @@
   },
   "OSC/<link=\"https://vmc.info/\">VMC protocol</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
-    "text": null
+    "text": "OSC/<link=\"https://vmc.info/\">protokol VMC</link>"
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
@@ -1525,7 +1525,7 @@
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
-    "text": null
+    "text": "Timeout tracking hilang"
   },
   "Tracking loss transition": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
@@ -1585,11 +1585,11 @@
   },
   "VSFAvatarOneTimeNotice": {
     "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
-    "text": null
+    "text": "Pemberitahuan di tampilkan saat pertamakali file VSFAvatar di muat."
   },
   "VSFAvatarOneTimeNoticeTitle": {
     "comment": "Title of the notice.",
-    "text": null
+    "text": "Judul dari pemberitahuan."
   },
   "Disable improved transparency": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
@@ -1605,11 +1605,11 @@
   },
   "Smart wink threshold": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Smart wink threshold/Text",
-    "text": null
+    "text": "Batas kedip pintar"
   },
   "Smart wink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
-    "text": "Smart wink"
+    "text": "Kedip pintar"
   },
   "Prevent vertical head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
@@ -1653,35 +1653,35 @@
   },
   "CC0": {
     "comment": "VRM License Type: CC0",
-    "text": null
+    "text": "Tipe Lisensi VRP : CC0"
   },
   "CC_BY": {
     "comment": "VRM License Type: CC_BY",
-    "text": null
+    "text": "Tipe Lisensi VRP : CC_BY"
   },
   "CC_BY_NC": {
     "comment": "VRM License Type: CC_BY_NC",
-    "text": null
+    "text": "Tipe Lisensi VRP : CC_BY_NC"
   },
   "CC_BY_SA": {
     "comment": "VRM License Type: CC_BY_SA",
-    "text": null
+    "text": "Tipe Lisensi VRP : CC_BY_SA"
   },
   "CC_BY_NC_SA": {
     "comment": "VRM License Type: CC_BY_NC_SA",
-    "text": null
+    "text": "Tipe Lisensi VRP : CC_BY_NC_SA"
   },
   "CC_BY_ND": {
     "comment": "VRM License Type: CC_BY_ND",
-    "text": null
+    "text": "Tipe Lisensi VRP : CC_BY_ND"
   },
   "CC_BY_NC_ND": {
     "comment": "VRM License Type: CC_BY_NC_ND",
-    "text": null
+    "text": "Tipe Lisensi VRP : CC_BY_NC_ND"
   },
   "Other": {
     "comment": "VRM License Type: Other",
-    "text": "Lainnya"
+    "text": "Tipe Lisensi VRP : Lainnya"
   },
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
