@@ -1005,43 +1005,43 @@
   },
   "Custom": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": null
+    "text": "Kustom"
   },
   "Custom 2": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": null
+    "text": "Kustom 2"
   },
   "Custom 3": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": null
+    "text": "Kustom 3"
   },
   "Custom 4": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:5",
-    "text": null
+    "text": "Kustom 4"
   },
   "Custom 5": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:6",
-    "text": null
+    "text": "Kustom 5"
   },
   "Custom 6": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
-    "text": null
+    "text": "Kustom 6"
   },
   "Custom 7": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
-    "text": null
+    "text": "Kustom 7"
   },
   "Custom 8": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": null
+    "text": "Kustom 8"
   },
   "Custom 9": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": null
+    "text": "Kustom 9"
   },
   "Custom 10": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": null
+    "text": "Kustom 10"
   },
   "16x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:1",
@@ -1097,19 +1097,19 @@
   },
   "Hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
-    "text": null
+    "text": "Tombol pintasan"
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": "Anda dapat menggunakan hotkey berikut untuk secara cepat menggunakan berbagai fungsi dalam program.<size=50%>\n\n</size>Spasi\tTampilkan/sembunyikan tombol UI ※ \nR\t\tReset avatar pose\nShift+R\tReset avatar pose sepenuhnya\nS\t\tAmbil tangkapan layar beresolusi tinggi\nShift+S\tAmbil tangkapan layar setelah 3 detik\nL\t\tMuat avatar VRM baru\nC\t\tReset kamera\nD\t\tReset arah cahaya"
+    "text": "Anda dapat menggunakan Tombol pintasan berikut untuk secara cepat menggunakan berbagai fungsi dalam program.<size=50%>\n\n</size>Spasi\tTampilkan/sembunyikan tombol UI ※ \nR\t\tReset avatar pose\nShift+R\tReset avatar pose sepenuhnya\nS\t\tAmbil tangkapan layar beresolusi tinggi\nShift+S\tAmbil tangkapan layar setelah 3 detik\nL\t\tMuat avatar VRM baru\nC\t\tReset kamera\nD\t\tReset arah cahaya"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
-    "text": "Hotkey global"
+    "text": "Tombol pintasan global"
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": "Global hotkey dapat digunakan dari mana saja, bahkan ketika program sedang berjalan di belakang.\n\nMenekan Ctrl+Shift+F1 to Ctrl+Shift+F6 akan memaksa ekspresi yang cocok (Netral, Senang , Marah, Bahagia, Sedih, Terkejut). Menekannya lagi dapat menghentikan ekspresi, namun anda juga dapat langsung beralih ke ekspresi yang berbeda.\n\nMenekan Ctrl+Shift+F7 akan menyalakan/mematikan pelacakan tangan menggunakan Leap Motion"
+    "text": "Tombol pintasan Global dapat digunakan dari mana saja, bahkan ketika program sedang berjalan di belakang.\n\nMenekan Ctrl+Shift+F1 to Ctrl+Shift+F6 akan memaksa ekspresi yang cocok (Netral, Senang , Marah, Bahagia, Sedih, Terkejut). Menekannya lagi dapat menghentikan ekspresi, namun anda juga dapat langsung beralih ke ekspresi yang berbeda.\n\nMenekan Ctrl+Shift+F7 akan menyalakan/mematikan pelacakan tangan menggunakan Leap Motion"
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
@@ -1565,7 +1565,7 @@
   },
   "Show LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": "Sembunyikan LAN IP"
+    "text": "Tampilkan IP LAN"
   },
   "LAN IP:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address",
@@ -1573,7 +1573,7 @@
   },
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
-    "text": "Sembunyikan LAN IP"
+    "text": "Sembunyikan IP LAN"
   },
   "Screen top (V5 only)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
@@ -1653,35 +1653,35 @@
   },
   "CC0": {
     "comment": "VRM License Type: CC0",
-    "text": "Tipe Lisensi VRP : CC0"
+    "text": "Tipe Lisensi VRM : CC0"
   },
   "CC_BY": {
     "comment": "VRM License Type: CC_BY",
-    "text": "Tipe Lisensi VRP : CC_BY"
+    "text": "Tipe Lisensi VRM : CC_BY"
   },
   "CC_BY_NC": {
     "comment": "VRM License Type: CC_BY_NC",
-    "text": "Tipe Lisensi VRP : CC_BY_NC"
+    "text": "Tipe Lisensi VRM : CC_BY_NC"
   },
   "CC_BY_SA": {
     "comment": "VRM License Type: CC_BY_SA",
-    "text": "Tipe Lisensi VRP : CC_BY_SA"
+    "text": "Tipe Lisensi VRM : CC_BY_SA"
   },
   "CC_BY_NC_SA": {
     "comment": "VRM License Type: CC_BY_NC_SA",
-    "text": "Tipe Lisensi VRP : CC_BY_NC_SA"
+    "text": "Tipe Lisensi VRM : CC_BY_NC_SA"
   },
   "CC_BY_ND": {
     "comment": "VRM License Type: CC_BY_ND",
-    "text": "Tipe Lisensi VRP : CC_BY_ND"
+    "text": "Tipe Lisensi VRM : CC_BY_ND"
   },
   "CC_BY_NC_ND": {
     "comment": "VRM License Type: CC_BY_NC_ND",
-    "text": "Tipe Lisensi VRP : CC_BY_NC_ND"
+    "text": "Tipe Lisensi VRM : CC_BY_NC_ND"
   },
   "Other": {
     "comment": "VRM License Type: Other",
-    "text": "Tipe Lisensi VRP : Lainnya"
+    "text": "Tipe Lisensi VRM : Lainnya"
   },
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
