@@ -53,19 +53,19 @@
   },
   "Commercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "Penggunaan komersil"
   },
   "Personal noncommercial use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
-    "text": null
+    "text": "Penggunaan non komersil personal"
   },
   "Personal commercial use": {
     "comment": "VRoid Hub 'lc_profit'",
-    "text": null
+    "text": "Penggunaan komersil personal"
   },
   "Non-profit use": {
     "comment": "VRoid Hub 'nonprofit'",
-    "text": null
+    "text": "Penggunakan non profit"
   },
   "License:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
@@ -73,11 +73,11 @@
   },
   "Required": {
     "comment": "VRoid Hub 'need'",
-    "text": null
+    "text": "Dibutuhkan"
   },
   "Not required": {
     "comment": "VRoid Hub 'noneed'",
-    "text": null
+    "text": "Tidak dibutuhkan"
   },
   "License URL:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
@@ -185,7 +185,7 @@
   },
   "English": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
-    "text": "English"
+    "text": "Inggris"
   },
   "Initializing avatar...": {
     "comment": "VSeeFace/Canvas/UI/Loading avatar message",
@@ -273,7 +273,7 @@
   },
   "Mirror motion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Mirror motion/Text",
-    "text": "Pantulkan gerakan"
+    "text": "Mirror gerakan"
   },
   "Drift back to normal": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift/Text",
@@ -377,7 +377,7 @@
   },
   "Ambient occlusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
-    "text": "Ambient occulsion"
+    "text": "Oklusi ambien"
   },
   "Lens distortion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Lens distortion/Text",
@@ -401,7 +401,7 @@
   },
   "Enable post processing effects": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable/Label",
-    "text": "Nyalakan efek pascapemrosesan"
+    "text": "Nyalakan efek pasca pemrosesan"
   },
   "Improve anti-aliasing (SMAA)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Improve anti-aliasing/Label",
@@ -421,7 +421,7 @@
   },
   "Don't cut at edge": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Fix alpha/Label",
-    "text": "Jangan potong di sudut"
+    "text": "Jangan potong di pinggir"
   },
   "#FFFFFF": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Hex color/InputField/Placeholder",
@@ -437,7 +437,7 @@
   },
   "Threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
-    "text": "Threshold"
+    "text": "Batas"
   },
   "Diffusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Diffusion/Text",
@@ -469,23 +469,23 @@
   },
   "Multiplier X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
-    "text": "Multiplier X"
+    "text": "Pengganda X"
   },
   "Multiplier Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier Y/Text",
-    "text": "Multiplier Y"
+    "text": "Pengganda Y"
   },
   "Center X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center X/Text",
-    "text": "Center X"
+    "text": "Tengah X"
   },
   "Center Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center Y/Text",
-    "text": "Center Y"
+    "text": "Tengah Y"
   },
   "Scale": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
-    "text": "Scale"
+    "text": "Skala"
   },
   "Cromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
@@ -517,7 +517,7 @@
   },
   "Colored": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Colored/Label",
-    "text": "Colored"
+    "text": "Diwarnai"
   },
   "Size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
@@ -581,7 +581,7 @@
   },
   "Position: Attachment": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
-    "text": "Posisi: Lampiran"
+    "text": "Posisi: Item Tambahan"
   },
   "Flat on desk": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
@@ -889,7 +889,7 @@
   },
   "Ambient": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Ambient/Text",
-    "text": null
+    "text": "Ambient"
   },
   "Shadows": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Toggle/Label",
@@ -905,15 +905,15 @@
   },
   "Ambient intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
-    "text": "Intensitas sekeliling"
+    "text": "Intensitas Ambient"
   },
   "OK": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
-    "text": null
+    "text": "OK"
   },
   "FPS\t?\nTR\t?": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Perf monitor",
-    "text": "FPS\t?\nTR\t?"
+    "text": null
   },
   "New Text": {
     "comment": "LocalizationTools/Dummy/Expression config/Expression title",
@@ -921,7 +921,7 @@
   },
   "Base": {
     "comment": "LocalizationTools/Dummy/Expression config/Base/Label",
-    "text": null
+    "text": "Dasar"
   },
   "Additive": {
     "comment": "LocalizationTools/Dummy/Expression config/Additive/Label",
@@ -1005,43 +1005,43 @@
   },
   "Custom": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": null
+    "text": "Kustom"
   },
   "Custom 2": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": null
+    "text": "Kustom 2"
   },
   "Custom 3": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": null
+    "text": "Kustom 3"
   },
   "Custom 4": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:5",
-    "text": null
+    "text": "Kustom 4"
   },
   "Custom 5": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:6",
-    "text": null
+    "text": "Kustom 5"
   },
   "Custom 6": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
-    "text": null
+    "text": "Kustom 6"
   },
   "Custom 7": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
-    "text": null
+    "text": "Kustom 7"
   },
   "Custom 8": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
-    "text": null
+    "text": "Kustom 8"
   },
   "Custom 9": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
-    "text": null
+    "text": "Kustom 9"
   },
   "Custom 10": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
-    "text": null
+    "text": "Kustom 10"
   },
   "16x": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:1",
@@ -1081,7 +1081,7 @@
   },
   "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersion: {version} β": {
     "comment": "VSeeFace/Canvas/UI/Title (TMP)",
-    "text": null
+    "text": "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersi: {version} β"
   },
   "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
@@ -1097,19 +1097,19 @@
   },
   "Hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
-    "text": null
+    "text": "Tombol pintasan"
   },
   "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
-    "text": "Anda dapat menggunakan hotkey berikut untuk secara cepat menggunakan berbagai fungsi dalam program.<size=50%>\n\n</size>Spasi\tTampilkan/sembunyikan tombol UI ※ \nR\t\tReset avatar pose\nShift+R\tReset avatar pose sepenuhnya\nS\t\tAmbil tangkapan layar beresolusi tinggi\nShift+S\tAmbil tangkapan layar setelah 3 detik\nL\t\tMuat avatar VRM baru\nC\t\tReset kamera\nD\t\tReset arah cahaya"
+    "text": "Anda dapat menggunakan Tombol pintasan berikut untuk secara cepat menggunakan berbagai fungsi dalam program.<size=50%>\n\n</size>Spasi\tTampilkan/sembunyikan tombol UI ※ \nR\t\tReset avatar pose\nShift+R\tReset avatar pose sepenuhnya\nS\t\tAmbil tangkapan layar beresolusi tinggi\nShift+S\tAmbil tangkapan layar setelah 3 detik\nL\t\tMuat avatar VRM baru\nC\t\tReset kamera\nD\t\tReset arah cahaya"
   },
   "Global hotkeys": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
-    "text": "Hotkey global"
+    "text": "Tombol pintasan global"
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
-    "text": "Global hotkey dapat digunakan dari mana saja, bahkan ketika program sedang berjalan di belakang.\n\nMenekan Ctrl+Shift+F1 to Ctrl+Shift+F6 akan memaksa ekspresi yang cocok (Netral, Senang , Marah, Bahagia, Sedih, Terkejut). Menekannya lagi dapat menghentikan ekspresi, namun anda juga dapat langsung beralih ke ekspresi yang berbeda.\n\nMenekan Ctrl+Shift+F7 akan menyalakan/mematikan pelacakan tangan menggunakan Leap Motion"
+    "text": "Tombol pintasan Global dapat digunakan dari mana saja, bahkan ketika program sedang berjalan di belakang.\n\nMenekan Ctrl+Shift+F1 to Ctrl+Shift+F6 akan memaksa ekspresi yang cocok (Netral, Senang , Marah, Bahagia, Sedih, Terkejut). Menekannya lagi dapat menghentikan ekspresi, namun anda juga dapat langsung beralih ke ekspresi yang berbeda.\n\nMenekan Ctrl+Shift+F7 akan menyalakan/mematikan pelacakan tangan menggunakan Leap Motion"
   },
   "Transparency/Greenscreen": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
@@ -1169,11 +1169,11 @@
   },
   "Assigned <link></link> to <b></b>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyDone/Message/Text",
-    "text": "<link></link> Ditetapkan ke <b></b>"
+    "text": "Tetapkan <link></link> ke <b></b>"
   },
   "English (en)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
-    "text": null
+    "text": "Inggris (en)"
   },
   "Blink smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink smoothing/Text",
@@ -1293,7 +1293,7 @@
   },
   "Show log and settings folder": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Show log folder/Text",
-    "text": "Tampilkan folder setting dan log"
+    "text": "Tampilkan folder pengaturan dan log"
   },
   "While looking down:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label",
@@ -1305,7 +1305,7 @@
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
-    "text": null
+    "text": "Pengaturan kamera bawaan"
   },
   "Camera Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
@@ -1313,7 +1313,7 @@
   },
   "Look down threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
-    "text": "Treshold lihat ke bawah"
+    "text": "Batas lihat ke bawah"
   },
   "Skip": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
@@ -1477,7 +1477,7 @@
   },
   "OSC/<link=\"https://vmc.info/\">VMC protocol</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
-    "text": null
+    "text": "OSC/<link=\"https://vmc.info/\">protokol VMC</link>"
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
@@ -1525,7 +1525,7 @@
   },
   "Tracking loss timeout": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
-    "text": null
+    "text": "Timeout tracking hilang"
   },
   "Tracking loss transition": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
@@ -1565,7 +1565,7 @@
   },
   "Show LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": "Sembunyikan LAN IP"
+    "text": "Tampilkan IP LAN"
   },
   "LAN IP:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address",
@@ -1573,7 +1573,7 @@
   },
   "Hide LAN IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
-    "text": "Sembunyikan LAN IP"
+    "text": "Sembunyikan IP LAN"
   },
   "Screen top (V5 only)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
@@ -1585,11 +1585,11 @@
   },
   "VSFAvatarOneTimeNotice": {
     "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
-    "text": null
+    "text": "Pemberitahuan di tampilkan saat pertamakali file VSFAvatar di muat."
   },
   "VSFAvatarOneTimeNoticeTitle": {
     "comment": "Title of the notice.",
-    "text": null
+    "text": "Judul dari pemberitahuan."
   },
   "Disable improved transparency": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
@@ -1605,11 +1605,11 @@
   },
   "Smart wink threshold": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Smart wink threshold/Text",
-    "text": null
+    "text": "Batas kedip pintar"
   },
   "Smart wink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
-    "text": "Smart wink"
+    "text": "Kedip pintar"
   },
   "Prevent vertical head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
@@ -1653,35 +1653,35 @@
   },
   "CC0": {
     "comment": "VRM License Type: CC0",
-    "text": null
+    "text": "Tipe Lisensi VRM : CC0"
   },
   "CC_BY": {
     "comment": "VRM License Type: CC_BY",
-    "text": null
+    "text": "Tipe Lisensi VRM : CC_BY"
   },
   "CC_BY_NC": {
     "comment": "VRM License Type: CC_BY_NC",
-    "text": null
+    "text": "Tipe Lisensi VRM : CC_BY_NC"
   },
   "CC_BY_SA": {
     "comment": "VRM License Type: CC_BY_SA",
-    "text": null
+    "text": "Tipe Lisensi VRM : CC_BY_SA"
   },
   "CC_BY_NC_SA": {
     "comment": "VRM License Type: CC_BY_NC_SA",
-    "text": null
+    "text": "Tipe Lisensi VRM : CC_BY_NC_SA"
   },
   "CC_BY_ND": {
     "comment": "VRM License Type: CC_BY_ND",
-    "text": null
+    "text": "Tipe Lisensi VRM : CC_BY_ND"
   },
   "CC_BY_NC_ND": {
     "comment": "VRM License Type: CC_BY_NC_ND",
-    "text": null
+    "text": "Tipe Lisensi VRM : CC_BY_NC_ND"
   },
   "Other": {
     "comment": "VRM License Type: Other",
-    "text": "Lainnya"
+    "text": "Tipe Lisensi VRM : Lainnya"
   },
   "Hide avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
@@ -1689,39 +1689,39 @@
   },
   "Disable increased background priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
-    "text": null
+    "text": "Matikan prioritas background yang di naikkan"
   },
   "Landscape mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
-    "text": null
+    "text": "Mode lanskap"
   },
   "iFacialMocap receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "Penerima iFacialMocap"
   },
   "iPhone IP address": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/IP wrapper/IP/Placeholder",
-    "text": null
+    "text": "Alamat IP iPhone"
   },
   "Receive facial features": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Blendshapes/Label",
-    "text": null
+    "text": "Terima fitur wajah"
   },
   "Receive head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Head movement/Label",
-    "text": null
+    "text": "Terima pergerakan kepala"
   },
   "Receive eye gaze": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Eyes/Label",
-    "text": null
+    "text": "Terima sorotan mata"
   },
   "Hybrid audio lipsync": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Allow hybrid lipsync/Label",
-    "text": null
+    "text": "Lipsync audio hibrid"
   },
   "FaceMotion3D app": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/FaceMotion3D/Label",
-    "text": null
+    "text": "Aplikasi FaceMotion3D"
   },
   "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>/<link=\"https://github.com/DenchiSoft/VTubeStudio/wiki/Sending-data-to-VSeeFace\">VTube Studio</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
@@ -1729,23 +1729,23 @@
   },
   "iPhone blendshape smoothing": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
-    "text": null
+    "text": "Perhalus blendshape iPhone"
   },
   "Show IP": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
-    "text": "Sembunyikan IP"
+    "text": "Tampilkan IP"
   },
   "Only open mouth according to one source": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Prevent iPhone mouth opening while lip syncing/Label",
-    "text": null
+    "text": "Hanya buka mulut dengan satu sumber"
   },
   "Chest (Fixed)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
-    "text": null
+    "text": "Dada (Fixed)"
   },
   "Tracking app:": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
-    "text": null
+    "text": "Aplikasi tracking:"
   },
   "iFacialMocap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
@@ -1753,47 +1753,47 @@
   },
   "iPhone/ARKit tracking receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
-    "text": null
+    "text": "Perima tracking iPhone/ARKit"
   },
   "Leap Motion V4 compatibility (restart required)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Leap Motion Orion V4 Compat/Label",
-    "text": null
+    "text": "Kompatibilitas Leap Motion V4 (butuh restart)"
   },
   "iPhone blendshapes required!": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Warning/Label",
-    "text": null
+    "text": "Blendshape iPhone dibutuhkan!"
   },
   "Props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Menu right/Props/Text",
-    "text": null
+    "text": "Props"
   },
   "Add": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/AddPropButton/Text",
-    "text": null
+    "text": "Tambah"
   },
   "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
     "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
-    "text": null
+    "text": "Roda mouse: Ubah ukuran\nShift + roda mouse: Putar\nX: Mirror secara horizontal\nY: Mirror secara vertikal\nKlik tengah: Nyala atau matikan selalu di atas\nDel: Hapus"
   },
   "Clear all props": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
-    "text": null
+    "text": "Bersihkan semua prop"
   },
   "Settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/ShowPropSettingsButton/Text",
-    "text": null
+    "text": "Pengaturan"
   },
   "Hide settings": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/HidePropSettingsButton/Text",
-    "text": null
+    "text": "Sembunyikan pengaturan"
   },
   "Distance to avatar": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/Distance adjustment/Text",
-    "text": null
+    "text": "Jarak ke avatar"
   },
   "Always on top": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/AlwaysOnTopToggle/Label",
-    "text": null
+    "text": "Selalu di atas"
   },
   "Mirror X": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorXButton/Text",
@@ -1805,23 +1805,23 @@
   },
   "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
-    "text": null
+    "text": "Dukungan tangkapan gambar Spout2 (<u><link=\"https://www.vseeface.icu/spout\">Dukungan</link></u>)"
   },
   "VRoid Hub Login": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
-    "text": null
+    "text": "Masuk VRoid Hub"
   },
   "Not logged in": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
-    "text": null
+    "text": "Tidak masuk"
   },
   "Refresh": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
-    "text": null
+    "text": "Muat ulang"
   },
   "Character:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
-    "text": null
+    "text": "Karakter"
   },
   "Model:": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
@@ -1829,7 +1829,7 @@
   },
   "Local avatars": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
-    "text": null
+    "text": "Avatar lokal"
   },
   "VRoid Hub": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
@@ -1837,23 +1837,23 @@
   },
   "Retrieving characters...": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
-    "text": null
+    "text": "Memuat karakter..."
   },
   "Log out": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
-    "text": null
+    "text": "Keluar"
   },
   "Send VRChat OSC data (experimental) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
-    "text": null
+    "text": "Kirim data VRChat OSC (ujicoba) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
   },
   "Send before receiving (may not send blendshapes)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
-    "text": null
+    "text": "Kirim sebelum menerima (bisa tidak mengirim blendshapes)"
   },
   "I agree to the conditions of use": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/Permissions/AgreeToggle/Label",
-    "text": null
+    "text": "Saya setuju terhadap ketentuan penggunaan"
   },
   "VRH_Conditions of use for this model": {
     "comment": "Do not translate: Conditions of use for this model/モデルデータの利用条件",
