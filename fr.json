@@ -413,7 +413,7 @@
   },
   "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
-    "text": "\nLes effets du post-processing demandent plus de ressources. Ils sont actuellement toujours experimentaux et peuvent parfois ne pas produire le résultat désiré. Spécifiquement, ils n'affectent pas autre chose que l'avatar.\n\nSur mon système, activer le post-processing et tous les effets vont légèrement augmenter l'utilisation du CPU et légèrement plus que doubler l'utilisation du GPU. Activer moins d'effets aura moins d'impact, activez donc seulement ce dont vous avez besoin."
+    "text": "\nLes effets du post-processing demandent plus de ressources. Ils sont actuellement toujours experimentaux et peuvent parfois ne pas produire le résultat désiré. En particulier, ils n'affectent rien d'autre que l'avatar.\n\nSur mon système, activer le post-processing et tous les effets vont légèrement augmenter l'utilisation du CPU et légèrement plus que doubler l'utilisation du GPU. Activer moins d'effets aura moins d'impact sur les performances, activez donc seulement ceux dont vous avez besoin."
   },
   "Enable": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
@@ -465,7 +465,7 @@
   },
   "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Text",
-    "text": "Si vous apercevez des ombres étranges autour des yeux, causées par les cils, essayez de paramétrer le 'material' en cutout via Unity."
+    "text": "Si vous voyez des ombres étranges autour des yeux, causées par les cils, essayez de paramétrer le 'material' en cutout via Unity."
   },
   "Multiplier X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
@@ -529,7 +529,7 @@
   },
   "Transparent grain strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
-    "text": "Intensité de la trensparence du grain"
+    "text": "Intensité de la transparence du grain"
   },
   "Opaque background": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
@@ -753,7 +753,7 @@
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
-    "text": "Tracking du visage (la désactivation signifie aucun mouvement du visage et économise le processeur)"
+    "text": "Tracking du visage (la désactivation signifie aucun mouvement du visage et économise du processeur)"
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
