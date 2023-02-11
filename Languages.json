@@ -10,5 +10,6 @@
   {"code":  "de", "name": "Deutsch"},
   {"code": "chs","name":"中文 (简体)"},
   {"code": "ko", "name": "한국어"},
-  {"code": "pl", "name": "Polski"}
+  {"code": "pl", "name": "Polski"},
+  {"code": "vn", "name": "Tiếng Việt"}
 ]
