@@ -1,0 +1,1921 @@
+{
+  "{translation_credits}": {
+    "comment": "<u><link=\"https://twitter.com/...\">@...</link></u> (...)",
+    "text": "<size=75%><u><link=\"https://twitter.com/SmileNguyen04\">@SmileNguyen04</link></u></size>"
+  },
+  "+": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/Text",
+    "text": "+"
+  },
+  "Add avatar": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarScrollView/Viewport/Content/AvatarAdd/NameText",
+    "text": "Thêm Avatar"
+  },
+  "Remove Avatar": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/RemoveAvatarButton/Text",
+    "text": "Xóa Avatar"
+  },
+  "Title:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/TitleLabel",
+    "text": "Tên hình đại diện:"
+  },
+  "Author:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/AuthorLabel",
+    "text": "Chủ sở hữu:"
+  },
+  "Version:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/VersionLabel",
+    "text": "Phiên bản:"
+  },
+  "Contact:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ContactLabel",
+    "text": "Liên hệ:"
+  },
+  "Reference:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ReferenceLabel",
+    "text": "Thẩm quyền giải quyết:"
+  },
+  "Can Perform:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CanPerformLabel",
+    "text": "Người sử dụng:"
+  },
+  "Violence:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/ViolenceLabel",
+    "text": "Bạo lực:"
+  },
+  "Sexual:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/SexLabel",
+    "text": "Tính dục:"
+  },
+  "Commercial Use:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "Sử dụng thương mại:"
+  },
+  "Commercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "Sử dụng thương mại"
+  },
+  "Personal noncommercial use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/CommercialLabel",
+    "text": "Sử dụng cho cá nhân / Phi thương mại"
+  },
+  "Personal commercial use": {
+    "comment": "VRoid Hub 'lc_profit'",
+    "text": "Sử dụng thương mại cá nhân"
+  },
+  "Non-profit use": {
+    "comment": "VRoid Hub 'nonprofit'",
+    "text": "Sử dụng phi thương mại của các cá nhân"
+  },
+  "License:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseLabel",
+    "text": "Giấy phép:"
+  },
+  "Required": {
+    "comment": "VRoid Hub 'need'",
+    "text": "Yêu cầu"
+  },
+  "Not required": {
+    "comment": "VRoid Hub 'noneed'",
+    "text": "Không yêu cầu"
+  },
+  "License URL:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/InformationUI/LabelColumn/LicenseURLLabel",
+    "text": "URL giấy phép:"
+  },
+  "Select": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/SelectButton/Text",
+    "text": "Chọn"
+  },
+  "Cancel": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/CancelButton/Text",
+    "text": "Hủy bỏ"
+  },
+  "Camera": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraLabel",
+    "text": "Máy ảnh"
+  },
+  "Camera 1": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
+    "text": "Máy ảnh 1"
+  },
+  "Option A": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Template/Viewport/Content/Item/Item Label",
+    "text": "Tùy chọn A"
+  },
+  "Camera Width": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/WidthContainer/CameraWidthLabel",
+    "text": "Chiều rộng máy ảnh"
+  },
+  "Width": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/WidthContainer/Width/Placeholder",
+    "text": "Chiều rộng"
+  },
+  "1280": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/WidthContainer/Width/WidthText",
+    "text": "1280"
+  },
+  "Camera Height": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/HeightContainer/CameraHeightLabel",
+    "text": "Chiều cao máy ảnh"
+  },
+  "Height": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/HeightContainer/Height/Placeholder",
+    "text": "Chiều cao"
+  },
+  "720": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/HeightContainer/Height/HeightText",
+    "text": "720"
+  },
+  "Camera Framerate": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/FramerateContainer/CameraFramerateLabel",
+    "text": "Tỷ lệ khung hình máy ảnh"
+  },
+  "FPS": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/FramerateContainer/FPS/Placeholder",
+    "text": "FPS"
+  },
+  "24": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/FramerateContainer/FPS/FpsText",
+    "text": "24"
+  },
+  "Microphone": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/MicrophoneContainer/MicLabel",
+    "text": "Microphone"
+  },
+  "[Choose your microphone here]": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/MicrophoneContainer/MicDropdown/Label",
+    "text": "[Chọn Microphone của bạn tại đây]"
+  },
+  "Tracking": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelLabel",
+    "text": "Theo dõi chất lượng"
+  },
+  "High quality (wink support)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "Chất lượng cao (hỗ trợ nháy mắt)"
+  },
+  "High quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "Chất lượng cao"
+  },
+  "Listen IP": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IPLabel",
+    "text": "Lắng nghe IP"
+  },
+  "Listen IP (127.0.0.1)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IP/Placeholder",
+    "text": "Lắng nghe IP (127.0.0.1)"
+  },
+  "": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/IPContainer/IP/IPText",
+    "text": ""
+  },
+  "Port": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/PortLabel",
+    "text": "Cổng"
+  },
+  "Port (11573)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/PortContainer/Port/Placeholder",
+    "text": "Cổng (11573)"
+  },
+  "Start": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/StartButton/Text",
+    "text": "Bắt đầu"
+  },
+  "English": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
+    "text": "Vietnamese"
+  },
+  "Initializing avatar...": {
+    "comment": "VSeeFace/Canvas/UI/Loading avatar message",
+    "text": "Đang khởi tạo hình đại diện..."
+  },
+  "Loading camera list": {
+    "comment": "VSeeFace/Canvas/UI/LoadingUI/Text",
+    "text": "Đang tải danh sách camera..."
+  },
+  "Failed to start tracker. This is most likely caused by a corrupted installation.": {
+    "comment": "VSeeFace/Canvas/UI/ErrorUI/Text",
+    "text": "Không thể khởi động được trình theo dõi. Điều này rất có thể là do cài đặt bị hỏng."
+  },
+  "Open logs": {
+    "comment": "VSeeFace/Canvas/UI/ErrorUI/Open logs/Text",
+    "text": "Mở nhật ký"
+  },
+  "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Restarting VSeeFace and changing the camera settings\n2) Making sure nothing else is using the camera\n3) Toggling face tracking off and on in the \"General settings\" to restart it\n4) Redownloading VSeeFace and reinstalling it": {
+    "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
+    "text": "<align=\"center\">[Error]</align>\nQuá trình theo dõi khuôn mặt đã biến mất. Bạn có thể thử:\n1) Khởi động lại VSeeFace và thay đổi cài đặt camera\n2) Đảm bảo không có gì khác đang sử dụng máy ảnh\n3) Tắt và bật theo dõi khuôn mặt trong \"Cài đặt chung\" để khởi động lại\n4) Tải lại VSeeFace và cài đặt lại"
+  },
+  "X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
+    "text": "X"
+  },
+  "Load VRM avatar": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load VRM avatar/Text",
+    "text": "Tải VRM Avatar"
+  },
+  "Avatar selection": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Avatar selection/Text",
+    "text": "Chọn Avatar"
+  },
+  "Show settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Show settings/Text",
+    "text": "Cài đặt"
+  },
+  "Hide settings menu": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Text",
+    "text": "Cài đặt"
+  },
+  "General settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/General settings/Text",
+    "text": "Cài đặt chung"
+  },
+  "Leap Motion settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Leap Motion settings/Text",
+    "text": "Cài đặt Leap Motion"
+  },
+  "Light settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Light settings/Text",
+    "text": "Cài đặt ánh sáng"
+  },
+  "Expression settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Expression settings/Text",
+    "text": "Cài đặt biểu thức"
+  },
+  "Effect settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Effect settings/Text",
+    "text": "Cài đặt hiệu ứng"
+  },
+  "Show help": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show help/Text",
+    "text": "Trợ giúp"
+  },
+  "Clear calibration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Clear calibration/Text",
+    "text": "Xóa hiệu chuẩn"
+  },
+  "Load calibration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load/Text",
+    "text": "Tải hiệu chuẩn"
+  },
+  "Save calibration as...": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save as/Text",
+    "text": "Lưu hiệu chuẩn dưới dạng..."
+  },
+  "Save calibration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save/Text",
+    "text": "Lưu hiệu chuẩn"
+  },
+  "Reset position": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Reset position/Text",
+    "text": "Đặt lại vị trí"
+  },
+  "Mirror motion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Mirror motion/Text",
+    "text": "Lật lại gương"
+  },
+  "Drift back to normal": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift/Text",
+    "text": "Chuyển động trở lại bình thường"
+  },
+  "Track Leap Motion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Track Leap Motion/Text",
+    "text": "Theo dõi chuyển động nhảy vọt"
+  },
+  "Movement smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
+    "text": "Làm mịn chuyển động"
+  },
+  "Smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
+    "text": "Làm mịn"
+  },
+  "Movement range": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Movement range/Text",
+    "text": "Phạm vi di chuyển"
+  },
+  "Drift speed": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift speed/Text",
+    "text": "Tốc độ chuyển động"
+  },
+  "Neutral": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Record/Text",
+    "text": "Trung lập"
+  },
+  "Clear": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Clear/Text",
+    "text": "Xóa"
+  },
+  "No": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/No/Text",
+    "text": "Không"
+  },
+  "Yes": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Yes/Text",
+    "text": "Có"
+  },
+  "Fun": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Fun/NotRecording/Record/Text",
+    "text": "Vui vẻ"
+  },
+  "Angry": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Angry/NotRecording/Record/Text",
+    "text": "Tức giận"
+  },
+  "Joy": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Joy/NotRecording/Record/Text",
+    "text": "Vui sướng"
+  },
+  "Sorrow": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Sorrow/NotRecording/Record/Text",
+    "text": "Buồn bã"
+  },
+  "Surprised": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Surprise/NotRecording/Record/Text",
+    "text": "Ngạc nhiên"
+  },
+  "Stop recording neutral": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/NeutralRed/Text",
+    "text": "Dừng ghi trung tính"
+  },
+  "Stop recording fun": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/FunRed/Text",
+    "text": "Dừng ghi vui vẻ"
+  },
+  "Stop recording angry": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/AngryRed/Text",
+    "text": "Dừng ghi tức giận"
+  },
+  "Stop recording joy": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/JoyRed/Text",
+    "text": "Dừng ghi vui sướng"
+  },
+  "Stop recording sorrow": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SorrowRed/Text",
+    "text": "Dừng ghi buồn bã"
+  },
+  "Stop recording surprised": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SurpriseRed/Text",
+    "text": "Dừng ghi ngạc nhiên"
+  },
+  "Calibrate": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Calibrate/Text",
+    "text": "Hiệu chỉnh"
+  },
+  "Effects settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Title",
+    "text": "Cài đặt hiệu ứng"
+  },
+  "General": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/General/Text",
+    "text": "Chung"
+  },
+  "Bloom": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Bloom/Text",
+    "text": "Bloom"
+  },
+  "Ambient occlusion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
+    "text": "Tắc xung quanh"
+  },
+  "Lens distortion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Lens distortion/Text",
+    "text": "Biến dạng ống kính"
+  },
+  "Chromatic aberration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Chromatic aberration/Text",
+    "text": "Quang sai màu"
+  },
+  "Color": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Color/Text",
+    "text": "Màu sắc"
+  },
+  "Grain": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Grain/Text",
+    "text": "Nhiễu"
+  },
+  "Halftone": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Halftone dots/Text",
+    "text": "Bán sắc"
+  },
+  "Enable post processing effects": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable/Label",
+    "text": "Bật hiệu ứng xử lý bài đăng"
+  },
+  "Improve anti-aliasing (SMAA)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Improve anti-aliasing/Label",
+    "text": "Cải thiện khử răng cưa (SMAA)"
+  },
+  "Enable broken effects": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable broken/Label",
+    "text": "Kích hoạt hiệu ứng bị hỏng"
+  },
+  "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
+    "text": "\nHiệu ứng hậu xử lý sẽ làm tăng tải hệ thống. Chúng hiện vẫn đang thử nghiệm và có thể không phải lúc nào cũng mang lại kết quả mong muốn. Cụ thể, về cơ bản chúng không ảnh hưởng đến các khu vực bên ngoài avatar.\n\nTrên hệ thống của tôi, việc cho phép xử lý bài đăng và tất cả các hiệu ứng làm tăng nhẹ mức sử dụng CPU và hơn gấp đôi mức sử dụng GPU. Kích hoạt ít hiệu ứng hơn sẽ có ít tác động hơn, vì vậy chỉ kích hoạt những gì bạn thực sự cần."
+  },
+  "Enable": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
+    "text": "Bật"
+  },
+  "Don't cut at edge": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Fix alpha/Label",
+    "text": "Đừng cắt ở cạnh"
+  },
+  "#FFFFFF": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Hex color/InputField/Placeholder",
+    "text": "#FFFFFF"
+  },
+  "Color intensity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Color intensity/Text",
+    "text": "Cường độ màu"
+  },
+  "Intensity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Intensity/Text",
+    "text": "Cường độ"
+  },
+  "Threshold": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
+    "text": "Ngưỡng"
+  },
+  "Diffusion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Diffusion/Text",
+    "text": "Khuếch tán"
+  },
+  "Transparent bloom  strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Alpha/Text",
+    "text": "Sức mạnh Bloom trong suốt"
+  },
+  "Reset settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Reset/Text",
+    "text": "Đặt lại cài đặt"
+  },
+  "Radius": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Radius/Text",
+    "text": "Bán kính"
+  },
+  "Quality": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality",
+    "text": "Chất lượng"
+  },
+  "Ultra": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:4",
+    "text": "Ultra"
+  },
+  "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Text",
+    "text": "Nếu bạn gặp phải những bóng mờ kỳ lạ xung quanh mắt, do mắt lưới của mi mắt gây ra, hãy thử đặt vật liệu ở chế độ cắt bỏ."
+  },
+  "Multiplier X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
+    "text": "Nhân tử X"
+  },
+  "Multiplier Y": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier Y/Text",
+    "text": "Nhân tử Y"
+  },
+  "Center X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center X/Text",
+    "text": "Trung tâm X"
+  },
+  "Center Y": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center Y/Text",
+    "text": "Trung tâm Y"
+  },
+  "Scale": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
+    "text": "Tỉ lệ"
+  },
+  "Cromatic aberration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
+    "text": "Quang sai màu"
+  },
+  "Color temperature": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Temperature/Text",
+    "text": "Nhiệt độ màu"
+  },
+  "Tint": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Tint/Text",
+    "text": "Pha màu"
+  },
+  "Hue": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Hue/Text",
+    "text": "Hue"
+  },
+  "Saturation": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Saturation/Text",
+    "text": "Bão hòa"
+  },
+  "Brightness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Brightness/Text",
+    "text": "Độ sáng"
+  },
+  "Contrast": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Contrast/Text",
+    "text": "Sự tương phản"
+  },
+  "Colored": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Colored/Label",
+    "text": "Màu sắc rực rỡ"
+  },
+  "Size": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
+    "text": "Kích cỡ"
+  },
+  "Luminance contribution": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Luminance contribution/Text",
+    "text": "Đóng góp độ sáng"
+  },
+  "Transparent grain strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
+    "text": "Độ bền hạt trong suốt"
+  },
+  "Opaque background": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
+    "text": "Nền mờ"
+  },
+  "Black level": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Black level/Text",
+    "text": "Cấp độ màu đen"
+  },
+  "White level": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/White level/Text",
+    "text": "Cấp độ màu trắng"
+  },
+  "Dot grid size": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot grid size/Text",
+    "text": "Kích thước lưới chấm"
+  },
+  "Dot size factor": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
+    "text": "Yếu tố kích thước chấm"
+  },
+  "Leap Motion tracking hotkey": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Label",
+    "text": "Phím nóng theo dõi Leap Motion"
+  },
+  "Button": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
+    "text": "Nút"
+  },
+  "Position: Right/left": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position X/Text",
+    "text": "Vị trí: Phải/trái"
+  },
+  "Position: Height": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Y/Text",
+    "text": "Vị trí: Chiều cao"
+  },
+  "Position: Forward": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Z/Text",
+    "text": "Vị trí: Phía trước"
+  },
+  "Transition time: Up (0-2s)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Transition time in/Text",
+    "text": "Thời gian chuyển tiếp: Lên (0-2s)"
+  },
+  "Detection range (0.3-1m)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Range limit/Toggle/Label",
+    "text": "Phạm vi phát hiện (0,3-1m)"
+  },
+  "Position: Attachment": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
+    "text": "Vị trí: Đính kèm"
+  },
+  "Flat on desk": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "Phẳng trên bàn"
+  },
+  "Rotation X": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation X/Text",
+    "text": "Xoay X"
+  },
+  "Rotation Y": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Y/Text",
+    "text": "Xoay Y"
+  },
+  "Rotation Z": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Z/Text",
+    "text": "Xoay Z"
+  },
+  "Transition time: Down (0-2s)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Transition time out/Text",
+    "text": "Thời gian chuyển tiếp: Xuống (0-2s)"
+  },
+  "Hands down delay (0-2s)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
+    "text": "Trì hoãn xuống tay (0-2 giây)"
+  },
+  "Hands mode": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
+    "text": "Chế độ gương"
+  },
+  "No swap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
+    "text": "Tắt"
+  },
+  "Focal length (6-135mm)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
+    "text": "Độ dài tiêu cự (6-135mm)"
+  },
+  "Blink sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink sensitivity/Text",
+    "text": "Độ nhạy chớp mắt"
+  },
+  "Gaze strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze strength/Text",
+    "text": "Sức mạnh của ánh nhìn"
+  },
+  "Gaze sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze sensitivity/Text",
+    "text": "Độ nhạy của ánh nhìn"
+  },
+  "Gaze offset up/down": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze up/down/Text",
+    "text": "Hướng nhìn lên/xuống"
+  },
+  "Gaze offset left/right": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze left/right/Text",
+    "text": "Hướng nhìn trái/phải"
+  },
+  "Eyebrow strength": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow strength/Text",
+    "text": "Sức mạnh lông mày"
+  },
+  "Eyebrow sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow sensitivity/Text",
+    "text": "Độ nhạy của lông mày"
+  },
+  "Eyebrow offset": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow offset/Text",
+    "text": "Bù lông mày"
+  },
+  "Lip  sync smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme smoothing/Text",
+    "text": "Làm mịn đồng bộ môi"
+  },
+  "Lip sync audio overdrive gain": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme gain/Text",
+    "text": "Mức tăng vượt mức âm thanh đồng bộ hóa môi"
+  },
+  "Mouth sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth sensitivity/Text",
+    "text": "Nhạy cảm miệng"
+  },
+  "Mouth smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth smoothing/Text",
+    "text": "Làm mịn miệng"
+  },
+  "Mouth size reduction": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth reduction/Text",
+    "text": "Giảm kích thước miệng"
+  },
+  "Arm angle": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Arm angle/Text",
+    "text": "Góc cánh tay"
+  },
+  "Shoulder stiffness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Shoulder stiffness/Text",
+    "text": "Cứng vai"
+  },
+  "Body stiffness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Body stiffness/Text",
+    "text": "Cứng cơ"
+  },
+  "Expression stabilizer": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Expression stabilizer/Text",
+    "text": "Ổn định biểu thức"
+  },
+  "Expression smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression smoothing/Text",
+    "text": "Làm mịn biểu thức"
+  },
+  "Expression sensitivity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression sensitivity/Text",
+    "text": "Độ nhạy biểu hiện"
+  },
+  "Auto blink": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:1",
+    "text": "Tự động nhấp nháy"
+  },
+  "Link eye blinks": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
+    "text": "Link nháy mắt"
+  },
+  "Smooth auto blink": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smooth auto blink/Label",
+    "text": "Tự động nhấp nháy mượt mà"
+  },
+  "Synthetic gaze": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
+    "text": "Cái nhìn giả tạo"
+  },
+  "Follow head movement": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
+    "text": "Theo dõi chuyển động của đầu"
+  },
+  "Audio lip sync / Hotkey:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
+    "text": "Hát nhép âm thanh / Phím nóng:"
+  },
+  "Always use full lip sync animation": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",
+    "text": "Luôn sử dụng hoạt hình hát nhép hoàn toàn"
+  },
+  "Hybrid lip sync/mouth tracking": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hybrid lip sync/Label",
+    "text": "Đồng bộ môi lai/theo dõi miệng"
+  },
+  "Avatar locomotion": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Avatar locomotion/Label",
+    "text": "Vận động Avata"
+  },
+  "Mirror image while UI hidden with ※ button": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
+    "text": "Phản chiếu hình ảnh trong khi giao diện người dùng bị ẩn bằng nút ※"
+  },
+  "Default camera position": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label",
+    "text": "Vị trí máy ảnh mặc định"
+  },
+  "Default": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
+    "text": "Mặc định"
+  },
+  "Save": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Save/Text",
+    "text": "Lưu"
+  },
+  "Global reset position hotkey:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Global reset hotkey/Label",
+    "text": "Phím nóng vị trí thiết lập lại toàn bộ:"
+  },
+  "Face tracking (disabling means no face movement and saves CPU)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
+    "text": "Theo dõi khuôn mặt (Tắt có nghĩa là không có chuyển động khuôn mặt và tiết kiệm CPU)"
+  },
+  "Expression detection": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
+    "text": "Phát hiện biểu hiện (Yêu cầu theo dõi webcam)"
+  },
+  "None": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
+    "text": "Không có"
+  },
+  "Simple (fun, angry, surprised only)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple expression detection/Label",
+    "text": "Đơn giản (vui vẻ, tức giận, chỉ ngạc nhiên)"
+  },
+  "Graphics settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Graphics title",
+    "text": "Cài đặt đồ họa"
+  },
+  "Allow window resizing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resizable window/Label",
+    "text": "Cho phép thay đổi kích thước cửa sổ"
+  },
+  "Anti-aliasing:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label",
+    "text": "Khử răng cưa:"
+  },
+  "Really nice": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:0",
+    "text": "Thực sự tốt đẹp"
+  },
+  "(high GPU load)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Warning",
+    "text": "(Sử dụng GPU cao)"
+  },
+  "Resolution:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolution",
+    "text": "Độ phân giải:"
+  },
+  "1600x900": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:3",
+    "text": "1600x900"
+  },
+  "Set": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Custom/Set/Text",
+    "text": "Đặt"
+  },
+  "VSync": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/VSync/Label",
+    "text": "VSync"
+  },
+  "Cap frame rate:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label",
+    "text": "Giới hạn tốc độ khung hình: "
+  },
+  "60": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label/FPS cap/Placeholder",
+    "text": "60"
+  },
+  "Device settings": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Devices title",
+    "text": "Cài đặt thiết bị"
+  },
+  "Virtual camera": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera title",
+    "text": "Máy ảnh ảo"
+  },
+  "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera description",
+    "text": "Khi được bật, một webcam ảo sẽ xuất ảnh VSeeFace. Giao diện người dùng sẽ không bao giờ được hiển thị trên máy ảnh. Lưu ý rằng Discord sẽ hiển thị máy ảnh của chính bạn được phản chiếu, nhưng những người khác sẽ nhìn thấy nó một cách chính xác."
+  },
+  "Enable virtual camera for this session": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
+    "text": "Bật máy ảnh ảo cho phiên này"
+  },
+  "Low latency": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Low latency/Label",
+    "text": "Độ trễ thấp"
+  },
+  "Install virtual camera": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Install/Text",
+    "text": "Cài đặt máy ảnh ảo"
+  },
+  "Uninstall virtual camera": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Uninstall/Text",
+    "text": "Gỡ cài đặt máy ảnh ảo"
+  },
+  "Load background image": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Load background image/Text",
+    "text": "Tải hình nền"
+  },
+  "Background image": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Background",
+    "text": "Hình nền"
+  },
+  "Unload image": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Unload image container/Unload image/Text",
+    "text": "Gỡ hình ảnh"
+  },
+  "Advanced": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Advanced",
+    "text": "Nâng cao"
+  },
+  "Less mesh updates (may make parts of avatar disappear, faster with many meshes)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Update offscreen/Label",
+    "text": "Ít cập nhật lưới hơn (có thể làm cho các phần của hình đại diện biến mất, nhanh hơn với nhiều lưới)"
+  },
+  "Use old lip sync model (lower accuracy)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lip sync provider/Label",
+    "text": "Sử dụng mô hình hát nhép cũ (độ chính xác thấp hơn)"
+  },
+  "Factory reset": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
+    "text": "Khôi phục cài đặt gốc"
+  },
+  "Load and play audio": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Load and play audio/Text",
+    "text": "Tải và phát âm thanh"
+  },
+  "Stop audio": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Stop audio/Text",
+    "text": "Dừng âm thanh"
+  "Show tracking points": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Show tracking points/Text",
+    "text": "Hiển thị điểm theo dõi"
+  },
+  "Hide tracking points": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Hide tracking points/Text",
+    "text": "Ẩn điểm theo dõi"
+  },
+  "Sun": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Sun/Text",
+    "text": "Mặt trời"
+  },
+  "Ambient": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Ambient/Text",
+    "text": "Môi trường xung quanh"
+  },
+  "Shadows": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Toggle/Label",
+    "text": "Bóng tối"
+  },
+  "Save pos.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Save/Text",
+    "text": "Lưu tư thế."
+  },
+  "Reset pos.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Reset/Text",
+    "text": "Đặt lại tư thế."
+  },
+  "Ambient intensity": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Ambient settings/Ambient intensity/Text",
+    "text": "Cường độ môi trường xung quanh"
+  },
+  "OK": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
+    "text": "OK"
+  },
+  "FPS\t?\nTR\t?": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Perf monitor",
+    "text": "FPS\t?\nTR\t?"
+  },
+  "New Text": {
+    "comment": "LocalizationTools/Dummy/Expression config/Expression title",
+    "text": "Văn bản mới"
+  },
+  "Base": {
+    "comment": "LocalizationTools/Dummy/Expression config/Base/Label",
+    "text": "Căn cứ"
+  },
+  "Additive": {
+    "comment": "LocalizationTools/Dummy/Expression config/Additive/Label",
+    "text": "Phụ gia"
+  },
+  "Enable eye blinking": {
+    "comment": "LocalizationTools/Dummy/Expression config/Blink checkbox/Label",
+    "text": "Bật nháy mắt"
+  },
+  "Enable mouth animation": {
+    "comment": "LocalizationTools/Dummy/Expression config/Mouth checkbox/Label",
+    "text": "Bật tính năng theo dõi miệng"
+  },
+  "Enable eyebrow animation": {
+    "comment": "LocalizationTools/Dummy/Expression config/Brow checkbox/Label",
+    "text": "Bật tính năng theo dõi lông mày"
+  },
+  "Hold": {
+    "comment": "LocalizationTools/Dummy/Expression config/Trigger/Label",
+    "text": "Giữ"
+  },
+  "Toggle": {
+    "comment": "LocalizationTools/Dummy/Expression config/Toggle/Label",
+    "text": "Chuyển đổi"
+  },
+  "Hotkey": {
+    "comment": "LocalizationTools/Dummy/Expression config/Hotkey",
+    "text": "Phím nóng"
+  },
+  "Transition time (0s - 0.5s)": {
+    "comment": "LocalizationTools/Dummy/Expression config/Transition time",
+    "text": "Thời gian chuyển tiếp (0s - 0,5s)"
+  },
+  "Medium quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
+    "text": "Chất lượng trung bình"
+  },
+  "Barely okay quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:2",
+    "text": "Chất lượng vừa phải"
+  },
+  "Low quality": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:3",
+    "text": "Chất lượng thấp"
+  },
+  "Lowest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:0",
+    "text": "Chất lượng thấp nhất"
+  },
+  "Low": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:1",
+    "text": "Thấp"
+  },
+  "Medium": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:2",
+    "text": "Trung Bình"
+  },
+  "High": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:3",
+    "text": "Cao"
+  },
+  "Chest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:1",
+    "text": "Ngực"
+  },
+  "Head or HMD": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:2",
+    "text": "Màn hình gắn trên đầu hoặc trên đầu"
+  },
+  "Swap hands": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
+    "text": "Bật"
+  },
+  "Look at camera": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:1",
+    "text": "Nhìn vào máy ảnh"
+  },
+  "Closer": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
+    "text": "Gần hơn"
+  },
+  "Custom": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
+    "text": "Tùy chỉnh"
+  },
+  "Custom 2": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
+    "text": "Tùy chỉnh 2"
+  },
+  "Custom 3": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
+    "text": "Tùy chỉnh 3"
+  },
+  "Custom 4": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:5",
+    "text": "Tùy chỉnh 4"
+  },
+  "Custom 5": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:6",
+    "text": "Tùy chỉnh 5"
+  },
+  "Custom 6": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
+    "text": "Tùy chỉnh 6"
+  },
+  "Custom 7": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
+    "text": "Tùy chỉnh 7"
+  },
+  "Custom 8": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:2",
+    "text": "Tùy chỉnh 8"
+  },
+  "Custom 9": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:3",
+    "text": "Tùy chỉnh 9"
+  },
+  "Custom 10": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:4",
+    "text": "Tùy chỉnh 10"
+  },
+  "16x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:1",
+    "text": "16x"
+  },
+  "8x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:2",
+    "text": "8x"
+  },
+  "4x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:3",
+    "text": "4x"
+  },
+  "2x": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:4",
+    "text": "2x"
+  },
+  "Custom:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:0",
+    "text": "Tùy chỉnh:"
+  },
+  "960x540": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:1",
+    "text": "960x540"
+  },
+  "1280x720": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:2",
+    "text": "1280x720"
+  },
+  "1920x1080": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:4",
+    "text": "1920x1080"
+  },
+  "※": {
+    "comment": "VSeeFace/Canvas/ShowUI/Text (TMP)",
+    "text": "※"
+  },
+  "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersion: {version} β": {
+    "comment": "VSeeFace/Canvas/UI/Title (TMP)",
+    "text": "VSeeFace\n<u><link=\"https://www.vseeface.icu/\">https://www.vseeface.icu/</link></u>\n\nVersion: {version} β"
+  },
+  "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)": {
+    "comment": "VSeeFace/Canvas/UI/Update notice/Update notice (TMP)",
+    "text": "Cập nhật có sẵn:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)"
+  },
+  "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>": {
+    "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
+    "text": "Model mặc định thuộc về <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>"
+  },
+  "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
+    "text": "Phát hiện biểu thức thử nghiệm (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)"
+  },
+  "Hotkeys": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Title",
+    "text": "Phím nóng"
+  },
+  "You can use the following hotkeys to quickly use various functions inside this program.<size=50%>\n\n</size>Space\tShow/hide the UI hide ※ button\nR\t\tReset avatar pose\nShift+R\tReset avatar pose thoroughly\nS\t\tTake a high res screenshot\nShift+S\tTake a screenshot after 3 sec\nL\t\tLoad a new VRM avatar\nC\t\tReset the camera\nD\t\tReset the light's direction": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hotkeys/Text (TMP)",
+    "text": "Bạn có thể sử dụng các phím nóng sau để sử dụng nhanh các chức năng khác nhau bên trong chương trình này.<size=50%>\n\n</size>Space \tHiển thị/Ẩn giao diện người dùng ẩn nút ※\nR\t\tĐặt lại tư thế avatar\nShift+R\tĐặt lại tư thế avatar triệt để\nS\t\tChụp ảnh màn hình độ phân giải cao\nShift+S\tChụp ảnh màn hình sau 3 giây\nL\t\tTải VRM Avatar mới\nC\t\tĐặt lại máy ảnh\nD\t\tĐặt lại hướng ánh sáng\n\n"
+  },
+  "Global hotkeys": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Title",
+    "text": "Phím nóng toàn bộ"
+  },
+  "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
+    "text": "Các phím nóng toàn bộ có thể được sử dụng từ mọi nơi, ngay cả khi chương trình này không được chú trọng.\n\nNhấn Ctrl+Shift+F1 đến Ctrl+Shift+F6 sẽ thực thi biểu thức tương ứng (Trung tính, Vui vẻ, Tức giận, Vui sướng, Buồn bã, Nhạc nhiên). Nhấn lại lần nữa sẽ dừng biểu thức, nhưng bạn cũng có thể chuyển trực tiếp sang biểu thức khác.\n\nNhấn Ctrl+Shift+F7 sẽ bật và tắt tính năng theo dõi bàn tay dựa trên Leap Motion."
+  },
+  "Transparency/Greenscreen": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Title",
+    "text": "Trong suốt/Phông xanh"
+  },
+  "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
+    "text": "Không hỗ trợ đặt màu nền khác để sử dụng với khóa sắc độ. Thay vào đó, bạn có thể chụp từ chương trình này với độ trong suốt alpha thực sự, cho phép bạn sử dụng bất kỳ cách kết hợp màu nào trong hình đại diện của mình và thậm chí cho phép các đối tượng bán trong suốt.\n\nĐể thực hiện việc này, nhấn nút ※ ở góc dưới bên phải. Bạn có thể nhấn phím cách để ẩn và hiện nút này.\n\nSau khi ẩn giao diện người dùng, nền sẽ hiển thị mẫu bàn cờ. Sử dụng \"Game Capture\" nguồn trong <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (hoặc Streamlabs OBS) để chụp cửa sổ này và đánh dấu vào hộp \"Cho phép trong suốt\". Mẫu bàn cờ sẽ biến mất trong OBS và chuyển sang trong suốt."
+  },
+  "Hint": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Title",
+    "text": "Gợi ý"
+  },
+  "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
+    "text": "Các thanh màu xanh có nghĩa là bạn đang ở gần rìa của hình ảnh máy ảnh, vì vậy bạn có thể không muốn di chuyển xa hơn theo hướng đó. Chúng sẽ không hiển thị trong OBS. Và kiểm tra <u><link=\"https://www.vseeface.icu/\">manual</link></u>."
+  },
+  "Expression configuration": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Title",
+    "text": "Cấu hình biểu thức"
+  },
+  "Each expression, including the neutral one, has a number of settings that can be configured. An expression can be a base or additive expression. Only one base expression can be active at a time, but additive expressions are added on top of others. Mouth, eye blink and eyebrow animation can be disabled. A global hotkey can be assigned for every expression. If it is set to \"Hold\", the expression is enabled while the key is held. If set to \"Toggle\", it will turn on and off with each button press. The transition slider can be used to set how long the smooth transition time to or from this expressions should be, from instantaneous to half a second.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Text (TMP)",
+    "text": "Mỗi biểu thức, bao gồm cả biểu thức trung lập, có một số cài đặt có thể được định cấu hình. Một biểu thức có thể là một biểu thức cơ bản hoặc cộng. Chỉ một biểu thức cơ sở có thể hoạt động tại một thời điểm, nhưng các biểu thức cộng được thêm vào các biểu thức khác. Hoạt hình miệng, chớp mắt và lông mày có thể bị vô hiệu hóa. Một phím nóng chung có thể được chỉ định cho mọi biểu thức. Nếu nó được đặt thành \"Giữ\", biểu thức được bật trong khi phím được giữ. Nếu được đặt thành \"Nút chuyển đổi\", nó sẽ bật và tắt với mỗi lần nhấn nút. Thanh trượt chuyển tiếp có thể được sử dụng để đặt khoảng thời gian chuyển tiếp suôn sẻ đến hoặc từ biểu thức này, từ tức thời đến nửa giây.\n"
+  },
+  "Eyebrow tracking": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Title",
+    "text": "Theo dõi lông mày"
+  },
+  "Eyebrow tracking is supported for <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Text (TMP)",
+    "text": "Theo dõi lông mày được hỗ trợ trong <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions."
+  },
+  "Expression detection (experimental)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Title",
+    "text": "Phát hiện biểu thức (thử nghiệm)"
+  },
+  "The expression detection calibration process is a bit tedious and painful, so make sure to bring time. To use it, first enable it from the general settings menu. You can find a video walkthrough for the calibration process <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Make an expression with your face. More extreme expressions are easier to detect.\n- Press the corresponding button to start recording.\n- Move and turn your head around and talk while holding the expression.\n- Press the button again to stop recording.\n- Relax your face.\n- Repeat this for all expressions.\n- Press \"Calibrate\" and test the results.\n- If an expression gives you trouble, record more and \"Calibrate\" again.\n- If an expression is misdetected for a certain head pose, try recording more data for it in that pose.\n- Save when you are happy.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Text (TMP)",
+    "text": "Quá trình hiệu chỉnh phát hiện biểu thức hơi tẻ nhạt và khó khăn, vì vậy hãy đảm bảo mang theo thời gian. Để sử dụng, trước tiên hãy kích hoạt nó từ menu cài đặt chung. Bạn có thể tìm thấy video hướng dẫn quy trình hiệu chuẩn <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Tạo biểu cảm với khuôn mặt của bạn. Các biểu hiện cực đoan hơn dễ phát hiện hơn.\n- Nhấn nút tương ứng để bắt đầu ghi hình.\n- Di chuyển và quay đầu lại và nói trong khi giữ biểu cảm.\n- Nhấn nút một lần nữa để dừng ghi hình.\n- Thư giãn khuôn mặt của bạn.\n- Lặp lại điều này cho tất cả các biểu thức.\n- Nhấn \"Calibrate\" và kiểm tra kết quả.\n- Nếu một biểu thức gây rắc rối cho bạn, hãy ghi thêm và \"Hiệu chỉnh\" lại.\n- Nếu một biểu thức bị phát hiện sai đối với một tư thế đầu nhất định, hãy thử ghi thêm dữ liệu cho biểu thức đó ở tư thế đó.\n- Lưu lại khi bạn cảm thấy hợp lý."
+  },
+  "Camera and light": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Title",
+    "text": "Máy ảnh và ánh sáng"
+  },
+  "The direction of light can be changed with Ctrl+Left click. The camera can be rotated with Alt+Left click. Alt+Right click or Alt+Mouse wheel can be used to zoom in and out. Alt+Middle click or Ctrl+Right click can be used to drag the view.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Text (TMP)",
+    "text": "Có thể thay đổi hướng ánh sáng bằng Ctrl + Nhấp chuột trái. Máy ảnh có thể được xoay bằng Alt + Nhấp chuột trái. Alt+Nhấp chuột phải hoặc Alt+Con lăn chuột có thể được sử dụng để phóng to và thu nhỏ. Có thể sử dụng Alt+Nhấp chuột giữa hoặc Ctrl+Nhấp chuột phải để kéo chế độ xem."
+  },
+  "<link></link> is in use by <b></b>, override?": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyOverride/Message/Text",
+    "text": "<link></link> được sử dụng bởi <b></b>, ghi đè?"
+  },
+  "<link></link> cannot be used": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Message/Text",
+    "text": "<link></link> không thể sử dụng được"
+  },
+  "Assigned <link></link> to <b></b>": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyDone/Message/Text",
+    "text": "Giao <link></link> đến <b></b>"
+  },
+  "English (en)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
+    "text": "Vietnamese (vi)"
+  },
+  "Blink smoothing": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink smoothing/Text",
+    "text": "Làm mịn nháy mắt"
+  },
+  "Neck stiffness": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Neck stiffness/Text",
+    "text": "Cứng cổ"
+  },
+  "Toaster (no eye/gaze/expression tracking)": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:4",
+    "text": "Máy nướng bánh mì (không theo dõi ánh mắt/ánh nhìn/biểu cảm)"
+  },
+  "Please select a camera": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
+    "text": "Vui lòng chọn một máy ảnh"
+  },
+  "Please select an avatar": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoAvatar",
+    "text": "Vui lòng chọn một Avatar"
+  },
+  "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
+    "text": "Cảnh báo: Avatar có các phép quay xương khác không. Đảm bảo thực hiện xuất VRM đầu tiên khi bật \"Tư thế đóng băng\"."
+  },
+  "Smile to smile, surprised and angry are eye brows up and down.": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
+    "text": "Mỉm cười để cười, ngạc nhiên và tức giận là lông mày lên xuống."
+  },
+  "[Choose your camera here]": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera/Camera dropdown/Label",
+    "text": "[Chọn máy ảnh của bạn ở đây]"
+  },
+  "Keep virtual camera enabled": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Keep virtual cam on/Label",
+    "text": "Luôn bật máy ảnh ảo"
+  },
+  ">": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Navigation/>/Text",
+    "text": ">"
+  },
+  "<": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Navigation/</Text",
+    "text": "<"
+  },
+  "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Making sure nothing else is using the camera\n2) Toggling face tracking off and on in the \"General settings\" to restart it\n3) Restarting VSeeFace and changing the camera settings\n4) Redownloading VSeeFace and reinstalling it": {
+    "comment": "VSeeFace/Canvas/UI/TrackerDeadErrorUI/Text (TMP)",
+    "text": "<align=\"center\">[Lỗi]</align>\nQuá trình theo dõi khuôn mặt đã biến mất. Bạn có thể thử:\n1) Đảm bảo không có gì khác đang sử dụng máy ảnh\n2) Tắt và bật tính năng theo dõi khuôn mặt trong \"Cài đặt chung\" để khởi động lại nó\n3) Khởi động lại VSeeFace và thay đổi cài đặt camera\n4) Tải lại VSeeFace và cài đặt lại"
+  },
+  "Tutorial: Transparency in OBS/SLOBS (1)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Title",
+    "text": "Hướng dẫn: Trong suốt trong OBS/SLOBS (1)"
+  },
+  "Tutorial: Transparency in OBS/SLOBS (2)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Title",
+    "text": "Hướng dẫn: Trong suốttrong OBS/SLOBS (2)"
+  },
+  "Tutorial: Hide UI": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Title",
+    "text": "Hướng dẫn: Ẩn UI"
+  },
+  "Tutorial: Reset (1)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 1/Title",
+    "text": "Hướng dẫn: Cài đặt lại (1)"
+  },
+  "Tutorial: Reset (2)": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 2/Title",
+    "text": "Hướng dẫn: Cài đặt lại (2)"
+  },
+  "Tutorial: Camera": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Camera/Title",
+    "text": "Hướng dẫn: Máy ảnh"
+  },
+  "Tutorial: Tutorial": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Tutorial/Title",
+    "text": "Hướng dẫn: Hướng dẫn"
+  },
+  "1/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Page number",
+    "text": "Trang 1/7"
+  },
+  "2/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Page number",
+    "text": "Trang 2/7"
+  },
+  "3/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Page number",
+    "text": "Trang 3/7"
+  },
+  "4/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 1/Page number",
+    "text": "Trang 4/7"
+  },
+  "5/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 2/Page number",
+    "text": "Trang 5/7"
+  },
+  "6/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Camera/Page number",
+    "text": "Trang 6/7"
+  },
+  "7/7": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Tutorial/Page number",
+    "text": "Trang /7"
+  },
+  "Tutorial": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Tutorialx/Text",
+    "text": "Hướng dẫn"
+  },
+  "T\nu\nt\no\nr\ni\na\nl": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Tutorial/Text",
+    "text": "H\nư\nớ\nn\ng\nd\nẫ\nn"
+  },
+  "(none)": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
+    "text": "(Không có)"
+  },
+  "Show log and settings folder": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Show log folder/Text",
+    "text": "Hiển thị thư mục nhật ký và cài đặt"
+  },
+  "While looking down:": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label",
+    "text": "Trong khi nhìn xuống:"
+  },
+  "Blinks less sensitive": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:0",
+    "text": "Nhấp nháy ít nhạy hơn"
+  },
+  "Camera defaults": {
+    "comment": "Default configuration mode for webcams",
+    "text": "Vui lòng chọn (Máy ảnh mặc định)"
+  },
+  "Camera Settings": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
+    "text": "Cài đặt máy ảnh"
+  },
+  "Look down threshold": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
+    "text": "Ngưỡng nhìn xuống"
+  },
+  "Skip": {
+    "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
+    "text": "Bỏ qua"
+  },
+  "Increase process priority": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/High priority/Label",
+    "text": "Tăng mức độ ưu tiên của quy trình"
+  },
+  "Recommend Settings": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/AutoPerformanceTune/AutoPerfTuneButton/Text",
+    "text": "Đề xuất cài đặt"
+  },
+  "This can take a minute or longer. Proceed?": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune confirm/Message/Text",
+    "text": "Quá trình này có thể mất một phút hoặc lâu hơn. Tiếp tục?"
+  },
+  "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs.": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune message/Message/Text",
+    "text": "Đang đo hiệu suất hệ thống, vui lòng đợi.\nQuá trình này có thể mất tới vài phút trên PC rất chậm."
+  },
+  "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Recommendation",
+    "text": "Cài đặt đề xuất\n\n<size=22>Chất lượng theo dõi: {1}\nTốc độ khung hình máy ảnh: {2} fps</size>"
+  },
+  "Maximum speed per quality level": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results header",
+    "text": "Tốc độ tối đa cho mỗi mức chất lượng"
+  },
+  "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}": {
+    "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
+    "text": "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}"
+  },
+  "Blackmagic capture card support": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Blackmagic/Label",
+    "text": "Hỗ trợ thẻ chụp Blackmagic"
+  },
+  "Keep hips mostly fixed": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lock hips/Label",
+    "text": "Giữ hông gần như cố định"
+  },
+  "Slow": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeDropdown",
+    "text": "Chậm"
+  },
+  "[OpenSeeFace tracking]": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
+    "text": "[Mở theo dõi khuôn mặt]"
+  },
+  "These settings are usually not needed. Please note that these settings can have odd side effects or lead to performance issues. If odd things happen, try turning them off.": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Warning",
+    "text": "Những cài đặt này thường không cần thiết. Xin lưu ý rằng các cài đặt này có thể có tác dụng phụ kỳ lạ hoặc dẫn đến các vấn đề về hiệu suất. Nếu những điều kỳ lạ xảy ra, hãy thử tắt chúng đi."
+  },
+  "Animate jaw bone": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Animate jaw bone/Label",
+    "text": "Sinh động xương hàm"
+  },
+  "Wind strength": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind strength/Text",
+    "text": "Sức gió"
+  },
+  "Wind angle": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
+    "text": "Góc gió"
+  },
+  "Enable VRM spring bone wind": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind/Label",
+    "text": "Kích hoạt gió xương lò xo VRM"
+  },
+  "No wind effect for chest spring bones": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Wind skip chest/Label",
+    "text": "Không có hiệu ứng gió cho xương lò xo ngực"
+  },
+  "Wind direction": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind angle/Text",
+    "text": "Hướng gió"
+  },
+  "Wind time factor": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Wind time factor/Text",
+    "text": "Yếu tố thời gian gió"
+  },
+  "Send data with OSC/VMC protocol": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC send/Label",
+    "text": "Gửi dữ liệu với giao thức OSC/VMC"
+  },
+  "T-pose for calibration": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Label",
+    "text": "T-pose để hiệu chuẩn"
+  },
+  "IP address": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Placeholder",
+    "text": "Địa chỉ IP"
+  },
+  "127.0.0.1": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/IP/Text",
+    "text": "127.0.0.1"
+  },
+  "39540": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Port/Text",
+    "text": "39540"
+  },
+  "Simulate turned hands for calibration": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Turn hands/Label",
+    "text": "Mô phỏng quay tay để hiệu chuẩn"
+  },
+  "OSC/VMC protocol receiver (disables tracking)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC receiving/Label",
+    "text": "Bộ thu OSC/VMC (tắt theo dõi)"
+  },
+  "Apply VSeeFace tracking": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Mix and match/Label",
+    "text": "Áp dụng theo dõi VSeeFace"
+  },
+  "Apply expressions": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Apply expressions/Label",
+    "text": "Áp dụng biểu thức"
+  },
+  "Track face features": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track face features/Label",
+    "text": "Theo dõi đặc điểm khuôn mặt"
+  },
+  "Track head and neck": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track head and neck/Label",
+    "text": "Theo dõi đầu và cổ"
+  },
+  "Track fingers": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track fingers/Label",
+    "text": "Theo dõi ngón tay"
+  },
+  "Track hands to shoulders": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track hands to shoulders/Label",
+    "text": "Theo dõi tay đến vai"
+  },
+  "Track spine and chest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track spine and chest/Label",
+    "text": "Theo dõi cột sống và ngực"
+  },
+  "Track lower body": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track lower body/Label",
+    "text": "Theo dõi thân dưới"
+  },
+  "Use VRoid style shade coloring": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use VRoid shade/Label",
+    "text": "Sử dụng tô màu theo phong cách VRoid"
+  },
+  "Start making your expression before beginning the recording.\nKeep it until after you stop the recording. Move your head, speak and blink your eyes.\nAnything that should not be detected as another expression should go into \"Neutral\".\nIf you accidentally make another expression, clear the data and start over.": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/RecordingHelp/Help text",
+    "text": "Bắt đầu biểu cảm trước khi bắt đầu ghi âm.\nGiữ nó cho đến sau khi bạn dừng ghi âm. Di chuyển đầu của bạn, nói và chớp mắt.\nBất kỳ thứ gì không được phát hiện dưới dạng một biểu thức khác sẽ được đưa vào \"Trung lập\".\nNếu bạn vô tình thực hiện một biểu thức khác, hãy xóa dữ liệu và bắt đầu lại."
+  },
+  "Track blendshapes": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track blendshapes/Label",
+    "text": "Theo dõi hình dạng pha trộn"
+  },
+  "Track eye bones": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
+    "text": "Theo dõi xương mắt"
+  },
+  "Track jaw bone": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track eyes and jaw/Label",
+    "text": "Theo dõi xương hàm"
+  },
+  "OSC/<link=\"https://vmc.info/\">VMC protocol</link>": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
+    "text": "OSC/<link=\"https://vmc.info/\">VMC giao thức </link>"
+  },
+  "Secondary OSC/VMC protocol receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
+    "text": "Bộ thu giao thức OSC/VMC thứ cấp"
+  },
+  "Apply blendshapes": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",
+    "text": "Áp dụng hình dạng pha trộn"
+  },
+  "Apply eye bones": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track eyes/Label",
+    "text": "Đắp xương mắt"
+  },
+  "Apply jaw bone": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track jaw/Label",
+    "text": "Đắp xương hàm"
+  },
+  "Apply head and neck": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track head and neck/Label",
+    "text": "Thoa đầu và cổ"
+  },
+  "Apply fingers": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track fingers/Label",
+    "text": "Áp dụng ngón tay"
+  },
+  "Apply hands to shoulders": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track hands to shoulders/Label",
+    "text": "Đặt tay lên vai"
+  },
+  "Apply spine and chest": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track spine and chest/Label",
+    "text": "Áp dụng cột sống và ngực"
+  },
+  "Apply lower body": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track lower body/Label",
+    "text": "Đắp thân dưới"
+  },
+  "Camera hotkey:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/GameObject/Text",
+    "text": "Phím nóng máy ảnh:"
+  },
+  "Press hotkey for <b></b>\n<size=70%>Press escape to cancel or shift+escape to unset.</size>": {
+    "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyListen/Message/Text",
+    "text": "Nhấn phím nóng để <b></b>\n<size=70%>Nhấn phím thoát để hủy hoặc shift+escape để bỏ đặt.</size>"
+  },
+  "Tracking loss timeout": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss timeout/Text",
+    "text": "Hết thời gian chờ theo dõi"
+  },
+  "Tracking loss transition": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Tracking loss transition/Text",
+    "text": "Hết thời gian theo dõi quá trình chuyển đổi"
+  },
+  "Reset pose on tracking loss": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss fade/Label",
+    "text": "Đặt lại tư thế khi mất theo dõi"
+  },
+  "Enable gaze and eyebrow offset settings": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Offset sliders/Label",
+    "text": "Bật cài đặt bù ánh mắt và lông mày"
+  },
+  "Barely okay quality, but faster": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
+    "text": "Chất lượng vừa phải, nhưng nhanh hơn"
+  },
+  "Still better than toaster": {
+    "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:1",
+    "text": "Vẫn tốt hơn máy nướng bánh mì"
+  },
+  "39539": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Port/Text",
+    "text": "39539"
+  },
+  "Blendshape smoothing": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Blendshape smoothing",
+    "text": "Làm mịn Blendshape"
+  },
+  "Bone smoothing": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Bone smoothing",
+    "text": "Làm mịn xương"
+  },
+  "Auto reset position on full loss": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Tracking loss recalibrate/Label",
+    "text": "Tự động đặt lại vị trí khi thua lỗ hoàn toàn"
+  },
+  "Show LAN IP": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
+    "text": "Hiện LAN IP"
+  },
+  "LAN IP:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address",
+    "text": "LAN IP:"
+  },
+  "Hide LAN IP": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/IP address/HideIP/Text",
+    "text": "Ẩn LAN IP"
+  },
+  "Screen top (V5 only)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "Đầu màn hình (chỉ dành cho V5)"
+  },
+  "Please select your camera settings": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCameraSettings",
+    "text": "Vui lòng chọn cài đặt máy ảnh của bạn"
+  },
+  "VSFAvatarOneTimeNotice": {
+    "comment": "Notice displayed the first time a VSFAvatar file is loaded.",
+    "text": "Hình đại diện ở định dạng VSFAvatar có thể chứa nhiều chức năng khác nhau và hình ảnh động chạy dài. Vui lòng chỉ sử dụng các tệp VSFAvatar do chính bạn tạo hoặc lấy từ một nguồn đáng tin cậy khi phát trực tuyến."
+  },
+  "VSFAvatarOneTimeNoticeTitle": {
+    "comment": "Title of the notice.",
+    "text": "Chú ý"
+  },
+  "Disable improved transparency": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable improved transparency/Label",
+    "text": "Vô hiệu hóa tính trong suốt nâng cao"
+  },
+  "Disable webcam FPS selection cap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable webcam FPS limit/Label",
+    "text": "Tắt giới hạn FPS của webcam"
+  },
+  "Use standard blendshape accumulation": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Use standard blendshape accumulation/Label",
+    "text": "Tích lũy hình dạng pha trộn bằng THÊM thay vì TỐI ĐA"
+  },
+  "Smart wink threshold": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Smart wink threshold/Text",
+    "text": "Ngưỡng nháy mắt thông minh"
+  },
+  "Smart wink": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smart wink/Label",
+    "text": "Nháy mắt thông minh"
+  },
+  "Prevent vertical head movement": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent vertical head movement/Label",
+    "text": "Ngăn chặn chuyển động đầu thẳng đứng"
+  },
+  "Normalize mouth blendshape sums > 1.0": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Normalize visemes/Label",
+    "text": "Bình thường hóa tổng số tiền pha trộn miệng > 1.0"
+  },
+  "Disable packet bundling": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Disable packet bundling/Label",
+    "text": "Vô hiệu hóa gói"
+  },
+  "Avoid desaturation on transparent pixels": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Prevent blow out/Label",
+    "text": "Tránh khử bão hòa trên các pixel trong suốt"
+  },
+  "OnlyAuthor": {
+    "comment": "VRM Allowed User: OnlyAuthor",
+    "text": "Chỉ tác giả"
+  },
+  "ExplicitlyLicensedPerson": {
+    "comment": "VRM Allowed User: ExplicitlyLicensedPerson",
+    "text": "Người được cấp phép rõ ràng"
+  },
+  "Everyone": {
+    "comment": "VRM Allowed User: Everyone",
+    "text": "Mọi người"
+  },
+  "Allow": {
+    "comment": "VRM Usage: Allow",
+    "text": "Cho phép"
+  },
+  "Disallow": {
+    "comment": "VRM Usage: Disallow",
+    "text": "Không cho phép"
+  },
+  "Redistribution_Prohibited": {
+    "comment": "VRM License Type: Redistribution_Prohibited",
+    "text": "Phân phối lại bị cấm"
+  },
+  "CC0": {
+    "comment": "VRM License Type: CC0",
+    "text": "CC0"
+  },
+  "CC_BY": {
+    "comment": "VRM License Type: CC_BY",
+    "text": "CC BY"
+  },
+  "CC_BY_NC": {
+    "comment": "VRM License Type: CC_BY_NC",
+    "text": "CC BY-NC"
+  },
+  "CC_BY_SA": {
+    "comment": "VRM License Type: CC_BY_SA",
+    "text": "CC BY-SA"
+  },
+  "CC_BY_NC_SA": {
+    "comment": "VRM License Type: CC_BY_NC_SA",
+    "text": "CC BY-NC-SA"
+  },
+  "CC_BY_ND": {
+    "comment": "VRM License Type: CC_BY_ND",
+    "text": "CC BY-ND"
+  },
+  "CC_BY_NC_ND": {
+    "comment": "VRM License Type: CC_BY_NC_ND",
+    "text": "CC BY-NC-ND"
+  },
+  "Other": {
+    "comment": "VRM License Type: Other",
+    "text": "Khác"
+  },
+  "Hide avatar": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hide avatar/Label",
+    "text": "Ẩn Avatar"
+  },
+  "Disable increased background priority": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Disable MCSS priority/Label",
+    "text": "Vô hiệu hóa mức độ ưu tiên nền tăng"
+  },
+  "Landscape mode": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Landscape mode/Label",
+    "text": "Chế độ phong cảnh"
+  },
+  "iFacialMocap receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
+    "text": "Máy thu iFacialMocap"
+  },
+  "iPhone IP address": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/IP wrapper/IP/Placeholder",
+    "text": "Địa chỉ IP iPhone"
+  },
+  "Receive facial features": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Blendshapes/Label",
+    "text": "Nhận đặc điểm khuôn mặt"
+  },
+  "Receive head movement": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Head movement/Label",
+    "text": "Nhận chuyển động đầu"
+  },
+  "Receive eye gaze": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Eyes/Label",
+    "text": "Nhận ánh mắt"
+  },
+  "Hybrid audio lipsync": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Allow hybrid lipsync/Label",
+    "text": "Đồng bộ hóa môi âm thanh lai"
+  },
+  "FaceMotion3D app": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/FaceMotion3D/Label",
+    "text": "Ứng dụng FaceMotion3D"
+  },
+  "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>/<link=\"https://github.com/DenchiSoft/VTubeStudio/wiki/Sending-data-to-VSeeFace\">VTube Studio</link>": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocap",
+    "text": "<link=\"https://www.ifacialmocap.com/\">iFacialMocap</link>/<link=\"https://www.facemotion3d.info/\">FaceMocap3D</link>/<link=\"https://github.com/DenchiSoft/VTubeStudio/wiki/Sending-data-to-VSeeFace\">VTube Studio</link>"
+  },
+  "iPhone blendshape smoothing": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/iFacialMocap smoothing/Text",
+    "text": "Làm mịn iPhone Blendshape"
+  },
+  "Show IP": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/ShowIP/Text",
+    "text": "Hiện IP"
+  },
+  "Only open mouth according to one source": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Prevent iPhone mouth opening while lip syncing/Label",
+    "text": "Chỉ úp mở theo một nguồn"
+  },
+  "Chest (Fixed)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
+    "text": "Ngực (Đã sửa)"
+  },
+  "Tracking app:": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/Label",
+    "text": "Ứng dụng theo dõi:"
+  },
+  "iFacialMocap": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Tracking app/App list/Label",
+    "text": "iFacialMocap"
+  },
+  "iPhone/ARKit tracking receiver": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable iFacialMocap/Label",
+    "text": "Máy thu theo dõi iPhone/ARKit"
+  },
+  "Leap Motion V4 compatibility (restart required)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Leap Motion Orion V4 Compat/Label",
+    "text": "Tương thích Leap Motion V4 (yêu cầu khởi động lại)"
+  },
+  "iPhone blendshapes required!": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/iFacialMocapSettings/Warning/Label",
+    "text": "Yêu cầu hình dạng pha trộn iPhone!"
+  },
+  "Props": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Menu right/Props/Text",
+    "text": "Đạo cụ"
+  },
+  "Add": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/AddPropButton/Text",
+    "text": "Thêm"
+  },
+  "Mouse wheel: Change size\nShift + mouse wheel: Rotate\nX: Mirror horizontally\nY: Mirror vertically\nMiddle click: Toggle to Always on top\nDel: Delete": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/PropDragText",
+    "text": "Con lăn chuột: Thay đổi kích thước\nShift + Con lăn chuột: Quay\nX: Gương nằm ngang\nY: Gương theo chiều dọc\nNhấp chuột giữa: Chuyển sang Luôn ở trên cùng\nDel: Xóa"
+  },
+  "Clear all props": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Props Window/ClearPropButton/Text",
+    "text": "Xóa tất cả đạo cụ"
+  },
+  "Settings": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/ShowPropSettingsButton/Text",
+    "text": "Cài đặt"
+  },
+  "Hide settings": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Props Window/HidePropSettingsButton/Text",
+    "text": "Ẩn cài đặt"
+  },
+  "Distance to avatar": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/Distance adjustment/Text",
+    "text": "Khoảng cách đến hình đại diện"
+  },
+  "Always on top": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/AlwaysOnTopToggle/Label",
+    "text": "Luôn luôn trên đầu"
+  },
+  "Mirror X": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorXButton/Text",
+    "text": "Gương X"
+  },
+  "Mirror Y": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Prop Settings/MirrorYButton/Text",
+    "text": "Gương Y"
+  },
+  "Spout2 image capture support (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Spout2 export/Label",
+    "text": "Hỗ trợ chụp ảnh Spout2 (<u><link=\"https://www.vseeface.icu/spout\">Help</link></u>)"
+  },
+  "VRoid Hub Login": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidHubButton/Text",
+    "text": "Đăng nhập VRoid Hub"
+  },
+  "Not logged in": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLoginStatus",
+    "text": "Chưa đăng nhập"
+  },
+  "Refresh": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/RefreshButton/Text",
+    "text": "Làm mới"
+  },
+  "Character:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/CharacterLabel",
+    "text": "Nhân vật:"
+  },
+  "Model:": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/LabelColumn/ModelLabel",
+    "text": "Model:"
+  },
+  "Local avatars": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/LocalAvatarTab/Text",
+    "text": "Avatar cục bộ"
+  },
+  "VRoid Hub": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/AvatarSourceToggle/VroidHubTab/Text",
+    "text": "VRoid Hub"
+  },
+  "Retrieving characters...": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidAvatarScrollView/RetrievingLabel",
+    "text": "Truy xuất nhân vật..."
+  },
+  "Log out": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidHub/VRoidLogoutButton/Text",
+    "text": "Đăng xuất"
+  },
+  "Send VRChat OSC data (experimental) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VRCSend/Label",
+    "text": "Gửi dữ liệu VRChat OSC (thử nghiệm) <u><link=\"https://www.vseeface.icu/#vrchat\">(?)</link></u>"
+  },
+  "Send before receiving (may not send blendshapes)": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Send early/Label",
+    "text": "Gửi trước khi nhận (có thể không gửi hình dạng pha trộn)"
+  },
+  "I agree to the conditions of use": {
+    "comment": "VSeeFace/Canvas/UI/AvatarSelection/VRoidInformationUI/Permissions/AgreeToggle/Label",
+    "text": "Tôi đồng ý với các điều kiện sử dụng"
+  },
+  "VRH_Conditions of use for this model": {
+    "comment": "Do not translate: Conditions of use for this model/モデルデータの利用条件",
+    "text": "Conditions of use for this model"
+  },
+  "VRH_Required": {
+    "comment": "Do not translate: Necessary/必要",
+    "text": "Necessary"
+  },
+  "VRH_Not required": {
+    "comment": "Do not translate: Unnecessary/不要",
+    "text": "Unnecessary"
+  },
+  "VRH_Disallow": {
+    "comment": "Do not translate: NO/NG",
+    "text": "NO"
+  },
+  "VRH_Allow": {
+    "comment": "Do not translate: YES/OK",
+    "text": "YES"
+  },
+  "VRH_Default": {
+    "comment": "Do not translate: default/-",
+    "text": "-"
+  },
+  "VRH_Profit": {
+    "comment": "Do not translate.",
+    "text": "YES - For-profit use (donations): YES"
+  },
+  "VRH_NonProfit": {
+    "comment": "Do not translate.",
+    "text": "YES - Individual non-profit use"
+  },
+  "VRH_Avatar use:": {
+    "comment": "Do not translate.",
+    "text": "Avatar use:"
+  },
+  "VRH_Violence:": {
+    "comment": "Do not translate.",
+    "text": "Violence:"
+  },
+  "VRH_Sexual acts:": {
+    "comment": "Do not translate.",
+    "text": "Sexual acts:"
+  },
+  "VRH_Corporate use:": {
+    "comment": "Do not translate.",
+    "text": "Corporate use:"
+  },
+  "VRH_Individual commercial use:": {
+    "comment": "Do not translate.",
+    "text": "Individual commercial use:"
+  },
+  "VRH_Alterations:": {
+    "comment": "Do not translate.",
+    "text": "Alterations:"
+  },
+  "VRH_Redistribution:": {
+    "comment": "Do not translate.",
+    "text": "Redistribution:"
+  },
+  "VRH_Attribution:": {
+    "comment": "Do not translate.",
+    "text": "Attribution:"
+  }
+}
