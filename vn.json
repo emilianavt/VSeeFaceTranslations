@@ -874,6 +874,7 @@
   "Stop audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Stop audio/Text",
     "text": "Dừng âm thanh"
+  },
   "Show tracking points": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Show tracking points/Text",
     "text": "Hiển thị điểm theo dõi"
