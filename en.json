@@ -1918,5 +1918,13 @@
   "VRH_Attribution:": {
     "comment": "Do not translate.",
     "text": "Attribution:"
+  },
+  "Track wrists": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track wrists/Label",
+    "text": "Track wrists"
+  },
+  "Apply wrists": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track wrists/Label",
+    "text": "Apply wrists"
   }
 }

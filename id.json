@@ -913,7 +913,7 @@
   },
   "FPS\t?\nTR\t?": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Perf monitor",
-    "text": null
+    "text": "FPS\t?\nTR\t?"
   },
   "New Text": {
     "comment": "LocalizationTools/Dummy/Expression config/Expression title",
@@ -1918,5 +1918,13 @@
   "VRH_Attribution:": {
     "comment": "Do not translate.",
     "text": "Attribution:"
+  },
+  "Track wrists": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track wrists/Label",
+    "text": null
+  },
+  "Apply wrists": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track wrists/Label",
+    "text": null
   }
 }

@@ -1918,5 +1918,13 @@
   "VRH_Attribution:": {
     "comment": "Do not translate.",
     "text": "クレジット表記："
+  },
+  "Track wrists": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive mix/Track wrists/Label",
+    "text": "手首のトラッキング"
+  },
+  "Apply wrists": {
+    "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track wrists/Label",
+    "text": "手首を受信"
   }
 }
