@@ -1397,7 +1397,7 @@
   },
   "Send data with OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC send/Label",
-    "text": "OSC/VMC protocol로 데이터 보내기"
+    "text": "VMC protocol로 데이터 보내기"
   },
   "T-pose for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Label",
@@ -1421,7 +1421,7 @@
   },
   "OSC/VMC protocol receiver (disables tracking)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC receiving/Label",
-    "text": "OSC/VMC에서 데이터 받기 (트래킹 비활성화)"
+    "text": "VMC에서 데이터 받기 (트래킹 비활성화)"
   },
   "Apply VSeeFace tracking": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Mix and match/Label",
@@ -1477,11 +1477,11 @@
   },
   "OSC/<link=\"https://vmc.info/\">VMC protocol</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
-    "text": "OSC/<link=\"https://vmc.info/\">VMC 프로토콜</link>"
+    "text": "<link=\"https://vmc.info/\">VMC 프로토콜</link>"
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
-    "text": "보조 OSC/VMC 프로토콜 수신"
+    "text": "보조 VMC 프로토콜 수신"
   },
   "Apply blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",

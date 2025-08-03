@@ -1397,7 +1397,7 @@
   },
   "Send data with OSC/VMC protocol": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC send/Label",
-    "text": "Отправлять данные через OSC/VMC"
+    "text": "Отправлять данные через VMC"
   },
   "T-pose for calibration": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC send settings/Label",
@@ -1421,7 +1421,7 @@
   },
   "OSC/VMC protocol receiver (disables tracking)": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable VMC receiving/Label",
-    "text": "Приёмник OSC/VMC (отключает отслеживание)"
+    "text": "Приёмник VMC (отключает отслеживание)"
   },
   "Apply VSeeFace tracking": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/VMC receive settings/Mix and match/Label",
@@ -1477,11 +1477,11 @@
   },
   "OSC/<link=\"https://vmc.info/\">VMC protocol</link>": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/OSC/VMC protocol",
-    "text": "OSC/<link=\"https://vmc.info/\">VMC протокол</link>"
+    "text": "<link=\"https://vmc.info/\">VMC протокол</link>"
   },
   "Secondary OSC/VMC protocol receiver": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Secondary VMC receiver/Label",
-    "text": "Вторичный приёмник OSC/VMC протокола"
+    "text": "Вторичный приёмник VMC протокола"
   },
   "Apply blendshapes": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/2nd VMC receive mix/Track blendshapes/Label",
